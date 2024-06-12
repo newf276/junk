@@ -1,11 +1,11 @@
 ptv.xml
-https://github.com/newf276/iptv-cutter/raw/master/ptv.xml
+https://github.com/newf276/junk/raw/master/ptv.xml
 
 rtv.xml
-https://github.com/newf276/iptv-cutter/raw/master/rtv.xml
+https://github.com/newf276/junk/raw/master/rtv.xml
 
 ourguide.xml
-https://github.com/newf276/iptv-cutter/raw/master/ourguide.xml
+https://github.com/newf276/junk/raw/master/ourguide.xml
 
 
 
