@@ -4,9 +4,5 @@ https://github.com/newf276/junk/raw/master/ptv.xml
 rtv.xml
 https://github.com/newf276/junk/raw/master/rtv.xml
 
-ourguide.xml
-https://github.com/newf276/junk/raw/master/ourguide.xml
-
-
-
-
+pooVcAFgfH.xml
+https://www.bevy.be/generate/pooVcAFgfH.xml
