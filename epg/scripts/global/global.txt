@@ -5,4 +5,4 @@ rtv.xml
 https://github.com/newf276/junk/raw/master/rtv.xml
 
 pooVcAFgfH.xml
-https://www.bevy.be/generate/pooVcAFgfH.xml
+https://github.com/newf276/junk/raw/master/pooVcAFgfH.xml
