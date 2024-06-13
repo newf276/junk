@@ -2,7 +2,7 @@ name: extract a zip file
 on:
   push:
     paths:
-    - 'junk/**.zip'
+    - '/**.zip'
   workflow_dispatch:
     jobs:
       unzip:
@@ -13,7 +13,7 @@ on:
           - uses: actions/checkout@v4
           - name:
             run: |
-              rm -r junk/extracted
+              rm -r /extracted
               filename=$(basename -s .zip *.zip)
               unzip *.zip
               rm *.zip
