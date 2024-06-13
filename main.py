@@ -132,7 +132,7 @@ except requests.exceptions.RequestException as e:
     print("Error making GET request:", e)
     
 xml = f"https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
-output_xml = "epg-CA1.xml"
+output_xml = "epg-CA1.xml.gz"
 
 try:
     response = requests.get(xml)
