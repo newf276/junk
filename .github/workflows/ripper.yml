@@ -12,10 +12,10 @@ jobs:
       run: |
         echo Downloading Files...
         exec 3>&1 &>/dev/null
-        cd /home/runner/work/newf276/junk/pull/
+        cd newf276/junk/pull/
         openssl aes-256-cbc -in keys.txt.enc -out keys.txt -d -pass pass:${{ secrets.KEY }}
         base64 --decode keys.txt > keys.txt.1
         rm keys.txt ; mv keys.txt.1 keys.txt
         cat keys.txt download.sh > temp.txt ; mv temp.txt file2.txt ; rm download.sh ; mv file2.txt download.sh ; chmod +x download.sh
-        /home/runner/work/newf276/junk/pull/download.sh
+        /newf276/junk/pull/download.sh
 
