@@ -10,8 +10,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: Downloading ripper file...
       run: |
-        echo Downloading Files...
-        exec 3>&1 &>/dev/null
         cd /newf276/junk/pull/
         chmod +x download.sh
         /newf276/junk/pull/download.sh
