@@ -35,8 +35,8 @@ try:
 except requests.exceptions.RequestException as e:
     print("Error making GET request:", e)
 
-xml = f"https://www.bevy.be/generate/pooVcAFgfH.xml"
-output_xml = "pooVcAFgfH.xml"
+xml = f"https://tinyurl.com/newf276"
+output_xml = "ourguide.xml"
 
 try:
     response = requests.get(xml)
