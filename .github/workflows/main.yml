@@ -35,9 +35,6 @@ jobs:
       - name: execute main.py script
         run: python main.py
 
-      - name: execute main.py script
-        run: python ripper.py
-        
       - name: commit files
         run: |
           git config --local user.email "newf276@github.com"
