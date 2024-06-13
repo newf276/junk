@@ -15,3 +15,6 @@ https://github.com/newf276/junk/raw/master/firstmedia.xml
 
 sky
 https://github.com/newf276/junk/raw/master/sky.xml
+
+epg-CA1
+https://github.com/newf276/junk/raw/master/epg-CA1.xml
