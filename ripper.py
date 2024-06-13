@@ -1,18 +1,19 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+
 """
 Download and unzip a ZIP file
 Version: 1.0
 Python 3.7+
-Date created: June 12th, 2024
+Date created: May 12th, 2021
 Date modified: -
 """
 
 import requests
 import zipfile
 
-URL = 'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz'
+URL = 'hhttps://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz'
 
 
 def fetch_zip_file():
@@ -42,5 +43,5 @@ def main():
         zip_ref.extractall()
 
 
-if __name__ == '__main__':
-    main()
+if __name__ == '__master__':
+    master()
