@@ -130,7 +130,3 @@ try:
         print(f"Failed to retrieve data. Status code: {response.status_code}")
 except requests.exceptions.RequestException as e:
     print("Error making GET request:", e)
-    
-    
-    
-    https://xmltv.tvkaista.net/guides/sky.com.xml
