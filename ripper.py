@@ -13,7 +13,7 @@ Date modified: -
 import requests
 import zipfile
 
-URL = 'hhttps://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz'
+URL = 'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz'
 
 
 def fetch_zip_file():
