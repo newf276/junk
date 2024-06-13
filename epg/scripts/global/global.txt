@@ -17,4 +17,4 @@ sky
 https://github.com/newf276/junk/raw/master/sky.xml
 
 epg-CA1
-https://github.com/newf276/junk/raw/master/epg_ripper_CA1.xml
+https://github.com/newf276/junk/pull/raw/master/epg_ripper_CA1.xml
