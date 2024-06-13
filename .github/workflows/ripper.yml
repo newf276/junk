@@ -12,5 +12,4 @@ jobs:
       run: |
         cd /home/runner/work/newf276/junk/pull/
         chmod +x download.sh
-        /home/runner/work/newf276/junk/pull/download.sh
-
+        bash ./download.sh
