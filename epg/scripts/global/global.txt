@@ -10,6 +10,9 @@ https://github.com/newf276/junk/raw/master/ourguide.xml
 ontvtonight
 https://github.com/newf276/junk/raw/master/ontvtonight.xml
 
+ontvtonight_us
+https://xmltv.tvkaista.net/guides/ontvtonight.com_us.xml
+
 firstmedia
 https://github.com/newf276/junk/raw/master/firstmedia.xml
 
