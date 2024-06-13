@@ -1,12 +1,27 @@
-import requests
-import zipfile
-
-xml = f"https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
-output_xml = "epg_ripper_CA1.xml.gz"
-
-    with zipfile.ZipFile('epg_ripper_CA1.xml.gz.zip', 'r') as zip_ref:
-        zip_ref.extractall()
-
-
-if __name__ == '__master__':
-    master()
+name: extract a zip file
+on:
+  push:
+    paths:
+    - 'junk/**.zip'
+  workflow_dispatch:
+    jobs:
+      unzip:
+        runs-on: ubuntu-latest
+        permissions:
+          contents: write
+        steps:
+          - uses: actions/checkout@v4
+          - name:
+            run: |
+              rm -r junk/extracted
+              filename=$(basename -s .zip *.zip)
+              unzip *.zip
+              rm *.zip
+              mv $filename temp
+              mv temp/out/* .
+              rm -r temp
+              git config --local user.email "github-actions@users.noreply.github.com"
+              git config --local user.name "github-actions"
+              git add .
+              git commit -m "unzip"
+              git push origin main 

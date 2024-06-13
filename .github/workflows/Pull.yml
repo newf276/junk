@@ -1,4 +1,4 @@
-name: Guide-Pull
+name: Make
 on:
   schedule:
     - cron: '15 */8 * * *'
