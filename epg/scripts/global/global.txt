@@ -4,20 +4,5 @@ https://github.com/newf276/junk/raw/master/ptv.xml
 rtv
 https://github.com/newf276/junk/raw/master/rtv.xml
 
-ontvtonight_us
-https://github.com/newf276/junk/raw/master/ontvtonight_us.xml
-
-firstmedia
-https://github.com/newf276/junk/raw/master/firstmedia.xml
-
-sky
-https://github.com/newf276/junk/raw/master/sky.xml
-
-aqfad.xml
-https://github.com/newf276/junk/raw/master/aqfad.xml
-
-tvhebdo
-https://github.com/newf276/junk/raw/master/tvhebdo.xml
-
-pooVcAFgfH
-https://github.com/newf276/junk/raw/master/pooVcAFgfH.xml
+acidj
+https://github.com/newf276/junk/raw/master/acidj.xml
