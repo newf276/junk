@@ -1,4 +1,4 @@
-name: Make House Guide
+name: Make House Programme
 on:
   schedule:
     - cron: '15 */8 * * *'
