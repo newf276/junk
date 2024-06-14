@@ -24,7 +24,7 @@ jobs:
           git config --global user.name "newf276"
       - name: generate
         run: |
-          cd home/scripts
+          cd programme/scripts
           pwd
           echo "Installing dependencies..."
           python3 -m pip install lxml pgzip requests
