@@ -1,4 +1,4 @@
-name: Pull all External xmls
+name: Pull all External Programmes
 on:
   schedule:
     - cron: '0 */8 * * *'
@@ -40,7 +40,7 @@ jobs:
           git config --local user.email "newf276@github.com"
           git config --local user.name "newf276"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Updated M3U files on ${{ steps.date.outputs.date }}" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Updated files on ${{ steps.date.outputs.date }}" --allow-empty)
 
 
       - name: push changes

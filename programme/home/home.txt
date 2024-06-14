@@ -1,0 +1,9 @@
+ptv
+https://github.com/newf276/junk/raw/master/ptv.xml
+
+rtv
+https://github.com/newf276/junk/raw/master/rtv.xml
+
+newf
+https://github.com/newf276/junk/raw/master/newf.xml
+

@@ -1,8 +1,0 @@
-ptv
-https://github.com/newf276/junk/raw/master/ptv.xml
-
-rtv
-https://github.com/newf276/junk/raw/master/rtv.xml
-
-Cweb
-https://github.com/newf276/junk/raw/master/pooVcAFgfH.xml
