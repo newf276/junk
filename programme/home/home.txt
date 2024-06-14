@@ -1,5 +1,11 @@
-ptv
-https://github.com/newf276/junk/raw/master/ptv.xml
+ptv_ca
+https://github.com/newf276/junk/raw/master/ptv_ca.xml
+
+ptv_gb
+https://github.com/newf276/junk/raw/master/ptv_gb.xml
+
+ptv_gb
+https://github.com/newf276/junk/raw/master/ptv_us.xml
 
 rtv
 https://github.com/newf276/junk/raw/master/rtv.xml
