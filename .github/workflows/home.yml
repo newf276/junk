@@ -24,12 +24,12 @@ jobs:
           git config --global user.name "newf276"
       - name: generate
         run: |
-          cd home/programme/
+          cd programme/
           pwd
           echo "Installing dependencies..."
           python3 -m pip install lxml pgzip requests
           echo "Generating Programme..."
-          python3 -u index.py -zo home.xml --source="home/programme/home.txt" --gen-name="tvepg" --gen-url="tvepg.com"
+          python3 -u index.py -zo home.xml --source="programme/home.txt" --gen-name="tvepg" --gen-url="tvepg.com"
           mv -v home.xml.gz ..
           cd ../..
       - name: commit

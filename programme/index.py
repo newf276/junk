@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+# EPG merger
+# Created by:  @thefirefox12537
+
 import re
 import glob
 import json
