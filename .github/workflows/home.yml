@@ -29,11 +29,11 @@ jobs:
           echo "Installing dependencies..."
           python3 -m pip install lxml pgzip requests
           echo "Generating EPG..."
-          python3 -u index.py -zo guide.xml --source="home/home.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
-          mv -v guide.xml.gz ..
+          python3 -u index.py -zo home.xml --source="home/home.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+          mv -v home.xml.gz ..
           cd ../..
       - name: commit
         run: |
           git add -A
-          git commit -m "Generate EPG every day"
+          git commit -m "Make Home Programme"
           git push
