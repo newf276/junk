@@ -20,19 +20,20 @@ jobs:
       - name: config
         run: |
           git pull
-          git config --global user.email "newf276@free.com"
+          git config --global user.email "newf@gmail.com"
           git config --global user.name "newf276"
       - name: generate
         run: |
+          cd home/scripts
           pwd
           echo "Installing dependencies..."
           python3 -m pip install lxml pgzip requests
-          echo "Generating Programme..."
-          python3 -u index.py -zo home.xml --source="home.txt" --gen-name="tvepg" --gen-url="tvepg.com"
-          mv -v home.xml.gz ..
+          echo "Generating EPG..."
+          python3 -u index.py -zo guide.xml --source="home/home.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+          mv -v guide.xml.gz ..
           cd ../..
       - name: commit
         run: |
           git add -A
-          git commit -m "Generate Home Programme"
+          git commit -m "Generate EPG every day"
           git push
