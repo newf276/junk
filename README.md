@@ -1,11 +1,11 @@
 ## What is this?
-- iptv-cutter
+- Personal programme files for playlist
 
 ## What does it do?
-- Cuts out channels from popular iptv sources to declutter them
+- Merges all programme files
 
 ## Why?
-- A lot of services share common channels that show the same programming, so this removes them. It also removes categories/channels I'd never watch too.
+- Keeps programme file small in size
 
 ## Can I contribute?
-- Not to this repo, but feel free to fork it and edit to how you please. There's a GitHub action that builds the playlists.
+- No thank you this is for my own files.
