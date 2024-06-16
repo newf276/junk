@@ -70,9 +70,9 @@ try:
         print(f"Failed to retrieve data. Status code: {response.status_code}")
 except requests.exceptions.RequestException as e:
     print("Error making GET request:", e)
-    
-xml = f"https://tinyurl.com/newf276"
-output_xml = "newf.xml"
+
+xml = f"https://github.com/newf276/xmltv-epg/releases/latest/download/epg-ontvtonight.xml"
+output_xml = "ontvtonight.xml"
 
 try:
     response = requests.get(xml)
@@ -86,6 +86,20 @@ try:
         print(f"Failed to retrieve data. Status code: {response.status_code}")
 except requests.exceptions.RequestException as e:
     print("Error making GET request:", e)
+    
+xml = f"https://github.com/newf276/xmltv-epg/releases/latest/download/epg-sky.xml"
+output_xml = "sky.xml"
 
+try:
+    response = requests.get(xml)
+    if response.status_code == 200:
+        print("GET request successful.")
 
+        with open(output_xml, "w") as f:
+            f.write(response.text)
+            print(f"Response saved to {output_xml}")
+    else:
+        print(f"Failed to retrieve data. Status code: {response.status_code}")
+except requests.exceptions.RequestException as e:
+    print("Error making GET request:", e)
 
