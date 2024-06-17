@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Org Grab
+name: XMLTV Grab
 
 # Controls when the workflow will run
 on:
@@ -37,7 +37,7 @@ jobs:
       - name: NPM Install
         working-directory: ./epg
         run: npm install
-      - name: Grab EPG
+      - name: Grap EPG
         working-directory: ./epg
         run: npm run grab -- --maxConnections 8 --site=${{ matrix.site }} --lang=${{ matrix.lang }} --gzip -o ${{ matrix.name }}.xml 
 
