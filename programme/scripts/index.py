@@ -19,7 +19,6 @@ parser = argparse.ArgumentParser();
 parser.add_argument('--source', required=True, help='EPG source');
 parser.add_argument('-o', '--output', required=True, help='EPG output');
 parser.add_argument('-t', '--norm-tmp', action='store_true', help='Do not remove temporary files');
-parser.add_argument('-z', '--compress', action='store_true', help='With GZip compressing');
 gen_info = parser.add_argument_group('(Optional) EPG Generated Information');
 gen_info.add_argument('--gen-name', help='Generated name');
 gen_info.add_argument('--gen-url', help='Generated URL');
@@ -27,10 +26,6 @@ args = parser.parse_args();
 
 tmpdir = os.environ['TEMP'] if platform.system() == 'Windows' else ('{}' if os.path.isdir('{}') else '/var{}').format('/tmp');
 tmpdir = tmpdir if os.path.isdir(tmpdir) else os.sep.join(['..', 'tmp']);
-
-epg_output = args.output + ('.gz' if args.compress else '');
-epg_open = pgzip.open if args.compress else open;
-epg_opt = {'mode': 'wb', 'thread': 0, 'blocksize': 2*10**8} if args.compress else {'mode': 'wb'};
 
 def merge(tree, tagname, attrib):
   print(f'Merging {tagname}...');
