@@ -1,0 +1,55 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Org Grab
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+    
+permissions:
+  contents: write
+  
+jobs:
+  configure:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - name: Checkout to repository
+        uses: actions/checkout@v4
+      - name: Set matrix data
+        id: set-matrix
+        run: echo "matrix=$(jq -c . < ./providers.json)" >> $GITHUB_OUTPUT
+
+        
+  grab:
+    runs-on: ubuntu-latest
+    needs: configure
+    strategy:
+      matrix: ${{ fromJson(needs.configure.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+        with: 
+          repository: newf276/junk/epg
+          path: epg
+      - name: NPM Install
+        working-directory: ./junk/epg
+        run: npm install
+      - name: Grab EPG
+        working-directory: ./junk/epg
+        run: npm run grab -- --maxConnections 8 --site=${{ matrix.site }} --lang=${{ matrix.lang }} --gzip -o ${{ matrix.name }}.xml 
+
+      - run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+      
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          repository: newf276/junk
+          tag_name: '${{ env.DATE }}'
+          files: |
+            epg/epg-*.xml
+            epg/epg-*.xml.gz
