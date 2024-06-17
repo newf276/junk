@@ -35,10 +35,10 @@ jobs:
           repository: newf276/junk
           path: junk/epg
       - name: NPM Install
-        working-directory: ./epg
+        working-directory: ./
         run: npm install
       - name: Grab EPG
-        working-directory: ./epg
+        working-directory: ./
         run: npm run grab -- --maxConnections 8 --site=${{ matrix.site }} --lang=${{ matrix.lang }} --gzip -o ${{ matrix.name }}.xml 
 
       - run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
