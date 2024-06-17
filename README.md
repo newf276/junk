@@ -1,11 +1,16 @@
-## What is this?
-- Personal programme files for playlist
+# junk
 
-## What does it do?
-- Merges all programme files
+Provide daily EPG for selected websites using [iptv-org/epg](https://github.com/iptv-org/epg)
 
-## Why?
-- Keeps programme file small in size
+### Current Guides:
 
-## Can I contribute?
-- No thank you this is for my own files.
+|      Guides     |                  English  xml or zipped             |
+|-----------------|:-----------------------------------------:|
+|   ontvtonight   | [xml][epg-ontvtonight-xml] - [gzip][epg-ontvtonight-gzip] |
+|   Sky           | [xml][epg-sky-xml] - [gzip][epg-sky-gzip] |
+
+[epg-ontvtonight-xml]: https://github.com/newf276/junk/releases/latest/download/epg-ontvtonight.xml
+[epg-sky-xml]: https://github.com/newf276/junk/releases/latest/download/epg-sky.xml
+[epg-ontvtonight-gzip]: https://github.com/newf276/junk/releases/latest/download/epg-ontvtonight.xml.gz
+[epg-sky-gzip]: https://github.com/newf276/junk/releases/latest/download/epg-sky.xml.gz
+
