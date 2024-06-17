@@ -7,5 +7,14 @@ https://github.com/newf276/junk/releases/latest/download/epg-sky.xml
 tvguide
 https://github.com/newf276/junk/releases/latest/download/epg-tvguide.xml
 
-i-mjh-nz
-https://github.com/newf276/junk/releases/latest/download/epg-i-mjh-nz.xml
+ptv_ca
+https://github.com/newf276/junk/raw/master/ptv_ca.xml
+
+ptv_gb
+https://github.com/newf276/junk/raw/master/ptv_gb.xml
+
+ptv_us
+https://github.com/newf276/junk/raw/master/ptv_us.xml
+
+rtv
+https://github.com/newf276/junk/raw/master/rtv.xml
