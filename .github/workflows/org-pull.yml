@@ -6,7 +6,7 @@ name: Org Pull
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '20 */8 * * *'
     
 permissions:
   contents: write
