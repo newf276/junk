@@ -11,10 +11,10 @@ rtv
 https://github.com/newf276/junk/raw/master/rtv.xml
 
 ontvtonight
-https://github.com/newf276/xmltv-epg/releases/latest/download/epg-ontvtonight.xml
+https://github.com/newf276/junk/releases/latest/download/epg-ontvtonight.xml
 
 sky
-https://github.com/newf276/xmltv-epg/releases/latest/download/epg-sky.xml
+https://github.com/newf276/junk/releases/latest/download/epg-sky.xml
 
 tvguide
-https://github.com/newf276/xmltv-epg/releases/latest/download/epg-tvguide.xml
+https://github.com/newf276/junk/releases/latest/download/epg-tvguide.xml
