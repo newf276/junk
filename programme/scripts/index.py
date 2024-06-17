@@ -11,7 +11,7 @@ import logging
 import argparse
 import threading
 import platform, os, sys
-import lxml.etree as et
+
 
 parser = argparse.ArgumentParser();
 parser.add_argument('--source', required=True, help='EPG source');
