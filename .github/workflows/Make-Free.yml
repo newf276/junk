@@ -28,7 +28,7 @@ jobs:
           pwd
           echo "Installing dependencies..."
           echo "Generating Programme..."
-          python3 -u index.py --source="free/free.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+          python3 -u index.py -o guide.xml --source="free/free.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
           mv -v free.xml ..
           cd ../..
       - name: commit
