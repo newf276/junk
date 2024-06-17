@@ -1,4 +1,4 @@
-name: Pull all External Programmes
+name: Pull Main Programmes
 on:
   schedule:
     - cron: '10 */8 * * *'
