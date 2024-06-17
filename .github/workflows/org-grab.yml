@@ -33,12 +33,12 @@ jobs:
       - uses: actions/checkout@v4
         with: 
           repository: newf276/junk
-          path: epg
+          path: junk/epg
       - name: NPM Install
-        working-directory: ./epg
+        working-directory: ./junk/epg
         run: npm install
       - name: Grab EPG
-        working-directory: ./epg
+        working-directory: ./junk/epg
         run: npm run grab -- --maxConnections 8 --site=${{ matrix.site }} --lang=${{ matrix.lang }} --gzip -o ${{ matrix.name }}.xml 
 
       - run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
