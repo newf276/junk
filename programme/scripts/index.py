@@ -9,7 +9,6 @@ import json
 import shutil
 import logging
 import argparse
-import requests
 import threading
 import platform, os, sys
 import lxml.etree as et
