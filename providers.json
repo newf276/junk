@@ -11,10 +11,14 @@
       "lang": "en"
     },
     {
+      "name": "epg-i-mjh-nz",
+      "site": "i.mjh.nz",
+      "lang": "en"
+    },
+    {
       "name": "epg-ontvtonight",
       "site": "ontvtonight.com",
       "lang": "en"
     }
   ]
 }
-
