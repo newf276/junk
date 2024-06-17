@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<channels>
-  <channel site="content.astro.com.my" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="374">Al Jazeera English HD</channel>
-  <channel site="content.astro.com.my" lang="en" xmltv_id="BBCNewsAsiaPacific.uk" site_id="366">BBC News HD</channel>
-  <channel site="content.astro.com.my" lang="en" xmltv_id="CGTN.cn" site_id="426">CGTN HD</channel>
-  <channel site="content.astro.com.my" lang="en" xmltv_id="DWEnglish.de" site_id="287">DW English</channel>
-  <channel site="content.astro.com.my" lang="en" xmltv_id="France24English.fr" site_id="289">France24</channel>
-  <channel site="content.astro.com.my" lang="en" xmltv_id="SkyNews.uk" site_id="155">Sky News HD</channel>
-</channels>
