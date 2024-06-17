@@ -32,7 +32,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: 
-          repository: newf276/junk/epg
+          repository: newf276/junk/
           path: junk/epg
       - name: NPM Install
         working-directory: ./junk/epg
