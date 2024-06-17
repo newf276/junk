@@ -28,7 +28,8 @@ args = parser.parse_args();
 tmpdir = os.environ['TEMP'] if platform.system() == 'Windows' else ('{}' if os.path.isdir('{}') else '/var{}').format('/tmp');
 tmpdir = tmpdir if os.path.isdir(tmpdir) else os.sep.join(['..', 'tmp']);
 
-
+epg_output = args.output + ('.gz' if args.compress else '');
+epg_open = pgzip.open if args.compress else open;
 epg_opt = {'mode': 'wb', 'thread': 0, 'blocksize': 2*10**8} if args.compress else {'mode': 'wb'};
 
 def merge(tree, tagname, attrib):
