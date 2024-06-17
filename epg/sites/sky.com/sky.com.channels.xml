@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="sky.com" lang="en" xmltv_id="AlJazeeraEnglish.qa" site_id="1023">Al Jazeera HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCNews.uk" site_id="2011">BBC NEWS</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCNewsHD.uk" site_id="2085">BBC NEWS HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="EuronewsEnglish.fr" site_id="4604">Euronews</channel>
+  <channel site="sky.com" lang="en" xmltv_id="France24English.fr" site_id="1121">FRANCE 24 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="SkyNature.uk" site_id="1194">Sky Nature</channel>
+  <channel site="sky.com" lang="en" xmltv_id="SkyNews.uk" site_id="1404">Sky News</channel>
+  <channel site="sky.com" lang="en" xmltv_id="SkyNewsHD.uk" site_id="4050">Sky News HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TRTWorld.tr" site_id="5071">TRT World</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TRTWorldHD.tr" site_id="5237">TRT World HD</channel>
+</channels>
