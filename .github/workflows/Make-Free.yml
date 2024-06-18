@@ -29,7 +29,9 @@ jobs:
           echo "Installing dependencies..."
           python3 -m pip install lxml pgzip requests
           echo "Generating Programme..."
-          python3 index.py free.xml free/free.txt "action@github.com" "GitHub Action"
+          python3 index.py free.xml free/free.txt 
+          source="home/home.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+          "action@github.com" "GitHub Action"
           "GitHub Action"
           gzip -9 -f free.xml
           cd ..
