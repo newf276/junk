@@ -6,7 +6,7 @@
 import re
 import glob
 import json
-import pgzip
+import gzip
 import shutil
 import logging
 import argparse
