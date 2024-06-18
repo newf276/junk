@@ -27,7 +27,7 @@ def merge(tree, tagname, attrib):
                         for read in open(epgid).readlines():
                             rmeof = read.strip().split(",")
                             if child.attrib[attrib] == rmeof[0]:
-                                child.attrib[attrib] = rmeof[1] 
+                                child.attrib[attrib] = rmeof[1]
                     tree.append(child)
         except:
             print('Skipping:', file)
