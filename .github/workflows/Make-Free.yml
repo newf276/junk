@@ -25,8 +25,8 @@ jobs:
           [ ! -d global ] && mkdir -v global/
           [ ! -d local ] && mkdir -v local/
           python3 -m pip install lxml
-          echo "Generating EPG for main playlist..."
-          python3 scripts/index.py guide.xml scripts/main/main.txt "iptv.nng.cloudns.us Playlist" "http://iptv.nng.cloudns.us"
+          echo "Generating EPG for free playlist..."
+          python3 scripts/index.py guide.xml scripts/free/free.txt "iptv.nng.cloudns.us Playlist" "http://iptv.nng.cloudns.us"
           gzip -9 guide.xml
           mv -v guide.xml.gz global/
           echo "Generating EPG for local playlist..."
