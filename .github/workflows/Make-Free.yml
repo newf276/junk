@@ -25,7 +25,8 @@ jobs:
           python3 -m pip install lxml
           echo "Generating EPG for free playlist..."
           python3 index.py guide.xml free/free.txt 
-          mv -v guide.xml free/
+          gzip -0 guide.xml
+          mv -v guide.xml.gz free/
           cd ..
       - name: commit
         run: |
