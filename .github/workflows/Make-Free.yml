@@ -1,7 +1,7 @@
 name: Make Free Programme
 on:
   schedule:
-    - cron: '10 */8 * * *'
+    - cron: '00 00-12/6 * * *'
   pull_request:
     branches:
       - master
@@ -13,27 +13,28 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
-      - name: setup python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.11
       - name: config
         run: |
           git pull
-          git config --global user.email "newf@gmail.com"
-          git config --global user.name "newf276"
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
       - name: generate
         run: |
           cd programme/scripts
-          pwd
+          pwd       
           echo "Installing dependencies..."
-          python3 -m pip install lxml pgzip requests
-          echo "Generating EPG..."
-          python3 -u index.py -zo free.xml --source="free/free.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
-          mv -v free.xml.gz ..
-          cd ../..
+          python3 -m pip install lxml
+          echo "Generating Programme..."
+          python3 scripts/index.py guide.xml scripts/main/main.txt "action@github.com" "GitHub Action"
+          sleep 3
+          python3 scripts/index.py free.xml scripts/free/free.txt "action@github.com" "GitHub Action"
+          "GitHub Action"
+          gzip -9 -f free.xml
+          cd ..
       - name: commit
         run: |
           git add -A
           git commit -m "Make Free Programme"
           git push
+
+
