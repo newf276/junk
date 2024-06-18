@@ -24,8 +24,8 @@ jobs:
           pwd
           python3 -m pip install lxml
           echo "Generating EPG for free playlist..."
-          python3 index.py guide.xml free/free.txt "iptv.nng.cloudns.us Playlist" "http://iptv.nng.cloudns.us"
-          gzip -9 guide.xml
+          python3 index.py guide.xml free/free.txt 
+          mv -v guide.xml free/
           cd ..
       - name: commit
         run: |
