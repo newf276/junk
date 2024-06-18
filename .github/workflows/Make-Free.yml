@@ -25,9 +25,9 @@ jobs:
           echo "Installing dependencies..."
           python3 -m pip install lxml
           echo "Generating Programme..."
-          python3 scripts/index.py guide.xml scripts/main/main.txt "action@github.com" "GitHub Action"
+          python3 index.py guide.xml free/free.txt "action@github.com" "GitHub Action"
           sleep 3
-          python3 index.py free.xml scripts/free/free.txt "action@github.com" "GitHub Action"
+          python3 index.py free.xml free/free.txt "action@github.com" "GitHub Action"
           "GitHub Action"
           gzip -9 -f free.xml
           cd ..
