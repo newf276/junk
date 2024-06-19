@@ -2,7 +2,7 @@ import requests
 
 country = "epg"
 xml = f"https://i.mjh.nz/Roku/{country}.xml"
-output_xml = "rtv.xml"
+output_xml = "programme/rtv.xml"
     
 try:
     response = requests.get(xml)
@@ -20,7 +20,7 @@ except requests.exceptions.RequestException as e:
 
 country = "ca"
 xml = f"https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/{country}.xml"
-output_xml = "ptv_ca.xml"
+output_xml = "programme/ptv_ca.xml"
 
 try:
     response = requests.get(xml)
@@ -38,7 +38,7 @@ except requests.exceptions.RequestException as e:
 
 country = "gb"
 xml = f"https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/{country}.xml"
-output_xml = "ptv_gb.xml"
+output_xml = "programme/ptv_gb.xml"
 
 try:
     response = requests.get(xml)
@@ -56,7 +56,7 @@ except requests.exceptions.RequestException as e:
 
 country = "us"
 xml = f"https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/{country}.xml"
-output_xml = "ptv_us.xml"
+output_xml = "programme/ptv_us.xml"
 
 try:
     response = requests.get(xml)
@@ -72,7 +72,7 @@ except requests.exceptions.RequestException as e:
     print("Error making GET request:", e)
 
     xml = f"https://tinyurl.com/newf276"
-output_xml = "ourguide.xml"
+output_xml = "programme/ourguide.xml"
 
 try:
     response = requests.get(xml)
