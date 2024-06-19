@@ -1,8 +1,8 @@
 ourguide
-https://opop.pro/L6S34ajE6hR8n/?days=2
-
-rtv
-https://github.com/newf276/junk/raw/master/programme/rtv.xml
+https://tinyurl.com/newf276
 
 ptv
-https://github.com/newf276/junk/raw/master/programme/ptv.xml
+https://i.mjh.nz/PlutoTV/all.xml
+
+rtv
+https://i.mjh.nz/Roku/epg.xml
