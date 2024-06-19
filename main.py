@@ -36,20 +36,4 @@ except requests.exceptions.RequestException as e:
     print("Error making GET request:", e)
 
 
-    xml = f"https://opop.pro/L6S34ajE6hR8n/?days=2"
-output_xml = "programme/ourguide.xml"
-
-try:
-    response = requests.get(xml)
-    if response.status_code == 200:
-        print("GET request successful.")
-
-        with open(output_xml, "w") as f:
-            f.write(response.text)
-            print(f"Response saved to {output_xml}")
-    else:
-        print(f"Failed to retrieve data. Status code: {response.status_code}")
-except requests.exceptions.RequestException as e:
-    print("Error making GET request:", e)
-
 
