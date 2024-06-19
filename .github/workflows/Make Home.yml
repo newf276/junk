@@ -1,7 +1,7 @@
 name: Make Home Programme
 on:
   schedule:
-    - cron: '10 */9 * * *'
+    - cron: '30 */6 * * *'
   pull_request:
     branches:
       - master
@@ -37,5 +37,5 @@ jobs:
       - name: commit
         run: |
           git add -A
-          git commit -m "Make Home Programme"
+          git commit -m "Make home Programme"
           git push
