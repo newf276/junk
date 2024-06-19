@@ -71,7 +71,7 @@ try:
 except requests.exceptions.RequestException as e:
     print("Error making GET request:", e)
 
-    xml = f"https://opop.pro/L6S34ajE6hR8n"
+    xml = f"https://opop.pro/xzfEKUAKfCYS"
 output_xml = "programme/ourguide.xml"
 
 try:
