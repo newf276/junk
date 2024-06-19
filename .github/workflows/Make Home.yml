@@ -31,7 +31,7 @@ jobs:
           echo "Generating EPG..."
           python3 -u index.py -zo home.xml --source="home/home.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
           mv -v home.xml.gz ..
-          cd programme/scripts/output
+          cd ../..
       - name: commit
         run: |
           git add -A
