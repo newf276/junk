@@ -31,8 +31,6 @@ jobs:
           echo "Generating EPG..."
           python3 -u index.py -zo free.xml --source="free/free.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
           mv -v free.xml.gz ..
-          python3 -u index.py -to free.xml --source="free/free.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
-          mv -v free.xml ..
           cd ../..
       - name: commit
         run: |
