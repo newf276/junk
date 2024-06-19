@@ -1,4 +1,4 @@
-name: Make Home Programme
+name: 3. Make Home Programme
 on:
   schedule:
     - cron: '10 00-12/6 * * *'

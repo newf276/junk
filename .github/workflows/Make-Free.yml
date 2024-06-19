@@ -1,4 +1,4 @@
-name: Make Free Programme
+name: 4. Make Free Programme
 on:
   schedule:
     - cron: '15 00-12/6 * * *'
