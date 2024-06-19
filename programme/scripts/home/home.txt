@@ -1,14 +1,14 @@
 newf
-http://xtream-ie.com/xmltv.php?username=h5h4jHUuGkgE&password=7sTVShFXp1
+https://github.com/newf276/junk/raw/master/programme/ourguide.xml
 
 ptv_ca
-https://raw.githubusercontent.com/newf276/junk/master/programme/ptv_ca.xml
+https://github.com/newf276/junk/raw/master/programme/ptv_ca.xml
 
 ptv_gb
-https://raw.githubusercontent.com/newf276/junk/master/programme/ptv_gb.xml
+https://github.com/newf276/junk/raw/master/programme/ptv_gb.xml
 
 ptv_us
-https://raw.githubusercontent.com/newf276/junk/master/programme/ptv_us.xml
+https://github.com/newf276/junk/raw/master/programme/ptv_us.xml
 
 rtv
-https://raw.githubusercontent.com/newf276/junk/master/programme/rtv.xml
+https://github.com/newf276/junk/raw/master/programme/rtv.xml

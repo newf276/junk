@@ -1,7 +1,7 @@
-name: 4. Make Free Programme
+name: Make Free Programme
 on:
   schedule:
-    - cron: '15 00-12/6 * * *'
+    - cron: '30 */6 * * *'
   pull_request:
     branches:
       - master
@@ -31,6 +31,8 @@ jobs:
           echo "Generating EPG..."
           python3 -u index.py -zo free.xml --source="free/free.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
           mv -v free.xml.gz ..
+          python3 -u index.py -to free.xml --source="free/free.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+          mv -v free.xml ..
           cd ../..
       - name: commit
         run: |
