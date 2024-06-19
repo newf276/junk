@@ -8,7 +8,7 @@ tvguide
 https://github.com/newf276/junk/releases/latest/download/epg-tvguide.xml
 
 ptv
-https://raw.githubusercontent.com/newf276/junk/master/programme/ptv.xml
+https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml
 
 rtv
-https://raw.githubusercontent.com/newf276/junk/master/programme/rtv.xml
+https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/epg.xml
