@@ -1,14 +1,14 @@
+newf
+https://github.com/newf276/junk/programme/raw/master/newf.xml
+
 ptv_ca
-https://github.com/newf276/junk/raw/master/ptv_ca.xml
+https://github.com/newf276/junk/programme/raw/master/ptv_ca.xml
 
 ptv_gb
-https://github.com/newf276/junk/raw/master/ptv_gb.xml
+https://github.com/newf276/junk/programme/master/ptv_gb.xml
 
 ptv_us
-https://github.com/newf276/junk/raw/master/ptv_us.xml
+https://github.com/newf276/junk/programme/master/ptv_us.xml
 
 rtv
-https://github.com/newf276/junk/raw/master/rtv.xml
-
-newf
-https://github.com/newf276/junk/raw/master/newf.xml
+https://github.com/newf276/junk/programme/master/rtv.xml
