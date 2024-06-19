@@ -1,7 +1,7 @@
 name: Make Home Programme
 on:
   schedule:
-    - cron: '30 */6 * * *'
+    - cron: '10 00-12/6 * * *'
   pull_request:
     branches:
       - master

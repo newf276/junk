@@ -1,7 +1,7 @@
-name: Pull Main Programmes
+name: 2. Pull Main Programmes
 on:
   schedule:
-    - cron: '10 */6 * * *'
+    - cron: '05 00-12/6 * * *'
   pull_request:
     branches:
       - master
