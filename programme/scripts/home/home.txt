@@ -1,5 +1,5 @@
 newf
-https://raw.githubusercontent.com/newf276/junk/master/programme/ourguide.xml
+https://tinyurl.com/newf276
 
 ptv_ca
 https://raw.githubusercontent.com/newf276/junk/master/programme/ptv_ca.xml
