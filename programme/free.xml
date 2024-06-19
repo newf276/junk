@@ -1726,6 +1726,7 @@
 </programme>
 <programme start="20240619073000 +0000" stop="20240619080000 +0000" channel="ca#69021316/discovery-science-canada">
 <title lang="en">How It's Made</title>
+<desc lang="en">Episode 2604</desc>
 </programme>
 <programme start="20240619080000 +0000" stop="20240619083000 +0000" channel="ca#69021316/discovery-science-canada">
 <title lang="en">How It's Made</title>
@@ -2702,14 +2703,19 @@
 <title lang="en">Misplays of the Month</title>
 </programme>
 <programme start="20240621030000 +0000" stop="20240621033000 +0000" channel="ca#69023738/rogers-sportsnet-east-hdtv">
-<title lang="en">NBA Countdown</title>
-<desc lang="en">06-20-2024</desc>
+<title lang="en">Plays of the Month</title>
 </programme>
-<programme start="20240621033000 +0000" stop="20240621060000 +0000" channel="ca#69023738/rogers-sportsnet-east-hdtv">
-<title lang="en">To Be Announced</title>
+<programme start="20240621033000 +0000" stop="20240621040000 +0000" channel="ca#69023738/rogers-sportsnet-east-hdtv">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
 </programme>
-<programme start="20240621060000 +0000" stop="20240621070000 +0000" channel="ca#69023738/rogers-sportsnet-east-hdtv">
-<title lang="en">Sportsnet Central</title>
+<programme start="20240621040000 +0000" stop="20240621043000 +0000" channel="ca#69023738/rogers-sportsnet-east-hdtv">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
+</programme>
+<programme start="20240621043000 +0000" stop="20240621053000 +0000" channel="ca#69023738/rogers-sportsnet-east-hdtv">
+<title lang="en">MLB Baseball</title>
+<desc lang="en">Milwaukee Brewers at San Diego Padres</desc>
 </programme>
 <programme start="20240619070000 +0000" stop="20240619080000 +0000" channel="ca#69023740/rogers-sportsnet-west-hdtv">
 <title lang="en">Sportsnet Central</title>
@@ -2845,21 +2851,22 @@
 <title lang="en">Misplays of the Month</title>
 </programme>
 <programme start="20240621010000 +0000" stop="20240621013000 +0000" channel="ca#69023740/rogers-sportsnet-west-hdtv">
-<title lang="en">NBA Countdown</title>
-<desc lang="en">06-20-2024</desc>
+<title lang="en">Plays of the Month</title>
 </programme>
-<programme start="20240621013000 +0000" stop="20240621040000 +0000" channel="ca#69023740/rogers-sportsnet-west-hdtv">
-<title lang="en">To Be Announced</title>
+<programme start="20240621013000 +0000" stop="20240621020000 +0000" channel="ca#69023740/rogers-sportsnet-west-hdtv">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
 </programme>
-<programme start="20240621040000 +0000" stop="20240621050000 +0000" channel="ca#69023740/rogers-sportsnet-west-hdtv">
-<title lang="en">Sportsnet Central</title>
+<programme start="20240621020000 +0000" stop="20240621023000 +0000" channel="ca#69023740/rogers-sportsnet-west-hdtv">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
 </programme>
-<programme start="20240621050000 +0000" stop="20240621053000 +0000" channel="ca#69023740/rogers-sportsnet-west-hdtv">
-<title lang="en">Misplays of the Month</title>
+<programme start="20240621023000 +0000" stop="20240621053000 +0000" channel="ca#69023740/rogers-sportsnet-west-hdtv">
+<title lang="en">MLB Baseball</title>
+<desc lang="en">Milwaukee Brewers at San Diego Padres</desc>
 </programme>
 <programme start="20240621053000 +0000" stop="20240621060000 +0000" channel="ca#69023740/rogers-sportsnet-west-hdtv">
-<title lang="en">NBA Finals in 30</title>
-<desc lang="en">Dallas Mavericks at Boston Celtics</desc>
+<title lang="en">Plays of the Week</title>
 </programme>
 <programme start="20240621060000 +0000" stop="20240621063000 +0000" channel="ca#69023740/rogers-sportsnet-west-hdtv">
 <title lang="en">Sportsnet Central</title>
@@ -3100,7 +3107,7 @@
 <desc lang="en">Camden - Season 1 Episode 8</desc>
 </programme>
 <programme start="20240621050000 +0000" stop="20240621060000 +0000" channel="ca#69027040/ctv-vancouver-british-columbia-hdtv">
-<title lang="en">Sullivan's Crossing</title>
+<title lang="en">Password</title>
 </programme>
 <programme start="20240621060000 +0000" stop="20240621063000 +0000" channel="ca#69027040/ctv-vancouver-british-columbia-hdtv">
 <title lang="en">CTV National News with Omar Sachedina</title>
@@ -3188,7 +3195,7 @@
 </programme>
 <programme start="20240619153000 +0000" stop="20240619154500 +0000" channel="ca#69027751/cbc-vancouver-hdtv">
 <title lang="en">Rusty Rivets</title>
-<desc lang="en">Robo Rusty/Rusty's Kitty Catastrophe</desc>
+<desc lang="en">Rusty's Kitty Catastrophe</desc>
 </programme>
 <programme start="20240619154500 +0000" stop="20240619160000 +0000" channel="ca#69027751/cbc-vancouver-hdtv">
 <title lang="en">The Adventures of Paddington</title>
@@ -3891,8 +3898,8 @@
 <desc lang="en">PBR Tour Canada</desc>
 </programme>
 <programme start="20240620223000 +0000" stop="20240620230000 +0000" channel="ca#69029998/the-sports-network-2">
-<title lang="en">SC Top 10 Presents</title>
-<desc lang="en">Top Comebacks of All-Time</desc>
+<title lang="en">SailGP: Racing on the Edge</title>
+<desc lang="en">Episode 9 - The Horizontal Team</desc>
 </programme>
 <programme start="20240620230000 +0000" stop="20240621020000 +0000" channel="ca#69029998/the-sports-network-2">
 <title lang="en">Overdrive</title>
@@ -5297,8 +5304,8 @@
 <desc lang="en">PBR Tour Canada</desc>
 </programme>
 <programme start="20240620223000 +0000" stop="20240620230000 +0000" channel="ca#69032392/the-sports-network-2-hdtv">
-<title lang="en">SC Top 10 Presents</title>
-<desc lang="en">Top Comebacks of All-Time</desc>
+<title lang="en">SailGP: Racing on the Edge</title>
+<desc lang="en">Episode 9 - The Horizontal Team</desc>
 </programme>
 <programme start="20240620230000 +0000" stop="20240621020000 +0000" channel="ca#69032392/the-sports-network-2-hdtv">
 <title lang="en">Overdrive</title>
@@ -7617,15 +7624,15 @@
 <programme start="20240621023000 +0000" stop="20240621030000 +0000" channel="ca#69038398/sportsnet-one-hdtv">
 <title lang="en">Plays of the Month</title>
 </programme>
-<programme start="20240621030000 +0000" stop="20240621033000 +0000" channel="ca#69038398/sportsnet-one-hdtv">
-<title lang="en">NBA Countdown</title>
-<desc lang="en">06-20-2024</desc>
+<programme start="20240621030000 +0000" stop="20240621060000 +0000" channel="ca#69038398/sportsnet-one-hdtv">
+<title lang="en">MLB Baseball</title>
+<desc lang="en">Baltimore Orioles at New York Yankees</desc>
 </programme>
-<programme start="20240621033000 +0000" stop="20240621060000 +0000" channel="ca#69038398/sportsnet-one-hdtv">
-<title lang="en">To Be Announced</title>
+<programme start="20240621060000 +0000" stop="20240621063000 +0000" channel="ca#69038398/sportsnet-one-hdtv">
+<title lang="en">Misplays of the Month</title>
 </programme>
-<programme start="20240621060000 +0000" stop="20240621070000 +0000" channel="ca#69038398/sportsnet-one-hdtv">
-<title lang="en">Sportsnet Central</title>
+<programme start="20240621063000 +0000" stop="20240621073000 +0000" channel="ca#69038398/sportsnet-one-hdtv">
+<title lang="en">Gotta See It</title>
 </programme>
 <programme start="20240619083500 +0000" stop="20240619103000 +0000" channel="ca#69038478/crave-2-hdtv-west">
 <title lang="en">Wildhood</title>
@@ -9992,7 +9999,7 @@
 <desc lang="en">Camden - Season 1 Episode 8</desc>
 </programme>
 <programme start="20240621050000 +0000" stop="20240621060000 +0000" channel="ca#69042229/ctv-vancouver-british-columbia">
-<title lang="en">Sullivan's Crossing</title>
+<title lang="en">Password</title>
 </programme>
 <programme start="20240621060000 +0000" stop="20240621063000 +0000" channel="ca#69042229/ctv-vancouver-british-columbia">
 <title lang="en">CTV National News with Omar Sachedina</title>
@@ -10522,7 +10529,7 @@
 </programme>
 <programme start="20240619070000 +0000" stop="20240619080000 +0000" channel="ca#69043424/food-network-hdtv-canada">
 <title lang="en">Chopped</title>
-<desc lang="en">Battle Italiano: Finale</desc>
+<desc lang="en">A Taste of China</desc>
 </programme>
 <programme start="20240619080000 +0000" stop="20240619090000 +0000" channel="ca#69043424/food-network-hdtv-canada">
 <title lang="en">Chopped</title>
@@ -11634,6 +11641,7 @@
 </programme>
 <programme start="20240619073000 +0000" stop="20240619080000 +0000" channel="ca#69045091/discovery-science-canada-hdtv">
 <title lang="en">How It's Made</title>
+<desc lang="en">Episode 2604</desc>
 </programme>
 <programme start="20240619080000 +0000" stop="20240619083000 +0000" channel="ca#69045091/discovery-science-canada-hdtv">
 <title lang="en">How It's Made</title>
@@ -12658,11 +12666,11 @@
 </programme>
 <programme start="20240619150000 +0000" stop="20240619153000 +0000" channel="ca#69046009/natgeo-wild-canada-hdtv">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 10</desc>
+<desc lang="en">Episode 10 - Season 1 Episode 10</desc>
 </programme>
 <programme start="20240619153000 +0000" stop="20240619160000 +0000" channel="ca#69046009/natgeo-wild-canada-hdtv">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 11</desc>
+<desc lang="en">Episode 11 - Season 1 Episode 11</desc>
 </programme>
 <programme start="20240619160000 +0000" stop="20240619163000 +0000" channel="ca#69046009/natgeo-wild-canada-hdtv">
 <title lang="en">Pick a Puppy</title>
@@ -12678,11 +12686,11 @@
 </programme>
 <programme start="20240619180000 +0000" stop="20240619183000 +0000" channel="ca#69046009/natgeo-wild-canada-hdtv">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 10</desc>
+<desc lang="en">Episode 10 - Season 1 Episode 10</desc>
 </programme>
 <programme start="20240619183000 +0000" stop="20240619190000 +0000" channel="ca#69046009/natgeo-wild-canada-hdtv">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 11</desc>
+<desc lang="en">Episode 11 - Season 1 Episode 11</desc>
 </programme>
 <programme start="20240619190000 +0000" stop="20240619200000 +0000" channel="ca#69046009/natgeo-wild-canada-hdtv">
 <title lang="en">Heartland Docs, Dvm</title>
@@ -12770,11 +12778,11 @@
 </programme>
 <programme start="20240620150000 +0000" stop="20240620153000 +0000" channel="ca#69046009/natgeo-wild-canada-hdtv">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 12</desc>
+<desc lang="en">Episode 12 - Season 1 Episode 12</desc>
 </programme>
 <programme start="20240620153000 +0000" stop="20240620160000 +0000" channel="ca#69046009/natgeo-wild-canada-hdtv">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 13</desc>
+<desc lang="en">Episode 13 - Season 1 Episode 13</desc>
 </programme>
 <programme start="20240620160000 +0000" stop="20240620163000 +0000" channel="ca#69046009/natgeo-wild-canada-hdtv">
 <title lang="en">Pick a Puppy</title>
@@ -12790,11 +12798,11 @@
 </programme>
 <programme start="20240620180000 +0000" stop="20240620183000 +0000" channel="ca#69046009/natgeo-wild-canada-hdtv">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 12</desc>
+<desc lang="en">Episode 12 - Season 1 Episode 12</desc>
 </programme>
 <programme start="20240620183000 +0000" stop="20240620190000 +0000" channel="ca#69046009/natgeo-wild-canada-hdtv">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 13</desc>
+<desc lang="en">Episode 13 - Season 1 Episode 13</desc>
 </programme>
 <programme start="20240620190000 +0000" stop="20240620200000 +0000" channel="ca#69046009/natgeo-wild-canada-hdtv">
 <title lang="en">Heartland Docs, Dvm</title>
@@ -12882,11 +12890,11 @@
 </programme>
 <programme start="20240619150000 +0000" stop="20240619153000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 10</desc>
+<desc lang="en">Episode 10 - Season 1 Episode 10</desc>
 </programme>
 <programme start="20240619153000 +0000" stop="20240619160000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 11</desc>
+<desc lang="en">Episode 11 - Season 1 Episode 11</desc>
 </programme>
 <programme start="20240619160000 +0000" stop="20240619163000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">Pick a Puppy</title>
@@ -12902,11 +12910,11 @@
 </programme>
 <programme start="20240619180000 +0000" stop="20240619183000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 10</desc>
+<desc lang="en">Episode 10 - Season 1 Episode 10</desc>
 </programme>
 <programme start="20240619183000 +0000" stop="20240619190000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 11</desc>
+<desc lang="en">Episode 11 - Season 1 Episode 11</desc>
 </programme>
 <programme start="20240619190000 +0000" stop="20240619200000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">Heartland Docs, Dvm</title>
@@ -12994,11 +13002,11 @@
 </programme>
 <programme start="20240620150000 +0000" stop="20240620153000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 12</desc>
+<desc lang="en">Episode 12 - Season 1 Episode 12</desc>
 </programme>
 <programme start="20240620153000 +0000" stop="20240620160000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 13</desc>
+<desc lang="en">Episode 13 - Season 1 Episode 13</desc>
 </programme>
 <programme start="20240620160000 +0000" stop="20240620163000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">Pick a Puppy</title>
@@ -13014,11 +13022,11 @@
 </programme>
 <programme start="20240620180000 +0000" stop="20240620183000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 12</desc>
+<desc lang="en">Episode 12 - Season 1 Episode 12</desc>
 </programme>
 <programme start="20240620183000 +0000" stop="20240620190000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">Zoo Diaries</title>
-<desc lang="en">Episode 13</desc>
+<desc lang="en">Episode 13 - Season 1 Episode 13</desc>
 </programme>
 <programme start="20240620190000 +0000" stop="20240620200000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">Heartland Docs, Dvm</title>
@@ -13067,6 +13075,9 @@
 <programme start="20240621060000 +0000" stop="20240621070000 +0000" channel="ca#69046050/natgeo-wild-canada">
 <title lang="en">The Incredible Dr. Pol</title>
 <desc lang="en">First Look: Lilo and Stitches</desc>
+</programme>
+<programme start="20240619070000 +0000" stop="20240619110000 +0000" channel="ca#69046953/dw-deutsch">
+<title lang="en">Zurzeit keine Informationen verfügbar</title>
 </programme>
 <programme start="20240619110000 +0000" stop="20240619120000 +0000" channel="ca#69046953/dw-deutsch">
 <title lang="en">Zurzeit keine Informationen verfügbar</title>
@@ -13221,14 +13232,19 @@
 <title lang="en">Misplays of the Month</title>
 </programme>
 <programme start="20240621030000 +0000" stop="20240621033000 +0000" channel="ca#69047071/rogers-sportsnet-ontario">
-<title lang="en">NBA Countdown</title>
-<desc lang="en">06-20-2024</desc>
+<title lang="en">Plays of the Month</title>
 </programme>
-<programme start="20240621033000 +0000" stop="20240621060000 +0000" channel="ca#69047071/rogers-sportsnet-ontario">
-<title lang="en">To Be Announced</title>
+<programme start="20240621033000 +0000" stop="20240621040000 +0000" channel="ca#69047071/rogers-sportsnet-ontario">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
 </programme>
-<programme start="20240621060000 +0000" stop="20240621070000 +0000" channel="ca#69047071/rogers-sportsnet-ontario">
-<title lang="en">Sportsnet Central</title>
+<programme start="20240621040000 +0000" stop="20240621043000 +0000" channel="ca#69047071/rogers-sportsnet-ontario">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
+</programme>
+<programme start="20240621043000 +0000" stop="20240621053000 +0000" channel="ca#69047071/rogers-sportsnet-ontario">
+<title lang="en">MLB Baseball</title>
+<desc lang="en">Milwaukee Brewers at San Diego Padres</desc>
 </programme>
 <programme start="20240619070000 +0000" stop="20240619080000 +0000" channel="ca#69047072/rogers-sportsnet-pacific">
 <title lang="en">Sportsnet Central</title>
@@ -13361,21 +13377,22 @@
 <title lang="en">Misplays of the Month</title>
 </programme>
 <programme start="20240621000000 +0000" stop="20240621003000 +0000" channel="ca#69047072/rogers-sportsnet-pacific">
-<title lang="en">NBA Countdown</title>
-<desc lang="en">06-20-2024</desc>
+<title lang="en">Plays of the Month</title>
 </programme>
-<programme start="20240621003000 +0000" stop="20240621030000 +0000" channel="ca#69047072/rogers-sportsnet-pacific">
-<title lang="en">To Be Announced</title>
+<programme start="20240621003000 +0000" stop="20240621010000 +0000" channel="ca#69047072/rogers-sportsnet-pacific">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
 </programme>
-<programme start="20240621030000 +0000" stop="20240621040000 +0000" channel="ca#69047072/rogers-sportsnet-pacific">
-<title lang="en">Sportsnet Central</title>
+<programme start="20240621010000 +0000" stop="20240621013000 +0000" channel="ca#69047072/rogers-sportsnet-pacific">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
 </programme>
-<programme start="20240621040000 +0000" stop="20240621043000 +0000" channel="ca#69047072/rogers-sportsnet-pacific">
-<title lang="en">Misplays of the Month</title>
+<programme start="20240621013000 +0000" stop="20240621043000 +0000" channel="ca#69047072/rogers-sportsnet-pacific">
+<title lang="en">MLB Baseball</title>
+<desc lang="en">Milwaukee Brewers at San Diego Padres</desc>
 </programme>
 <programme start="20240621043000 +0000" stop="20240621050000 +0000" channel="ca#69047072/rogers-sportsnet-pacific">
-<title lang="en">NBA Finals in 30</title>
-<desc lang="en">Dallas Mavericks at Boston Celtics</desc>
+<title lang="en">Plays of the Week</title>
 </programme>
 <programme start="20240621050000 +0000" stop="20240621053000 +0000" channel="ca#69047072/rogers-sportsnet-pacific">
 <title lang="en">Sportsnet Central</title>
@@ -13520,21 +13537,22 @@
 <title lang="en">Misplays of the Month</title>
 </programme>
 <programme start="20240621010000 +0000" stop="20240621013000 +0000" channel="ca#69047073/rogers-sportsnet-west">
-<title lang="en">NBA Countdown</title>
-<desc lang="en">06-20-2024</desc>
+<title lang="en">Plays of the Month</title>
 </programme>
-<programme start="20240621013000 +0000" stop="20240621040000 +0000" channel="ca#69047073/rogers-sportsnet-west">
-<title lang="en">To Be Announced</title>
+<programme start="20240621013000 +0000" stop="20240621020000 +0000" channel="ca#69047073/rogers-sportsnet-west">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
 </programme>
-<programme start="20240621040000 +0000" stop="20240621050000 +0000" channel="ca#69047073/rogers-sportsnet-west">
-<title lang="en">Sportsnet Central</title>
+<programme start="20240621020000 +0000" stop="20240621023000 +0000" channel="ca#69047073/rogers-sportsnet-west">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
 </programme>
-<programme start="20240621050000 +0000" stop="20240621053000 +0000" channel="ca#69047073/rogers-sportsnet-west">
-<title lang="en">Misplays of the Month</title>
+<programme start="20240621023000 +0000" stop="20240621053000 +0000" channel="ca#69047073/rogers-sportsnet-west">
+<title lang="en">MLB Baseball</title>
+<desc lang="en">Milwaukee Brewers at San Diego Padres</desc>
 </programme>
 <programme start="20240621053000 +0000" stop="20240621060000 +0000" channel="ca#69047073/rogers-sportsnet-west">
-<title lang="en">NBA Finals in 30</title>
-<desc lang="en">Dallas Mavericks at Boston Celtics</desc>
+<title lang="en">Plays of the Week</title>
 </programme>
 <programme start="20240621060000 +0000" stop="20240621063000 +0000" channel="ca#69047073/rogers-sportsnet-west">
 <title lang="en">Sportsnet Central</title>
@@ -13689,14 +13707,19 @@
 <title lang="en">Misplays of the Month</title>
 </programme>
 <programme start="20240621030000 +0000" stop="20240621033000 +0000" channel="ca#69047075/rogers-sportsnet-east">
-<title lang="en">NBA Countdown</title>
-<desc lang="en">06-20-2024</desc>
+<title lang="en">Plays of the Month</title>
 </programme>
-<programme start="20240621033000 +0000" stop="20240621060000 +0000" channel="ca#69047075/rogers-sportsnet-east">
-<title lang="en">To Be Announced</title>
+<programme start="20240621033000 +0000" stop="20240621040000 +0000" channel="ca#69047075/rogers-sportsnet-east">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
 </programme>
-<programme start="20240621060000 +0000" stop="20240621070000 +0000" channel="ca#69047075/rogers-sportsnet-east">
-<title lang="en">Sportsnet Central</title>
+<programme start="20240621040000 +0000" stop="20240621043000 +0000" channel="ca#69047075/rogers-sportsnet-east">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
+</programme>
+<programme start="20240621043000 +0000" stop="20240621053000 +0000" channel="ca#69047075/rogers-sportsnet-east">
+<title lang="en">MLB Baseball</title>
+<desc lang="en">Milwaukee Brewers at San Diego Padres</desc>
 </programme>
 <programme start="20240619070000 +0000" stop="20240619080000 +0000" channel="ca#69047350/ctv-news-channel-hdtv">
 <title lang="en">Power Play</title>
@@ -15090,7 +15113,7 @@
 </programme>
 <programme start="20240619070000 +0000" stop="20240619080000 +0000" channel="ca#69049602/food-network-canada">
 <title lang="en">Chopped</title>
-<desc lang="en">Battle Italiano: Finale</desc>
+<desc lang="en">A Taste of China</desc>
 </programme>
 <programme start="20240619080000 +0000" stop="20240619090000 +0000" channel="ca#69049602/food-network-canada">
 <title lang="en">Chopped</title>
@@ -16721,7 +16744,7 @@
 </programme>
 <programme start="20240620050000 +0000" stop="20240620060000 +0000" channel="ca#629244158/sportsnet-360">
 <title lang="en">UFC Reloaded</title>
-<desc lang="en">UFC 292 Sterling vs O'Malley</desc>
+<desc lang="en">UFC 281: Adesanya vs Pereira</desc>
 </programme>
 <programme start="20240620080000 +0000" stop="20240620083000 +0000" channel="ca#629244158/sportsnet-360">
 <title lang="en">Misplays of the Month</title>
@@ -16809,7 +16832,7 @@
 <desc lang="en">Edmonton Oilers at Florida Panthers</desc>
 </programme>
 <programme start="20240621063000 +0000" stop="20240621073000 +0000" channel="ca#629244158/sportsnet-360">
-<title lang="en">Gotta See It</title>
+<title lang="en">Misplays of the Month</title>
 </programme>
 <programme start="20240619080000 +0000" stop="20240619083000 +0000" channel="ca#629244162/sportsnet-360-hdtv">
 <title lang="en">Plays of the Month</title>
@@ -16863,7 +16886,7 @@
 </programme>
 <programme start="20240620050000 +0000" stop="20240620060000 +0000" channel="ca#629244162/sportsnet-360-hdtv">
 <title lang="en">UFC Reloaded</title>
-<desc lang="en">UFC 292 Sterling vs O'Malley</desc>
+<desc lang="en">UFC 281: Adesanya vs Pereira</desc>
 </programme>
 <programme start="20240620080000 +0000" stop="20240620083000 +0000" channel="ca#629244162/sportsnet-360-hdtv">
 <title lang="en">Misplays of the Month</title>
@@ -16951,7 +16974,7 @@
 <desc lang="en">Edmonton Oilers at Florida Panthers</desc>
 </programme>
 <programme start="20240621063000 +0000" stop="20240621073000 +0000" channel="ca#629244162/sportsnet-360-hdtv">
-<title lang="en">Gotta See It</title>
+<title lang="en">Misplays of the Month</title>
 </programme>
 <programme start="20240619070000 +0000" stop="20240619080000 +0000" channel="ca#1162010744/the-sports-network-4-hdtv">
 <title lang="en">SC with Jay Onrait</title>
@@ -21741,8 +21764,8 @@
 <desc lang="en">PBR Tour Canada</desc>
 </programme>
 <programme start="20240620223000 +0000" stop="20240620230000 +0000" channel="ca#5227914687/the-sports-network-2-hdtv-toronto-ottawa-only">
-<title lang="en">SC Top 10 Presents</title>
-<desc lang="en">Top Comebacks of All-Time</desc>
+<title lang="en">SailGP: Racing on the Edge</title>
+<desc lang="en">Episode 9 - The Horizontal Team</desc>
 </programme>
 <programme start="20240620230000 +0000" stop="20240621020000 +0000" channel="ca#5227914687/the-sports-network-2-hdtv-toronto-ottawa-only">
 <title lang="en">Overdrive</title>
@@ -21922,8 +21945,8 @@
 <desc lang="en">PBR Tour Canada</desc>
 </programme>
 <programme start="20240620223000 +0000" stop="20240620230000 +0000" channel="ca#5265073917/the-sports-network-2-toronto-ottawa-only">
-<title lang="en">SC Top 10 Presents</title>
-<desc lang="en">Top Comebacks of All-Time</desc>
+<title lang="en">SailGP: Racing on the Edge</title>
+<desc lang="en">Episode 9 - The Horizontal Team</desc>
 </programme>
 <programme start="20240620230000 +0000" stop="20240621020000 +0000" channel="ca#5265073917/the-sports-network-2-toronto-ottawa-only">
 <title lang="en">Overdrive</title>
@@ -22487,11 +22510,11 @@
 </programme>
 <programme start="20240619153000 +0000" stop="20240619154500 +0000" channel="CBUTDT.ca">
 <title lang="en">Rusty Rivets</title>
-<desc lang="en">Robo Rusty/Rusty's Kitty Catastrophe</desc>
+<desc lang="en">Rusty's Kitty Catastrophe</desc>
 </programme>
 <programme start="20240619153000 +0000" stop="20240619154500 +0000" channel="CBUTDT.ca">
 <title lang="en">Rusty Rivets</title>
-<desc lang="en">Robo Rusty/Rusty's Kitty Catastrophe</desc>
+<desc lang="en">Rusty's Kitty Catastrophe</desc>
 </programme>
 <programme start="20240619154500 +0000" stop="20240619160000 +0000" channel="CBUTDT.ca">
 <title lang="en">The Adventures of Paddington</title>
@@ -24407,15 +24430,15 @@
 <programme start="20240621023000 +0000" stop="20240621030000 +0000" channel="SportsnetOne.ca">
 <title lang="en">Plays of the Month</title>
 </programme>
-<programme start="20240621030000 +0000" stop="20240621033000 +0000" channel="SportsnetOne.ca">
-<title lang="en">NBA Countdown</title>
-<desc lang="en">06-20-2024</desc>
+<programme start="20240621030000 +0000" stop="20240621060000 +0000" channel="SportsnetOne.ca">
+<title lang="en">MLB Baseball</title>
+<desc lang="en">Baltimore Orioles at New York Yankees</desc>
 </programme>
-<programme start="20240621033000 +0000" stop="20240621060000 +0000" channel="SportsnetOne.ca">
-<title lang="en">To Be Announced</title>
+<programme start="20240621060000 +0000" stop="20240621063000 +0000" channel="SportsnetOne.ca">
+<title lang="en">Misplays of the Month</title>
 </programme>
-<programme start="20240621060000 +0000" stop="20240621070000 +0000" channel="SportsnetOne.ca">
-<title lang="en">Sportsnet Central</title>
+<programme start="20240621063000 +0000" stop="20240621073000 +0000" channel="SportsnetOne.ca">
+<title lang="en">Gotta See It</title>
 </programme>
 <programme start="20240619070000 +0000" stop="20240619073000 +0000" channel="SportsnetOntario.ca">
 <title lang="en">Blue Jays in 30</title>
@@ -24564,14 +24587,19 @@
 <title lang="en">Misplays of the Month</title>
 </programme>
 <programme start="20240621030000 +0000" stop="20240621033000 +0000" channel="SportsnetOntario.ca">
-<title lang="en">NBA Countdown</title>
-<desc lang="en">06-20-2024</desc>
+<title lang="en">Plays of the Month</title>
 </programme>
-<programme start="20240621033000 +0000" stop="20240621060000 +0000" channel="SportsnetOntario.ca">
-<title lang="en">To Be Announced</title>
+<programme start="20240621033000 +0000" stop="20240621040000 +0000" channel="SportsnetOntario.ca">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
 </programme>
-<programme start="20240621060000 +0000" stop="20240621070000 +0000" channel="SportsnetOntario.ca">
-<title lang="en">Sportsnet Central</title>
+<programme start="20240621040000 +0000" stop="20240621043000 +0000" channel="SportsnetOntario.ca">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
+</programme>
+<programme start="20240621043000 +0000" stop="20240621053000 +0000" channel="SportsnetOntario.ca">
+<title lang="en">MLB Baseball</title>
+<desc lang="en">Milwaukee Brewers at San Diego Padres</desc>
 </programme>
 <programme start="20240619070000 +0000" stop="20240619080000 +0000" channel="SportsnetPacific.ca">
 <title lang="en">Sportsnet Central</title>
@@ -24704,21 +24732,22 @@
 <title lang="en">Misplays of the Month</title>
 </programme>
 <programme start="20240621000000 +0000" stop="20240621003000 +0000" channel="SportsnetPacific.ca">
-<title lang="en">NBA Countdown</title>
-<desc lang="en">06-20-2024</desc>
+<title lang="en">Plays of the Month</title>
 </programme>
-<programme start="20240621003000 +0000" stop="20240621030000 +0000" channel="SportsnetPacific.ca">
-<title lang="en">To Be Announced</title>
+<programme start="20240621003000 +0000" stop="20240621010000 +0000" channel="SportsnetPacific.ca">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
 </programme>
-<programme start="20240621030000 +0000" stop="20240621040000 +0000" channel="SportsnetPacific.ca">
-<title lang="en">Sportsnet Central</title>
+<programme start="20240621010000 +0000" stop="20240621013000 +0000" channel="SportsnetPacific.ca">
+<title lang="en">Blue Jays in 30</title>
+<desc lang="en">Blue Jays at Guardians</desc>
 </programme>
-<programme start="20240621040000 +0000" stop="20240621043000 +0000" channel="SportsnetPacific.ca">
-<title lang="en">Misplays of the Month</title>
+<programme start="20240621013000 +0000" stop="20240621043000 +0000" channel="SportsnetPacific.ca">
+<title lang="en">MLB Baseball</title>
+<desc lang="en">Milwaukee Brewers at San Diego Padres</desc>
 </programme>
 <programme start="20240621043000 +0000" stop="20240621050000 +0000" channel="SportsnetPacific.ca">
-<title lang="en">NBA Finals in 30</title>
-<desc lang="en">Dallas Mavericks at Boston Celtics</desc>
+<title lang="en">Plays of the Week</title>
 </programme>
 <programme start="20240621050000 +0000" stop="20240621053000 +0000" channel="SportsnetPacific.ca">
 <title lang="en">Sportsnet Central</title>
@@ -41495,7 +41524,7 @@
 </programme>
 <programme start="20240620233000 +0000" stop="20240621000000 +0000" channel="AlJazeeraEnglish.qa">
 <title lang="en">101 East</title>
-<desc lang="en">20062024: 101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+<desc lang="en">China's Slave Fishermen: 101 East investigates human rights violations in China's seafood industry.</desc>
 <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/02a6cf5c-6e9c-3a5a-beeb-4e620cca3870/1023"/>
 </programme>
 <programme start="20240621000000 +0000" stop="20240621003000 +0000" channel="AlJazeeraEnglish.qa">
@@ -41595,7 +41624,7 @@
 </programme>
 <programme start="20240619173000 +0000" stop="20240619180000 +0000" channel="BBCNewsHD.uk">
 <title lang="en">Sportsday</title>
-<desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism. [S] [HD]</desc>
+<desc lang="en">Build up to Scotland v Switzerland at Euro 2024 and Gareth Southgate speaks to the media. [S] [HD]</desc>
 <icon src="http://epgstatic.sky.com/epgdata/1.0/paimage/46/1/lisa/5.2.2/linear/channel/11fc44b6-d4e4-3abe-bc6e-c4f7d03d16a5/2085"/>
 </programme>
 <programme start="20240619180000 +0000" stop="20240619183000 +0000" channel="BBCNewsHD.uk">
