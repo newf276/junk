@@ -71,7 +71,7 @@ try:
 except requests.exceptions.RequestException as e:
     print("Error making GET request:", e)
 
-    xml = f"http://xtream-ie.com/xmltv.php?username=h5h4jHUuGkgE&password=7sTVShFXp1"
+    xml = f"https://opop.pro/L6S34ajE6hR8n"
 output_xml = "programme/ourguide.xml"
 
 try:
