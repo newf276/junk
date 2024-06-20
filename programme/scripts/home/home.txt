@@ -1,5 +1,5 @@
 LdtMxQT84C64B9
-https://github.com/newf276/junk/raw/master/programme/LdtMxQT84C64B9.xml
+https://github.com/newf276/junk/raw/master/programme/ours.xml
 
 ptv_ca
 https://github.com/newf276/junk/raw/master/programme/ptv_ca.xml

@@ -88,9 +88,9 @@ try:
 except requests.exceptions.RequestException as e:
     print("Error making GET request:", e)
 
-country = "LdtMxQT84C64B9"
-xml = f"https://opop.pro/LdtMxQT84C64B9"
-output_xml = "programme/LdtMxQT84C64B9"
+    
+xml = f"https://tinyurl.com/ye2x3yja"
+output_xml = "programme/ours.xml"
 
 try:
     response = requests.get(xml)
