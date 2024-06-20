@@ -1,8 +1,18 @@
 {
   "include": [
     {
-      "name": "epg-tvpassport",
-      "site": "tvpassport.com",
+      "name": "epg-sky",
+      "site": "sky.com",
+      "lang": "en"
+    },
+    {
+      "name": "epg-tvguide",
+      "site": "tvguide.com",
+      "lang": "en"
+    },
+    {
+      "name": "epg-ontvtonight",
+      "site": "ontvtonight.com",
       "lang": "en"
     }
   ]

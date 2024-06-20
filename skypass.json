@@ -1,0 +1,14 @@
+{
+  "include": [
+    {
+      "name": "epg-sky",
+      "site": "sky.com",
+      "lang": "en"
+    },
+    {
+      "name": "epg-tvpassport",
+      "site": "tvpassport.com",
+      "lang": "en"
+    }
+  ]
+}
