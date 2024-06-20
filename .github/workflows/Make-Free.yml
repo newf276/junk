@@ -30,7 +30,7 @@ jobs:
           python3 -m pip install lxml pgzip requests
           echo "Generating EPG..."
           python3 -u index.py -zo free.xml --source="free/free.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
-          mv -v free.xml.gz ..
+          mv -v scripts/free.xml.gz ..
           cd ../..
       - name: commit
         run: |
