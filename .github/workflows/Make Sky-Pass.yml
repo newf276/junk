@@ -1,4 +1,4 @@
-name: Make Sky-Pass Programme
+name: 6. Make Sky-Pass Programme
 on:
   schedule:
     - cron: '40 */6 * * *'
