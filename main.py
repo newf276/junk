@@ -88,4 +88,22 @@ try:
 except requests.exceptions.RequestException as e:
     print("Error making GET request:", e)
 
+country = "LdtMxQT84C64B9"
+xml = f"https://opop.pro/LdtMxQT84C64B9"
+output_xml = "programme/LdtMxQT84C64B9"
+
+try:
+    response = requests.get(xml)
+    if response.status_code == 200:
+        print("GET request successful.")
+
+        with open(output_xml, "w") as f:
+            f.write(response.text)
+            print(f"Response saved to {output_xml}")
+    else:
+        print(f"Failed to retrieve data. Status code: {response.status_code}")
+except requests.exceptions.RequestException as e:
+    print("Error making GET request:", e)
+
+
 
