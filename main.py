@@ -71,8 +71,9 @@ try:
 except requests.exceptions.RequestException as e:
     print("Error making GET request:", e)
 
-    xml = f"https://epg.best/ec41-6l1duu.xml"
-output_xml = "programme/ourguide.xml"
+country = "ec41-6l1duu"
+xml = f"https://epg.best/ec41-6l1duu.xml"
+output_xml = "programme/ec41-6l1duu.xml"
 
 try:
     response = requests.get(xml)
