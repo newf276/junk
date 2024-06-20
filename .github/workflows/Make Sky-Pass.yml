@@ -1,7 +1,7 @@
 name: 6. Make Sky-Pass Programme
 on:
   schedule:
-    - cron: '40 */6 * * *'
+    - cron: '35 */6 * * *'
   pull_request:
     branches:
       - master
@@ -30,7 +30,7 @@ jobs:
           python3 -m pip install lxml pgzip requests
           echo "Generating EPG..."
           python3 -u index.py -zo skypass.xml --source="skypass/skypass.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
-          mv -v scripts/skypass.xml.gz ..
+          mv -v skypass.xml.gz ..
           cd ../..
       - name: commit
         run: |

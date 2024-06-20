@@ -1,14 +1,14 @@
 ours
-https://github.com/newf276/junk/raw/master/programme/scripts/ours.xml
+https://github.com/newf276/junk/raw/master/programme/ours.xml
 
 ptv_ca
-https://github.com/newf276/junk/raw/master/programme/scripts/ptv_ca.xml
+https://github.com/newf276/junk/raw/master/programme/ptv_ca.xml
 
 ptv_gb
-https://github.com/newf276/junk/raw/master/programme/scripts/ptv_gb.xml
+https://github.com/newf276/junk/raw/master/programme/ptv_gb.xml
 
 ptv_us
-https://github.com/newf276/junk/raw/master/programme/scripts/ptv_us.xml
+https://github.com/newf276/junk/raw/master/programme/ptv_us.xml
 
 rtv
-https://github.com/newf276/junk/raw/master/programme/scripts/rtv.xml
+https://github.com/newf276/junk/raw/master/programme/rtv.xml
