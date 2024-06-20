@@ -6,7 +6,7 @@ name: Pull Org Programme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '20 */6 * * *'
+    - cron: '000 */6 * * *'
     
 permissions:
   contents: write
