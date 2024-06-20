@@ -1,7 +1,7 @@
 name: Make Sky-Pass Programme
 on:
   schedule:
-    - cron: '27 */6 * * *'
+    - cron: '40 */6 * * *'
   pull_request:
     branches:
       - master
