@@ -8,7 +8,7 @@ tvguide
 https://github.com/newf276/junk/releases/latest/download/epg-tvguide.xml
 
 tvtv
-https://github.com/newf276/junk/releases/latest/download/epg-tvtv.xml
+https://github.com/newf276/junk/releases/latest/download/epg-tvtvxml
 
 ptv_ca
 https://github.com/newf276/junk/raw/master/programme/ptv_ca.xml
