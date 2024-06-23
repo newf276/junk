@@ -4,12 +4,12 @@ Provide daily EPG for selected websites using [iptv-org/epg](https://github.com/
 
 ### Current Guides:
 
-|      Guides     |                  English  xml or zipped             |
+|      Guides     |                  Xml or Zipped             |
 |-----------------|:-----------------------------------------:|
-|   ontvtonight   | [xml][epg-ontvtonight-xml] - [gzip][epg-ontvtonight-gzip] |
+|   OnTvTonight   | [xml][epg-ontvtonight-xml] - [gzip][epg-ontvtonight-gzip] |
 |   Sky           | [xml][epg-sky-xml] - [gzip][epg-sky-gzip] |
-|   tvguide       | [xml][epg-tvguide-xml] - [gzip][epg-tvguide-gzip] |
-|   tvpassport    | [xml][epg-tvpassport-xml] - [gzip][epg-tvpassport-gzip] |
+|   TVGuide       | [xml][epg-tvguide-xml] - [gzip][epg-tvguide-gzip] |
+|   TVPassport    | [xml][epg-tvpassport-xml] - [gzip][epg-tvpassport-gzip] |
 
 [epg-ontvtonight-xml]: https://github.com/newf276/junk/releases/latest/download/epg-ontvtonight.xml
 [epg-sky-xml]: https://github.com/newf276/junk/releases/latest/download/epg-sky.xml
