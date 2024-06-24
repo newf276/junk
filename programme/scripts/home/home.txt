@@ -10,5 +10,14 @@ https://github.com/newf276/junk/raw/master/programme/ptv_gb.xml
 ptv_us
 https://github.com/newf276/junk/raw/master/programme/ptv_us.xml
 
+sam_ca
+https://github.com/newf276/junk/raw/master/programme/sam_ca.xml
+
+sam_gb
+https://github.com/newf276/junk/raw/master/programme/sam_gb.xml
+
+sam_us
+https://github.com/newf276/junk/raw/master/programme/sam_us.xml
+
 rtv
 https://github.com/newf276/junk/raw/master/programme/rtv.xml
