@@ -1,11 +1,6 @@
 {
   "include": [
     {
-      "name": "epg-tvtv",
-      "site": "tvtv.us",
-      "lang": "en"
-    },
-    {
       "name": "epg-tvpassport",
       "site": "tvpassport.com",
       "lang": "en"
