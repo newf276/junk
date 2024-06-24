@@ -1,4 +1,4 @@
-name: 7. Make Free Programme
+name: 7. Make Sam Programme
 on:
   schedule:
     - cron: '10 */3 * * *'
@@ -29,11 +29,11 @@ jobs:
           echo "Installing dependencies..."
           python3 -m pip install lxml pgzip requests
           echo "Generating EPG..."
-          python3 -u index.py -zo free.xml --source="sam/sam.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+          python3 -u index.py -zo sam.xml --source="home/sam.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
           mv -v sam.xml.gz ..
           cd ../..
       - name: commit
         run: |
           git add -A
-          git commit -m "Make Free Programme"
+          git commit -m "Make home Programme"
           git push
