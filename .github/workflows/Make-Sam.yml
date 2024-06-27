@@ -1,7 +1,7 @@
 name: 7. Make Sam Programme
 on:
   schedule:
-    - cron: '10 */3 * * *'
+    - cron: '45 */3 * * *'
   pull_request:
     branches:
       - master
