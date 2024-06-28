@@ -73,7 +73,7 @@ except requests.exceptions.RequestException as e:
 
     
 xml = f"https://tinyurl.com/ye2x3yja"
-output_xml = "programme/ours.xml"
+output_xml = "programme/ctv.xml"
 
 try:
     response = requests.get(xml)

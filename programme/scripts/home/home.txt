@@ -1,5 +1,5 @@
-ours
-https://github.com/newf276/junk/raw/master/programme/ours.xml
+ctv
+https://github.com/newf276/junk/raw/master/programme/ctv.xml
 
 ptv_ca
 https://github.com/newf276/junk/raw/master/programme/ptv_ca.xml
