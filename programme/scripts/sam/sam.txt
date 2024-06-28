@@ -1,9 +1,0 @@
-sam_ca
-https://github.com/newf276/junk/raw/master/programme/sam_ca.xml
-
-sam_gb
-https://github.com/newf276/junk/raw/master/programme/sam_gb.xml
-
-sam_us
-https://github.com/newf276/junk/raw/master/programme/sam_us.xml
-
