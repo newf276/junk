@@ -1,9 +1,0 @@
-{
-  "include": [
-    {
-      "name": "epg-tvpassport",
-      "site": "tvpassport.com",
-      "lang": "en"
-    }
-  ]
-}
