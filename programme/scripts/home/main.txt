@@ -23,4 +23,4 @@ sam
 https://github.com/newf276/junk/raw/master/programme/sam.xml.gz
 
 tubi
-https://github.com/dtankdempse/tubi-m3u/raw/refs/heads/main/tubi_epg_us.xml
+https://raw.githubusercontent.com/dtankdempse/tubi-m3u/refs/heads/main/tubi_epg_us.xml
