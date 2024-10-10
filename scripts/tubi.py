@@ -18,7 +18,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Argument parser for dynamic input
 parser = argparse.ArgumentParser(description='Scrape Tubi TV data.')
-parser.add_argument('--countries', type=str, nargs='+', default=['US'], help='List of country codes.')
+parser.add_argument('--countries', type=str, nargs='+', default=['CA'], help='List of country codes.')
 args = parser.parse_args()
 
 # Setting up logging
