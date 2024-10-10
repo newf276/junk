@@ -226,7 +226,7 @@ def save_epg_to_file(tree, filename):
 
 def main():
 	# Add other countries to the array.
-    countries = ["CA"]
+    countries = ["ALL"]
     for country in countries:
         proxies = get_proxies(country)
         if not proxies:
