@@ -1,8 +1,8 @@
 import requests
 m3u = f"https://thetvapp-m3u.data-search.workers.dev/playlist"
 xml = f"https://thetvapp-m3u.data-search.workers.dev/epg"
-output_m3u = "tubi.m3u"
-output_xml = "tubi.xml"
+output_m3u = "tvapp.m3u"
+output_xml = "tvapp.xml"
 try:
     response = requests.get(m3u)
     if response.status_code == 200:
