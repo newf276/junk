@@ -1,0 +1,2 @@
+editor
+https://github.com/newf276/junk/raw/master/programme/editor.xml.gz
