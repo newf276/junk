@@ -1,544 +1,544 @@
 #EXTM3U url-tvg="https://tinyurl.com/tta-epg"
 #EXTINF:-1 tvg-id="AandE(East).us" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="Entertainment",A&E
-https://v16.thetvapp.to/hls/AEEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/AEEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="WABC (New York) ABC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Entertainment",ABC East (New York)
-https://v16.thetvapp.to/hls/WABCDT1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WABCDT1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="Entertainment",ACC Network
-https://v16.thetvapp.to/hls/ACCNetwork/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ACCNetwork/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Entertainment",AMC
-https://v16.thetvapp.to/hls/AMCEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/AMCEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Entertainment",American Heroes Channel
-https://v16.thetvapp.to/hls/AmericanHeroesChannel/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/AmericanHeroesChannel/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Entertainment",Animal Planet
-https://v16.thetvapp.to/hls/AnimalPlanetEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/AnimalPlanetEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entertainment",BBC America
-https://v16.thetvapp.to/hls/BBCAmericaEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/BBCAmericaEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="BBCWorldService.uk" tvg-name="BBC World News HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24448_dark_360w_270h.png" group-title="Entertainment",BBC World News HD
-https://v16.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entertainment",BET
-https://v16.thetvapp.to/hls/BETEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/BETEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET Her" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Entertainment",BET Her
-https://v16.thetvapp.to/hls/BETHerEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/BETHerEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="Entertainment",Big Ten Network
-https://v16.thetvapp.to/hls/BTN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/BTN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png" group-title="Entertainment",Bloomberg TV
-https://v16.thetvapp.to/hls/BloombergTV/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/BloombergTV/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Entertainment",Boomerang
-https://v16.thetvapp.to/hls/Boomerang/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/Boomerang/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Entertainment",Bravo
-https://v16.thetvapp.to/hls/BravoEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/BravoEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Entertainment",Cartoon Network
-https://v16.thetvapp.to/hls/CartoonNetworkEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CartoonNetworkEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="WCBS.us" tvg-name="WCBS (New York) CBS East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Entertainment",CBS East (New York)
-https://v16.thetvapp.to/hls/WCBSDT1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WCBSDT1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Entertainment",CBS Sports Network
-https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Entertainment",Cinemax
-https://v16.thetvapp.to/hls/CinemaxEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CinemaxEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Entertainment",CMT
-https://v16.thetvapp.to/hls/CMTEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CMTEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="Entertainment",CNBC
-https://v16.thetvapp.to/hls/CNBC/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CNBC/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Entertainment",CNN
-https://v16.thetvapp.to/hls/CNN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CNN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Entertainment",Comedy Central
-https://v16.thetvapp.to/hls/ComedyCentralEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ComedyCentralEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Entertainment",Cooking Channel
-https://v16.thetvapp.to/hls/CookingChannel/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CookingChannel/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime & Investigation HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="Entertainment",Crime & Investigation HD
-https://v16.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="CSPAN.us" tvg-name="CSPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="Entertainment",CSPAN
-https://v16.thetvapp.to/hls/CSPAN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CSPAN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="CSPAN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10162_dark_360w_270h.png" group-title="Entertainment",CSPAN 2
-https://v16.thetvapp.to/hls/CSPAN2/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CSPAN2/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16617_dark_360w_270h.png" group-title="Entertainment",Destination America
-https://v16.thetvapp.to/hls/DestinationAmerica/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/DestinationAmerica/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Entertainment",Discovery
-https://v16.thetvapp.to/hls/DiscoveryChannelEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/DiscoveryChannelEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Entertainment",Discovery Family Channel
-https://v16.thetvapp.to/hls/DiscoveryFamily/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/DiscoveryFamily/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Entertainment",Discovery Life
-https://v16.thetvapp.to/hls/DiscoveryLife/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/DiscoveryLife/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Entertainment",Disney Channel (East)
-https://v16.thetvapp.to/hls/DisneyChannelEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/DisneyChannelEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Entertainment",Disney Junior
-https://v16.thetvapp.to/hls/DisneyJuniorEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/DisneyJuniorEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Entertainment",Disney XD
-https://v16.thetvapp.to/hls/DisneyXDEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/DisneyXDEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10989_dark_360w_270h.png" group-title="Entertainment",E!
-https://v16.thetvapp.to/hls/EEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/EEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Entertainment",ESPN
-https://v16.thetvapp.to/hls/ESPN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Entertainment",ESPN2
-https://v16.thetvapp.to/hls/ESPN2/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPN2/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNews" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Entertainment",ESPNews
-https://v16.thetvapp.to/hls/ESPNews/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPNews/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Entertainment",ESPNU
-https://v16.thetvapp.to/hls/ESPNU/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPNU/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Entertainment",Food Network
-https://v16.thetvapp.to/hls/FoodNetworkEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FoodNetworkEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="WNYW.us" tvg-name="WNYW (New York) FOX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Entertainment",FOX East (New York)
-https://v16.thetvapp.to/hls/WNYWDT1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WNYWDT1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="Entertainment",Fox Business Network
-https://v16.thetvapp.to/hls/FoxBusiness/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FoxBusiness/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="Entertainment",FOX News Channel
-https://v16.thetvapp.to/hls/FoxNewsChannel/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FoxNewsChannel/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="FS1.us" tvg-name="FOX Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="Entertainment",FOX Sports 1
-https://v16.thetvapp.to/hls/FoxSports1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FoxSports1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-name="FOX Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59305_dark_360w_270h.png" group-title="Entertainment",FOX Sports 2
-https://v16.thetvapp.to/hls/FoxSports2/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FoxSports2/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="Entertainment",Freeform
-https://v16.thetvapp.to/hls/FreeformEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FreeformEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="Entertainment",Fuse HD
-https://v16.thetvapp.to/hls/FuseEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FuseEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Entertainment",FX
-https://v16.thetvapp.to/hls/FXEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FXEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="Entertainment",FX Movie
-https://v16.thetvapp.to/hls/FXMovieChannel/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FXMovieChannel/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Entertainment",FXX
-https://v16.thetvapp.to/hls/FXXEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FXXEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="Entertainment",FYI
-https://v16.thetvapp.to/hls/FYIEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FYIEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="Entertainment",Golf Channel
-https://v16.thetvapp.to/hls/GolfChannel/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/GolfChannel/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="Entertainment",Hallmark
-https://v16.thetvapp.to/hls/HallmarkChannelEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/HallmarkChannelEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Drama HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="Entertainment",Hallmark Drama HD
-https://v16.thetvapp.to/hls/HallmarkDrama/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/HallmarkDrama/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46710_dark_360w_270h.png" group-title="Entertainment",Hallmark Movies & Mysteries HD
-https://v16.thetvapp.to/hls/HallmarkMoviesMysteriesEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/HallmarkMoviesMysteriesEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO 2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entertainment",HBO 2 East
-https://v16.thetvapp.to/hls/HBO2East/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/HBO2East/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Entertainment",HBO Comedy HD
-https://v16.thetvapp.to/hls/HBOComedyEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/HBOComedyEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Entertainment",HBO East
-https://v16.thetvapp.to/hls/HBOEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/HBOEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Entertainment",HBO Family East
-https://v16.thetvapp.to/hls/HBOFamilyEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/HBOFamilyEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10243_dark_360w_270h.png" group-title="Entertainment",HBO Signature
-https://v16.thetvapp.to/hls/HBOSignatureEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/HBOSignatureEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Entertainment",HBO Zone HD
-https://v16.thetvapp.to/hls/HBOZoneEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/HBOZoneEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Entertainment",HGTV
-https://v16.thetvapp.to/hls/HGTVEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/HGTVEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14771_dark_360w_270h.png" group-title="Entertainment",History
-https://v16.thetvapp.to/hls/HistoryEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/HistoryEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="Entertainment",HLN
-https://v16.thetvapp.to/hls/HLN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/HLN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14873_dark_360w_270h.png" group-title="Entertainment",IFC
-https://v16.thetvapp.to/hls/IFCEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/IFCEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Entertainment",Investigation Discovery
-https://v16.thetvapp.to/hls/InvestigationDiscoveryEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/InvestigationDiscoveryEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="IONTelevision.us" tvg-name="ION Television East HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Entertainment",ION Television East HD
-https://v16.thetvapp.to/hls/IONTVEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/IONTVEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Entertainment",Lifetime
-https://v16.thetvapp.to/hls/LifetimeEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/LifetimeEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="LMN.us" tvg-name="LMN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="Entertainment",LMN
-https://v16.thetvapp.to/hls/LifetimeMoviesEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/LifetimeMoviesEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="Entertainment",Logo
-https://v16.thetvapp.to/hls/LogoEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/LogoEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="" tvg-name="MeTV Toons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="Entertainment",MeTV Toons
-https://v16.thetvapp.to/hls/metv-toons/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/metv-toons/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="Entertainment",MLB Network
-https://v16.thetvapp.to/hls/MLBNetwork/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/MLBNetwork/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="MoreMAX.us" tvg-name="MoreMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10121_dark_360w_270h.png" group-title="Entertainment",MoreMAX
-https://v16.thetvapp.to/hls/MoreMaxEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/MoreMaxEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="MotorTrend HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="Entertainment",MotorTrend HD
-https://v16.thetvapp.to/hls/Motortrend/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/Motortrend/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="MovieMax.us" tvg-name="MovieMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25621_dark_360w_270h.png" group-title="Entertainment",MovieMAX
-https://v16.thetvapp.to/hls/MovieMaxEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/MovieMaxEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="Entertainment",MSNBC
-https://v16.thetvapp.to/hls/MSNBC/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/MSNBC/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="Entertainment",MTV
-https://v16.thetvapp.to/hls/MTVEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/MTVEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="Nat Geo WILD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Entertainment",Nat Geo WILD
-https://v16.thetvapp.to/hls/NationalGeographicWildEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NationalGeographicWildEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Entertainment",National Geographic
-https://v16.thetvapp.to/hls/NationalGeographicEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NationalGeographicEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="Entertainment",NBA TV
-https://v16.thetvapp.to/hls/NBATV/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NBATV/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="WNBC.us" tvg-name="WNBC (New York) NBC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="Entertainment",NBC East(New York)
-https://v16.thetvapp.to/hls/WNBCDT1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WNBCDT1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87925_dark_360w_270h.png" group-title="Entertainment",Newsmax TV
-https://v16.thetvapp.to/hls/NewsmaxTV/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NewsmaxTV/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="Entertainment",NFL Network
-https://v16.thetvapp.to/hls/NFLNetwork/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NFLNetwork/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL Red Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65025_dark_360w_270h.png" group-title="Entertainment",NFL Red Zone
-https://v16.thetvapp.to/hls/NFLRedZone/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NFLRedZone/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="Entertainment",NHL Network
-https://v16.thetvapp.to/hls/NHLNetwork/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHLNetwork/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Entertainment",Nick Jr.
-https://v16.thetvapp.to/hls/NickJrEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NickJrEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Entertainment",Nickelodeon East
-https://v16.thetvapp.to/hls/NickelodeonEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NickelodeonEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="Entertainment",Nicktoons
-https://v16.thetvapp.to/hls/NicktoonsEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NicktoonsEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="Entertainment",Outdoor Channel
-https://v16.thetvapp.to/hls/OutdoorChannel/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/OutdoorChannel/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="OWN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70388_dark_360w_270h.png" group-title="Entertainment",OWN
-https://v16.thetvapp.to/hls/OWNEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/OWNEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen True Crime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21484_dark_360w_270h.png" group-title="Entertainment",Oxygen True Crime
-https://v16.thetvapp.to/hls/OxygenEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/OxygenEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="WNET.us" tvg-name="PBS 13 (WNET) New York" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="Entertainment",PBS 13 (WNET) New York
-https://v16.thetvapp.to/hls/WNET/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WNET/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="Entertainment",ReelzChannel
-https://v16.thetvapp.to/hls/Reelz/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/Reelz/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Science.us" tvg-name="Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16616_dark_360w_270h.png" group-title="Entertainment",Science
-https://v16.thetvapp.to/hls/Science/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/Science/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="Entertainment",SEC Network
-https://v16.thetvapp.to/hls/SECN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/SECN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Entertainment",Showtime (E)
-https://v16.thetvapp.to/hls/ShowtimeEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ShowtimeEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="Entertainment",SHOWTIME 2
-https://v16.thetvapp.to/hls/Showtime2East/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/Showtime2East/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="Entertainment",STARZ East
-https://v16.thetvapp.to/hls/StarzEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/StarzEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Entertainment",SundanceTV HD
-https://v16.thetvapp.to/hls/SundanceTVEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/SundanceTVEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="Entertainment",SYFY
-https://v16.thetvapp.to/hls/SyfyEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/SyfyEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="Entertainment",TBS
-https://v16.thetvapp.to/hls/TBSEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/TBSEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Entertainment",TCM
-https://v16.thetvapp.to/hls/TCMEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/TCMEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59036_dark_360w_270h.png" group-title="Entertainment",TeenNick
-https://v16.thetvapp.to/hls/TeenNickEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/TeenNickEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-name="Telemundo East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="Entertainment",Telemundo East
-https://v16.thetvapp.to/hls/TelemundoEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/TelemundoEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="Entertainment",Tennis Channel
-https://v16.thetvapp.to/hls/TennisChannel/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/TennisChannel/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="WPIX.us" tvg-name="The CW (WPIX New York)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Entertainment",The CW (WPIX New York)
-https://v16.thetvapp.to/hls/WPIX/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WPIX/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="TheMovieChannel.us" tvg-name="The Movie Channel East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11160_dark_360w_270h.png" group-title="Entertainment",The Movie Channel East
-https://v16.thetvapp.to/hls/TheMovieChannelEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/TheMovieChannelEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="Entertainment",The Weather Channel
-https://v16.thetvapp.to/hls/TheWeatherChannel/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/TheWeatherChannel/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Entertainment",TLC
-https://v16.thetvapp.to/hls/TLCEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/TLCEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment",TNT
-https://v16.thetvapp.to/hls/TNTEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/TNTEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="TheTravelChannel.us" tvg-name="Travel Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11180_dark_360w_270h.png" group-title="Entertainment",Travel Channel
-https://v16.thetvapp.to/hls/TravelChannelEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/TravelChannelEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Entertainment",truTV
-https://v16.thetvapp.to/hls/truTVEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/truTVEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="TVONE.us" tvg-name="TV One HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="Entertainment",TV One HD
-https://v16.thetvapp.to/hls/TVOne/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/TVOne/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="Universal Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47540_dark_360w_270h.png" group-title="Entertainment",Universal Kids
-https://v16.thetvapp.to/hls/UniversalKidsEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/UniversalKidsEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Entertainment",Univision East
-https://v16.thetvapp.to/hls/UnivisionEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/UnivisionEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Entertainment",USA Network
-https://v16.thetvapp.to/hls/USANetworkEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/USANetworkEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entertainment",VH1
-https://v16.thetvapp.to/hls/VH1East/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/VH1East/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Entertainment",VICE
-https://v16.thetvapp.to/hls/vicEEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/vicEEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="WEtv.us" tvg-name="WE tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="Entertainment",WE tv
-https://v16.thetvapp.to/hls/WeTVEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WeTVEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="3dd9226910a93a1b30a45df547ab6dc8" tvg-name="Wisconsin Badgers vs. Rutgers Scarlet Knights" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - Wisconsin Badgers vs. Rutgers Scarlet Knights - 12:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/BTN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/BTN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="cf76ea90ba985a73e233a4e2e55bd753" tvg-name="South Carolina Gamecocks vs. Alabama Crimson Tide" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - South Carolina Gamecocks vs. Alabama Crimson Tide - 12:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/SECN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/SECN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="b69ffc451b165c5d200fa65223aefed1" tvg-name="UAB Blazers vs. Army Black Knights" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - UAB Blazers vs. Army Black Knights - 12:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="557597f75bea87c3d42063a30f59ac40" tvg-name="Ball State Cardinals vs. Kent State Golden Flashes" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - Ball State Cardinals vs. Kent State Golden Flashes - 12:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NCAAF16/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NCAAF16/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="e70b09887fbb2248605de2bd152de74b" tvg-name="Toledo Rockets vs. Buffalo Bulls" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - Toledo Rockets vs. Buffalo Bulls - 12:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/ESPNU/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPNU/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="710fbd18b0e58c519030ba00b917d120" tvg-name="Clemson Tigers vs. Wake Forest Demon Deacons" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - Clemson Tigers vs. Wake Forest Demon Deacons - 12:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/ESPN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="234ee532f2b6f2d3ae48ea2aa22c80ce" tvg-name="Georgia Tech Yellow Jackets vs. North Carolina Tar Heels" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - Georgia Tech Yellow Jackets vs. North Carolina Tar Heels - 12:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/WPIX/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WPIX/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="c9c447c90f25635d991d4f688bd2e180" tvg-name="Washington Huskies vs. Iowa Hawkeyes" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - Washington Huskies vs. Iowa Hawkeyes - 12:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/WNYWDT1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WNYWDT1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="da58393c5d1b06a819bc355c00c8d400" tvg-name="Missouri Tigers vs. UMass Minutemen" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - Missouri Tigers vs. UMass Minutemen - 12:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/ESPN2/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPN2/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="d42d9c5e8df0fec15553855874cae6f4" tvg-name="Miami (OH) RedHawks vs. Eastern Michigan Eagles" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",2:00 PM - Miami (OH) RedHawks vs. Eastern Michigan Eagles - 02:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NCAAF17/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NCAAF17/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="2dc3e717ba8f330d9f86d14b4c9e0acc" tvg-name="Old Dominion Monarchs vs. Georgia State Panthers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Old Dominion Monarchs vs. Georgia State Panthers - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NCAAF20/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NCAAF20/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="5b928ca19a88a8ee4714359af73309fa" tvg-name="Akron Zips vs. Western Michigan Broncos" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Akron Zips vs. Western Michigan Broncos - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NCAAF18/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NCAAF18/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="0f9e8c2007abf2b950cd2bdbe7deb447" tvg-name="Northern Illinois Huskies vs. Bowling Green Falcons" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Northern Illinois Huskies vs. Bowling Green Falcons - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NCAAF19/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NCAAF19/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="9269336c13c76921760a930cb390850e" tvg-name="California Golden Bears vs. Pittsburgh Panthers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - California Golden Bears vs. Pittsburgh Panthers - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/ESPN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="f263362258d1b2e48ab23f7282c25c7d" tvg-name="Cincinnati Bearcats vs. UCF Knights" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Cincinnati Bearcats vs. UCF Knights - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/ESPN2/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPN2/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="7e7106eaf8b94625973c58702ffe8e71" tvg-name="San Jose State Spartans vs. Colorado State Rams" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - San Jose State Spartans vs. Colorado State Rams - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/truTVEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/truTVEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="4f7fbcaa6f62147ea198028a99abc2c5" tvg-name="Purdue Boilermakers vs. Illinois Fighting Illini" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Purdue Boilermakers vs. Illinois Fighting Illini - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/FoxSports1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FoxSports1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="1610eb57b797575e12916c31e373ea17" tvg-name="Louisville Cardinals vs. Virginia Cavaliers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Louisville Cardinals vs. Virginia Cavaliers - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/ACCNetwork/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ACCNetwork/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="b2e1f7ab25c93a8b19380b2ba9e8ec42" tvg-name="Memphis Tigers vs. South Florida Bulls" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Memphis Tigers vs. South Florida Bulls - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NCAAF21/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NCAAF21/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="61a9754eb717cecf2ba6b4411e66cd62" tvg-name="Stanford Cardinal vs. Notre Dame Fighting Irish" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Stanford Cardinal vs. Notre Dame Fighting Irish - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/WNBCDT1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WNBCDT1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="dd6fa830b0d32d0ee8aa6031414fd298" tvg-name="Texas Longhorns vs. Oklahoma Sooners" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Texas Longhorns vs. Oklahoma Sooners - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/WNBCDT1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WNBCDT1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="8178a6d0bf938cec8b9f656f9827f3af" tvg-name="Penn State Nittany Lions vs. USC Trojans" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Penn State Nittany Lions vs. USC Trojans - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/WABCDT1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WABCDT1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="e0c6c2649a976bf3e33547c17abd2091" tvg-name="San Diego State Aztecs vs. Wyoming Cowboys" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - San Diego State Aztecs vs. Wyoming Cowboys - 03:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="3e4aaa95eea54f7181b9e4828ae7cf8e" tvg-name="Arizona Wildcats vs. BYU Cougars" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",4:00 PM - Arizona Wildcats vs. BYU Cougars - 04:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/WNYWDT1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WNYWDT1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="7071fe919ad657fe985435bba9dd20af" tvg-name="Ohio Bobcats vs. Central Michigan Chippewas" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",4:00 PM - Ohio Bobcats vs. Central Michigan Chippewas - 04:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/ESPNU/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPNU/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="0a4da8bb2d215fda6a64fd03de403777" tvg-name="Mississippi State Bulldogs vs. Georgia Bulldogs" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",4:15 PM - Mississippi State Bulldogs vs. Georgia Bulldogs - 04:15 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/SECN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/SECN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="55f2d14e05ae3d89f8fa2f1fb52b2be7" tvg-name="Southern Mississippi Golden Eagles vs. UL Monroe Warhawks" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",5:00 PM - Southern Mississippi Golden Eagles vs. UL Monroe Warhawks - 05:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NCAAF22/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NCAAF22/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="23a3c037a067ef8f3ec3adf7dd5d9d93" tvg-name="Washington State Cougars vs. Fresno State Bulldogs" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:00 PM - Washington State Cougars vs. Fresno State Bulldogs - 07:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/FoxSports1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/FoxSports1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="341c1a3e61c9e5d9fba57a53bcdfb237" tvg-name="Florida Gators vs. Tennessee Volunteers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:00 PM - Florida Gators vs. Tennessee Volunteers - 07:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/ESPN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="38e0794509c1379863e7351c2fc91463" tvg-name="North Texas Mean Green vs. Florida Atlantic Owls" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:00 PM - North Texas Mean Green vs. Florida Atlantic Owls - 07:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/ESPN2/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPN2/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="d622235e31e1a89b55879889485cbafc" tvg-name="Arkansas State Red Wolves vs. Texas State Bobcats" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:00 PM - Arkansas State Red Wolves vs. Texas State Bobcats - 07:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NCAAF23/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NCAAF23/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="67f09d1ca1af4a7064d51a5f56d2c08a" tvg-name="Air Force Falcons vs. New Mexico Lobos" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:00 PM - Air Force Falcons vs. New Mexico Lobos - 07:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/truTVEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/truTVEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="6ed95f068394a38e3cf0c401c10cc0e0" tvg-name="UTSA Roadrunners vs. Rice Owls" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:00 PM - UTSA Roadrunners vs. Rice Owls - 07:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NCAAF24/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NCAAF24/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="56b0e992de426988492988e228b68b58" tvg-name="Appalachian State Mountaineers vs. Louisiana Ragin Cajuns" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:30 PM - Appalachian State Mountaineers vs. Louisiana Ragin Cajuns - 07:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NCAAF25/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NCAAF25/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="d61cf7c345c04d20842216089a647301" tvg-name="Ole Miss Rebels vs. LSU Tigers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:30 PM - Ole Miss Rebels vs. LSU Tigers - 07:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/WABCDT1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WABCDT1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="fce77e8ceb9efb9e115e78a436d6ede3" tvg-name="Oregon State Beavers vs. Nevada Wolf Pack" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:30 PM - Oregon State Beavers vs. Nevada Wolf Pack - 07:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="26b48e456b0549bd6acf017142b3942a" tvg-name="Ohio State Buckeyes vs. Oregon Ducks" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:30 PM - Ohio State Buckeyes vs. Oregon Ducks - 07:30 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/WNBCDT1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WNBCDT1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="57cf73bbe28fada5899122daa4e49762" tvg-name="Vanderbilt Commodores vs. Kentucky Wildcats" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:45 PM - Vanderbilt Commodores vs. Kentucky Wildcats - 07:45 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/SECN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/SECN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="e8896a93644427dfd40500ccf816be7d" tvg-name="Marshall Thundering Herd vs. Georgia Southern Eagles" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",8:00 PM - Marshall Thundering Herd vs. Georgia Southern Eagles - 08:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/ESPNU/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPNU/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="becaf40f651eddadb5e224279603c1ad" tvg-name="Iowa State Cyclones vs. West Virginia Mountaineers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",8:00 PM - Iowa State Cyclones vs. West Virginia Mountaineers - 08:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/WNYWDT1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/WNYWDT1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="d1cca4bd6d5860b41ef76617cd60af8c" tvg-name="Syracuse Orange vs. NC State Wolfpack" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",8:00 PM - Syracuse Orange vs. NC State Wolfpack - 08:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/ACCNetwork/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ACCNetwork/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="78bdd63f3166bed9da64f0a82edaa29f" tvg-name="Minnesota Golden Gophers vs. UCLA Bruins" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",9:00 PM - Minnesota Golden Gophers vs. UCLA Bruins - 09:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/BTN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/BTN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="5aaf67f0cfe85e0b86d0695c302946c0" tvg-name="Kansas State Wildcats vs. Colorado Buffaloes" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",10:15 PM - Kansas State Wildcats vs. Colorado Buffaloes - 10:15 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/ESPN/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/ESPN/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="3d75e4906ca43fc7c33e1e3d342d86f1" tvg-name="Boise State Broncos vs. Hawaii Rainbow Warriors" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",11:00 PM - Boise State Broncos vs. Hawaii Rainbow Warriors - 11:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="287d25c66dc670028822d75a3cee37f4" tvg-name="Los Angeles Kings vs. Boston Bruins" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",1:00 PM - Los Angeles Kings vs. Boston Bruins - 01:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHL05/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHL05/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="40207190d3a6c615f99ff53c10b221f9" tvg-name="Ottawa Senators vs. MontrÃ©al Canadiens" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Ottawa Senators vs. MontrÃ©al Canadiens - 07:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHL07/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHL07/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="a6a51ac6d168d6f8987a41122c6e66bb" tvg-name="Florida Panthers vs. Buffalo Sabres" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Florida Panthers vs. Buffalo Sabres - 07:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHL06/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHL06/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="aed67f51a988463bad5b474abcd8a8b8" tvg-name="Nashville Predators vs. Detroit Red Wings" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Nashville Predators vs. Detroit Red Wings - 07:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHL08/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHL08/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="5cd8da5d7dcd9daa7117b800f8ed9751" tvg-name="New Jersey Devils vs. Washington Capitals" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - New Jersey Devils vs. Washington Capitals - 07:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHL09/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHL09/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="637913e794c461c5a166fee168077e14" tvg-name="Utah Hockey Club vs. New York Rangers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Utah Hockey Club vs. New York Rangers - 07:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHL10/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHL10/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="c2e5e1d0f129459c216d09105e8b104b" tvg-name="Pittsburgh Penguins vs. Toronto Maple Leafs" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Pittsburgh Penguins vs. Toronto Maple Leafs - 07:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHLNetwork/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHLNetwork/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="2ee86094a5e2d6ded3718f2c43fe58df" tvg-name="New York Islanders vs. Dallas Stars" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",8:00 PM - New York Islanders vs. Dallas Stars - 08:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHL11/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHL11/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="c472f8b64c0b9592b4ca9d9aa873e419" tvg-name="Seattle Kraken vs. Minnesota Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",8:00 PM - Seattle Kraken vs. Minnesota Wild - 08:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHL12/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHL12/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="a5345198429241ccc0a2fa38ba8d7a7a" tvg-name="Columbus Blue Jackets vs. Colorado Avalanche" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",9:00 PM - Columbus Blue Jackets vs. Colorado Avalanche - 09:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHL13/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHL13/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="8d112327019a8ffcdc9a7ceb5a4a960e" tvg-name="Anaheim Ducks vs. San Jose Sharks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",10:00 PM - Anaheim Ducks vs. San Jose Sharks - 10:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHL14/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHL14/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="d1c66702d57b4f2e703b4607c549ff11" tvg-name="Philadelphia Flyers vs. Calgary Flames" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",10:00 PM - Philadelphia Flyers vs. Calgary Flames - 10:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHL15/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHL15/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="915c1627c77ef438c893cd11bbeabc75" tvg-name="Chicago Blackhawks vs. Edmonton Oilers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",10:00 PM - Chicago Blackhawks vs. Edmonton Oilers - 10:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NHL16/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NHL16/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="acebbc08885735f6ce3e5cd6a7bbfc65" tvg-name="Detroit Tigers vs. Cleveland Guardians" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/mlb-network-us.png" group-title="MLB Baseball",1:08 PM - Detroit Tigers vs. Cleveland Guardians - 01:08 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/TBSEast/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/TBSEast/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="d77f64336e84626a168a7c7b7e7b58ad" tvg-name="UFC Fight Night: Royval vs. Taira - (Prelims Card and Main Card)" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="PPV Events",5:00 PM - UFC Fight Night: Royval vs. Taira - (Prelims Card and Main Card) - 05:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/tnt-sports-1/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/tnt-sports-1/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="37e1b974e51406c54938a5754070c5ab" tvg-name="Boxing: Beterbiev vs. Bivol" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="PPV Events",6:00 PM - Boxing: Beterbiev vs. Bivol - 06:00 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/PPV01/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/PPV01/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="9ca239dff4c254c7ba44b26e02d2f378" tvg-name="Philadelphia 76ers vs. Boston Celtics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:10 PM - Philadelphia 76ers vs. Boston Celtics - 08:10 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NBA14/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NBA14/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="8a9a5a8ae96f736e1d6891cefdb16c3b" tvg-name="Memphis Grizzlies vs. Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:10 PM - Memphis Grizzlies vs. Chicago Bulls - 08:10 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NBA15/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NBA15/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
 #EXTINF:-1 tvg-id="1d885e24d0082be4d293b6acec3124c2" tvg-name="Utah Jazz vs. San Antonio Spurs" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:10 PM - Utah Jazz vs. San Antonio Spurs - 08:10 PM EDT - (10/12/2024)
-https://v16.thetvapp.to/hls/NBA10/index.m3u8?token=TnkxMndYYWo4ZkxnVTVpZEVHcEQ2dkFob3V1QlU1eXdQenZsVmJ1RQ==
+https://v16.thetvapp.to/hls/NBA10/index.m3u8?token=Wnh3eW1YdWlLSkJlMW5lMEFlSlA2N3lBaEwzZG9PQjgxU0NHQkoyQg==
 
