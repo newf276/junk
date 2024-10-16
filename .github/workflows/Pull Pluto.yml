@@ -29,7 +29,7 @@ jobs:
           echo "Installing dependencies..."
           python3 -m pip install lxml pgzip requests
           echo "Generating EPG..."
-          python3 -u index.py -zo free.xml --source="home/pluto.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+          python3 -u index.py -zo pluto.xml --source="home/pluto.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
           mv -v pluto.xml.gz ..
           cd ../..
       - name: commit
