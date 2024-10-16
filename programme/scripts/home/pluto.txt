@@ -1,0 +1,8 @@
+pluto_ca
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/ca.xml.gz
+
+pluto_gb
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/gb.xml.gz
+
+pluto_us
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/us.xml.gz

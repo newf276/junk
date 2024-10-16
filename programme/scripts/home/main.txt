@@ -1,2 +1,5 @@
 editor
 https://github.com/newf276/junk/raw/master/programme/editor.xml.gz
+
+pluto
+https://github.com/newf276/junk/raw/master/programme/pluto.xml.gz

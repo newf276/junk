@@ -1,0 +1,39 @@
+name: Pull Editor Programme
+on:
+  schedule:
+    - cron: '00 */2 * * *'
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+      - name: config
+        run: |
+          git pull
+          git config --global user.email "newf@gmail.com"
+          git config --global user.name "newf276"
+      - name: generate
+        run: |
+          cd programme/scripts
+          pwd
+          echo "Installing dependencies..."
+          python3 -m pip install lxml pgzip requests
+          echo "Generating EPG..."
+          python3 -u index.py -zo free.xml --source="home/editor.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+          mv -v editor.xml.gz ..
+          cd ../..
+      - name: commit
+        run: |
+          git add -A
+          git commit -m "Pull Editor Programme"
+          git push

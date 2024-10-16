@@ -1,7 +1,7 @@
 name: Pull Master Guide
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */2 * * *'
   pull_request:
     branches:
       - master
@@ -29,7 +29,7 @@ jobs:
           echo "Installing dependencies..."
           python3 -m pip install lxml pgzip requests
           echo "Generating EPG..."
-          python3 -u index.py -zo home.xml --source="home/editor.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+          python3 -u index.py -zo home.xml --source="home/main.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
           mv -v home.xml.gz ..
           cd ../..
       - name: commit

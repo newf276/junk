@@ -1,8 +1,0 @@
-sam_ca
-https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/ca.xml.gz
-
-sam_gb
-https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz
-
-sam_us
-https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz
