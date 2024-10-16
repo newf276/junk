@@ -6,3 +6,15 @@ https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/gb.xml.gz
 
 pluto_us
 https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/us.xml.gz
+
+plex_ca
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/ca.xml.gz
+
+plex_gb
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/gb.xml.gz
+
+plex_us
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/us.xml.gz
+
+Roku
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/all.xml.gz
