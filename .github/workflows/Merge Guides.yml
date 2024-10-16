@@ -1,4 +1,4 @@
-name: Pull Master Guide
+name: Merge Home Guide
 on:
   schedule:
     - cron: '0 */2 * * *'
@@ -35,5 +35,5 @@ jobs:
       - name: commit
         run: |
           git add -A
-          git commit -m "Make Master Guide"
+          git commit -m "Home Guide Update"
           git push
