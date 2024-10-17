@@ -42,7 +42,6 @@ jobs:
 
       - name: Main
         run: |
-          cd programme/scripts
           pwd
           chmod +x tvapp.sh
           ./tvapp.sh
