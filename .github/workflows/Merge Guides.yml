@@ -36,4 +36,4 @@ jobs:
         run: |
           git add -A
           git commit -m "Home Guide Update"
-          git push
+          git push --force # Force push to overwrite the previous commit

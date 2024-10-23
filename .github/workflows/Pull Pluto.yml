@@ -36,4 +36,4 @@ jobs:
         run: |
           git add -A
           git commit -m "Pull Pluto Programme"
-          git push
+          git push --force # Force push to overwrite the previous commit
