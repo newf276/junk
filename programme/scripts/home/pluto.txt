@@ -18,3 +18,12 @@ https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/us.xml.gz
 
 Roku
 https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/all.xml.gz
+
+sam_ca
+https://i.mjh.nz/SamsungTVPlus/ca.xml.gz
+
+sam_gb
+https://i.mjh.nz/SamsungTVPlus/gb.xml.gz
+
+sam_us
+https://i.mjh.nz/SamsungTVPlus/us.xml.gz
