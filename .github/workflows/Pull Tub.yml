@@ -1,4 +1,4 @@
-name: Run Tub
+name: 2. Pull Tub
 
 on:
   schedule:

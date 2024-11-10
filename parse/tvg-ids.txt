@@ -108,7 +108,7 @@ ion.us
 ionplus.us
 8fd0bc4f08285a12abb872f0b2e320d4
 635&#45;itv1.uk
-Itv1.uk
+itv1.uk
 itv2.uk
 itv3.uk
 itv4.uk

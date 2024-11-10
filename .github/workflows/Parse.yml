@@ -1,4 +1,4 @@
-name: Update EPG 
+name: 5. Parse Ch-Ids
 
 on:
   schedule:
@@ -26,14 +26,14 @@ jobs:
         run: |
           python -m pip install requests
 
-      - name: Run EPG grabber script
+      - name: Run parse script
         run: |
-          python epg-grabber/getEpgs.py
+          python parse/parse.py
 
       - name: Force commit and push the changes (no history)
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git add epg.xml epg.xml.gz
+          git add epg.xml
           git commit -m "Update EPG"
           git push --force # Force push to overwrite the previous commit
