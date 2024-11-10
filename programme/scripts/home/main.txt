@@ -5,4 +5,4 @@ pluto
 https://github.com/newf276/junk/raw/master/programme/pluto.xml.gz
 
 Tubi
-https://github.com/newf276/junk/raw/refs/heads/master/tub.xml
+https://github.com/newf276/junk/raw/master/tub.xml
