@@ -1,4 +1,4 @@
-name: Pull Editor
+name: 3. Pull Editor
 on:
   schedule:
     - cron: '00 */4 * * *'
