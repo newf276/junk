@@ -29,6 +29,7 @@ jobs:
 
     - name: Run Python script
       run: |
+        cd programme/
         python tub.py || exit 1  # Fail the workflow if the Python script fails
 
     - name: Checkout the public repository

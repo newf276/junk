@@ -95,7 +95,7 @@ def fetch_epg_data(channel_list):
 
 def create_m3u_playlist(epg_data, group_mapping, country):
     sorted_epg_data = sorted(epg_data, key=lambda x: x.get('title', '').lower())
-    playlist = f"#EXTM3U url-tvg=\"https://github.com/newf276/junk/programme/raw/refs/heads/master/tub.xml\"\n"
+    playlist = f"#EXTM3U url-tvg=\"https://github.com/newf276/junk/raw/master/programme/tub.xml\"\n"
     seen_urls = set()
 
     for elem in sorted_epg_data:
