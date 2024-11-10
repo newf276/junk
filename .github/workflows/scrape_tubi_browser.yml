@@ -34,14 +34,14 @@ jobs:
     - name: Checkout the public repository
       uses: actions/checkout@v3
       with:
-        repository: dtankdempse/tubi-m3u
+        repository: newf276/junk/tubi-m3u
         token: ${{ secrets.SECRET_PAT }}
-        path: tubi-m3u
+        path: junk/tubi-m3u
 
     - name: Copy playlists to the public repository
       run: |
-        cp tubi_playlist_us.m3u tubi-m3u/
-        cp tubi_epg_us.xml tubi-m3u/
+        cp tubi_playlist_us.m3u junk/tubi-m3u/
+        cp tubi_epg_us.xml junk/tubi-m3u/
         
     - name: Commit and force push changes to the public repository without saving history
       run: |
@@ -55,6 +55,6 @@ jobs:
         git add .
         git commit -m "Update playlists" || echo "No changes to commit"
 
-        git push -f https://$PAT@github.com/dtankdempse/tubi-m3u.git main
+        git push -f https://$PAT@github.com/newf276/junk/tubi-m3u.git master
       env:
         PAT: ${{ secrets.SECRET_PAT }}
