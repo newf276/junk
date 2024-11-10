@@ -29,19 +29,18 @@ jobs:
 
     - name: Run Python script
       run: |
-        cd programme/
         python tub.py || exit 1  # Fail the workflow if the Python script fails
 
     - name: Checkout the public repository
       uses: actions/checkout@v3
       with:
         repository: newf276/junk
-        path: junk
+        path: junk/programme
 
     - name: Copy playlists to the public repository
       run: |
-        cp tub.m3u junk/programme/
-        cp tub.xml junk/programme/
+        cp tub.m3u junk/programme
+        cp tub.xml junk/programme
         
     - name: Commit and force push changes to the public repository without saving history
       run: |
