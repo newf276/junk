@@ -29,7 +29,7 @@ jobs:
 
     - name: Run Python script
       run: |
-        python tub.py || exit 1  # Fail the workflow if the Python script fails
+        python junk/programme/tub.py || exit 1  # Fail the workflow if the Python script fails
 
     - name: Checkout the public repository
       uses: actions/checkout@v3
