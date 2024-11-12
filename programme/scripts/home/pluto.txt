@@ -2,7 +2,7 @@ PlutoTV
 https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz
 
 Plex
-https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.g
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.gz
 
 Roku
 https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/all.xml.gz
