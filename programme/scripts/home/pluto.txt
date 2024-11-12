@@ -1,29 +1,14 @@
-pluto_ca
-https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/ca.xml.gz
+PlutoTV
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz
 
-pluto_gb
-https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/gb.xml.gz
-
-pluto_us
-https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/us.xml.gz
-
-plex_ca
-https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/ca.xml.gz
-
-plex_gb
-https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/gb.xml.gz
-
-plex_us
-https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/us.xml.gz
+Plex
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Plex/all.xml.g
 
 Roku
 https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/all.xml.gz
 
-sam_ca
-https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/ca.xml.gz
+SamsungTVPlus
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz
 
-sam_gb
-https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/gb.xml.gz
-
-sam_us
-https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/us.xml.gz
+Tubi
+https://github.com/newf276/junk/raw/master/programme/tub.xml

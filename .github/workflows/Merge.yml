@@ -1,4 +1,4 @@
-name: 4. Merge Home
+name: 3. Merge Home
 on:
   schedule:
     - cron: '0 */2 * * *'

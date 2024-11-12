@@ -1,8 +1,8 @@
-editor
+EditorIPTV
 https://github.com/newf276/junk/raw/master/programme/editor.xml.gz
 
-pluto
+PlutoTV
 https://github.com/newf276/junk/raw/master/programme/pluto.xml.gz
 
-Tubi
-https://github.com/newf276/junk/raw/master/programme/tub.xml
+Master Guide
+http://xtream-ie.org/xmltv.php?username=kV5LH1kYR7&password=gvXGyc17HG9
