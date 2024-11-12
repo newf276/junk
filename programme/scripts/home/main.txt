@@ -1,6 +1,3 @@
-EditorIPTV
-https://github.com/newf276/junk/raw/master/programme/editor.xml.gz
-
 PlutoTV
 https://github.com/newf276/junk/raw/master/programme/pluto.xml.gz
 
