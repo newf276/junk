@@ -39,8 +39,8 @@ jobs:
 
     - name: Copy playlists to the public repository
       run: |
-        cp tub.m3u junk/programme/
-        cp tub.xml junk/programme/
+        cp tub.m3u junk/parse/
+        cp tub.xml junk/parse/
         
     - name: Commit and force push changes to the public repository without saving history
       run: |
