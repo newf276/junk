@@ -3,7 +3,7 @@ name: 5. Parse Ch-Ids
 on:
   schedule:
     # Runs twice a day
-    - cron: '0 */2 * * *'
+    - cron: '0 */1 * * *'
   
   # Add a manual trigger
   workflow_dispatch:

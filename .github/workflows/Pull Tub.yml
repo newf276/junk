@@ -2,7 +2,7 @@ name: 2. Pull Tub
 
 on:
   schedule:
-    - cron: '00 */6 * * *' # Runs every 6 hrs
+    - cron: '00 */4 * * *' # Runs every 6 hrs
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
@@ -29,7 +29,7 @@ jobs:
 
     - name: Run Python script
       run: |
-        python tub.py || exit 1  # Fail the workflow if the Python script fails
+          python parse/tub.py || exit 1  # Fail the workflow if the Python script fails
 
     - name: Checkout the public repository
       uses: actions/checkout@v3
