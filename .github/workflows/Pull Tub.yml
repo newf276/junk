@@ -2,7 +2,7 @@ name: 2. Pull Tub
 
 on:
   schedule:
-    - cron: '00 */4 * * *' # Runs every 6 hrs
+    - cron: '00 */3 * * *' # Runs every 6 hrs
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
@@ -29,7 +29,7 @@ jobs:
 
     - name: Run Python script
       run: |
-          python parse/tub.py || exit 1  # Fail the workflow if the Python script fails
+        python tub.py || exit 1  # Fail the workflow if the Python script fails
 
     - name: Checkout the public repository
       uses: actions/checkout@v3
@@ -39,8 +39,8 @@ jobs:
 
     - name: Copy playlists to the public repository
       run: |
-        cp tub.m3u parse/
-        cp tub.xml parse/
+        cp tub.m3u junk/programme/
+        cp tub.xml junk/programme/
         
     - name: Commit and force push changes to the public repository without saving history
       run: |
