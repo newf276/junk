@@ -179,6 +179,8 @@ https://live-manifest.production-public.tubi.io/live/048b6ace-b717-4e56-afc8-fbc
 https://live-manifest.production-public.tubi.io/live/42a00bda-1716-409e-965f-c11807396025/playlist.m3u8
 #EXTINF:-1 tvg-name="Kartoon Channel!" tvg-id="400000033" tvg-logo="https://canvas.tubitv.com/opts/J87vaOoO1SROcA==/4258e598-4722-409b-8e3c-625f800ba9ba/CHgQeDoFMS4xLjJAAQ==" group-title="Kids & Family",Kartoon Channel!
 https://live-manifest.production-public.tubi.io/live/d206145d-36c9-462a-8803-46779548c49e/playlist.m3u8
+#EXTINF:-1 tvg-name="KATC News Acadiana" tvg-id="687447" tvg-logo="https://canvas.tubitv.com/opts/QaUgrIz00-Q1qQ==/a6ee923c-4dc0-4d93-81a2-31bf11be3a7e/CHgQeDoFMS4xLjJAAQ==" group-title="Local News",KATC News Acadiana
+https://live-manifest.production-public.tubi.io/live/28467730-4b65-4c85-8151-4c7d162c0896/playlist.m3u8
 #EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-id="555127" tvg-logo="https://canvas.tubitv.com/opts/qXphKmGOHA6AJg==/f71c682e-37f8-4719-aa89-546d1c4c8bfe/CHgQeDoFMS4xLjJAAQ==" group-title="National News",LiveNOW from FOX
 https://live-manifest.production-public.tubi.io/live/30ce17f7-c7e4-4721-93cb-551054593b69/playlist.m3u8
 #EXTINF:-1 tvg-name="Living with Evil" tvg-id="400000067" tvg-logo="https://canvas.tubitv.com/opts/-dKa4JA3kRQYlQ==/e4f84ab2-4935-4063-ad29-cc852b91e3b7/CHgQeDoFMS4xLjJAAQ==" group-title="True Crime",Living with Evil
@@ -247,6 +249,8 @@ https://live-manifest.production-public.tubi.io/live/a280c719-34d9-4a04-a942-1ce
 https://live-manifest.production-public.tubi.io/live/4d27ebac-bb58-44e7-8625-18b44423d073/playlist.m3u8
 #EXTINF:-1 tvg-name="PokerGO" tvg-id="400000045" tvg-logo="https://canvas.tubitv.com/opts/dM71esLQkQX4uw==/3a6b2ab5-d20e-4b25-9231-65bc11c8b3c0/CHgQeDoFMS4xLjJAAQ==" group-title="Sports On Now",PokerGO
 https://live-manifest.production-public.tubi.io/live/91aa5a26-e14b-418f-95f0-82ac43ef527f/playlist.m3u8
+#EXTINF:-1 tvg-name="Q2 News Billings" tvg-id="687468" tvg-logo="https://canvas.tubitv.com/opts/gtlmJ2fpspewSA==/3a067014-7789-48eb-a234-da3ee43aae12/CHgQeDoFMS4xLjJAAQ==" group-title="Local News",Q2 News Billings
+https://live-manifest.production-public.tubi.io/live/16dca551-7e18-4599-b235-395d5044099b/playlist.m3u8
 #EXTINF:-1 tvg-name="Racing America" tvg-id="693703" tvg-logo="https://canvas.tubitv.com/opts/AsPlInsIMRIXWA==/746d7bdb-3682-476e-aff1-48045e07a516/CHgQeDoFMS4xLjJAAQ==" group-title="Sports On Now",Racing America
 https://live-manifest.production-public.tubi.io/live/f4c09045-636d-456a-b2a7-a9f9357fdb19/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid" tvg-id="613762" tvg-logo="https://canvas.tubitv.com/opts/QX6_ZOXK1VNQXw==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjJAAQ==" group-title="Sports On Now",Real Madrid
@@ -289,6 +293,8 @@ https://live-manifest.production-public.tubi.io/live/fb04683f-3d54-418d-ad4d-957
 https://live-manifest.production-public.tubi.io/live/21d4aeb5-ac72-4cf1-bdf6-b77588a83053/playlist.m3u8
 #EXTINF:-1 tvg-name="theGrio" tvg-id="555129" tvg-logo="https://canvas.tubitv.com/opts/k9mc9VdpMcJcLQ==/a9b7d587-ab4a-4d4d-bc0d-6f14da292f9f/CHgQeDoFMS4xLjJAAQ==" group-title="National News",theGrio
 https://live-manifest.production-public.tubi.io/live/b7a3d7d3-9d59-49c7-84fe-2e6742d31519/playlist.m3u8
+#EXTINF:-1 tvg-name="TMJ4 News Milwaukee" tvg-id="687451" tvg-logo="https://canvas.tubitv.com/opts/zf93IU05Qb9Mjg==/b4316034-83c2-4f21-86b5-255caf1f8742/CHgQeDoFMS4xLjJAAQ==" group-title="Local News",TMJ4 News Milwaukee
+https://live-manifest.production-public.tubi.io/live/558113f6-9f55-41d3-83e0-8d6102a9f0ea/playlist.m3u8
 #EXTINF:-1 tvg-name="TMZ" tvg-id="641496" tvg-logo="https://canvas.tubitv.com/opts/keCxQ1At9P8k7g==/ac6425fe-0808-4566-ba6a-066d22dc3829/CHgQeDoFMS4xLjJAAQ==" group-title="Pop Culture",TMZ
 https://live-manifest.production-public.tubi.io/live/240f06c8-13a9-4b36-856d-98a208d1e87e/playlist.m3u8
 #EXTINF:-1 tvg-name="Today All Day" tvg-id="597678" tvg-logo="https://canvas.tubitv.com/opts/mqFzwR1jSpJn_w==/bf04720c-d113-4728-a69a-a0ebc800e7b3/CHgQeDoFMS4xLjJAAQ==" group-title="National News",Today All Day
