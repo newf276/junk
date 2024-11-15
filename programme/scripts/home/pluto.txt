@@ -1,21 +1,3 @@
-PlutoTV Canada
-https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz
-
-PlutoTV Great Britain
-https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz
-
-PlutoTV USA
-https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz
-
-Plex Canada
-https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/ca.xml.gz
-
-Plex Great Britain
-https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/gb.xml.gz
-
-Plex USA
-https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/us.xml.gz
-
 SamsungTVPlus Canada
 https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/ca.xml.gz
 
