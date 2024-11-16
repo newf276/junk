@@ -1,3 +1,6 @@
+PLutoTV
+https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz
+
 SamsungTVPlus Canada
 https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/ca.xml.gz
 
