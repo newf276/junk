@@ -4,6 +4,9 @@ https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz
 PLutoTV USA
 https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz
 
+Plex CA
+https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/ca.xml.gz
+
 SamsungTVPlus Canada
 https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/ca.xml.gz
 
