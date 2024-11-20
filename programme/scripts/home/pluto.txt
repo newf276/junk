@@ -4,6 +4,9 @@ https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz
 PLutoTV USA
 https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz
 
+PLutoTV GB
+https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz
+
 Plex CA
 https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/ca.xml.gz
 
