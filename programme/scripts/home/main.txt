@@ -3,3 +3,7 @@ https://github.com/newf276/junk/raw/master/programme/pluto.xml.gz
 
 Master Guide
 http://xtream-ie.org/xmltv.php?username=q8D2FXBP5cw&password=xyHASWKTh
+
+Xumo
+https://github.com/newf276/xmltv-epg/releases/latest/download/epg-xumo-en.xml.gz
+
