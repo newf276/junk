@@ -37,7 +37,7 @@ https://live-manifest.production-public.tubi.io/live/37535650-46df-4350-8022-723
 https://live-manifest.production-public.tubi.io/live/647bc22c-e1bb-4bca-afaf-5de99cbc2286/playlist.m3u8
 #EXTINF:-1 tvg-name="BUZZR" tvg-id="653200" tvg-logo="https://canvas.tubitv.com/opts/Jqcwmz06I98OmA==/078ff1ec-e958-4672-bf6b-6cad68c21b41/CHgQeDoFMS4xLjJAAQ==" group-title="Games & Competition",BUZZR
 https://live-manifest.production-public.tubi.io/live/e1f5440e-a113-4174-8d34-73d8f86d3a20/playlist.m3u8
-#EXTINF:-1 tvg-name="CBC" tvg-id="555130" tvg-logo="https://canvas.tubitv.com/opts/ksE7M7h-3I9OSw==/ac428ddf-a11f-44f9-8639-0938b4f8b112/CHgQeDoFMS4xLjJAAQ==" group-title="Global News",CBC
+#EXTINF:-1 tvg-name="CBC News" tvg-id="555130" tvg-logo="https://canvas.tubitv.com/opts/f4HLjW1q68mTUA==/4de90f79-d72c-4016-a740-93916a615dc2/CHgQeDoFMS4xLjJAAQ==" group-title="Global News",CBC News
 https://live-manifest.production-public.tubi.io/live/27ca0815-4de4-4ab3-b684-ef61cee50fd9/playlist.m3u8
 #EXTINF:-1 tvg-name="Chasing Criminals" tvg-id="400000074" tvg-logo="https://canvas.tubitv.com/opts/0C8x-4D2sdDgXQ==/9f0a41fe-3e4d-44cf-ab49-e27914cdd8c1/CHgQeDoFMS4xLjJAAQ==" group-title="True Crime",Chasing Criminals
 https://live-manifest.production-public.tubi.io/live/9cd52bcf-7560-4beb-a3c4-9e6d095bafde/playlist.m3u8
