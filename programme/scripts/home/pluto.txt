@@ -1,15 +1,6 @@
 PLutoTV Canada
 https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz
 
-PLutoTV USA
-https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz
-
-PLutoTV GB
-https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz
-
-Plex CA
-https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/ca.xml.gz
-
 SamsungTVPlus Canada
 https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/ca.xml.gz
 
@@ -18,9 +9,6 @@ https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz
 
 SamsungTVPlus USA
 https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz
-
-Roku
-https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz
 
 Tubi
 https://github.com/newf276/junk/raw/master/programme/tub.xml
