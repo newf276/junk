@@ -149,7 +149,7 @@ for row in rows:
             all_links.append((group_name, channel_name, link_url))
 
 # Print the M3U header
-print("#EXTM3U url-tvg=\"https://github.com/newf276/junk/raw/refs/heads/master/en/videoall.xml\"\n")
+print("#EXTM3U url-tvg=\"https://github.com/newf276/junk/raw/master/programme/home.xml.gz\"\n")
 
 # Example usage of extracting and converting time:
 for group, name, link in all_links:
