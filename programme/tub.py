@@ -142,7 +142,7 @@ def create_m3u_playlist(epg_data, group_mapping, country):
     # Sort the channels alphabetically by their names
     sorted_epg_data = sorted(epg_data, key=lambda x: x.get('title', '').lower())
 
-    playlist = f"#EXTM3U url-tvg=\"https://github.com/dtankdempse/tubi-m3u/raw/refs/heads/main/tubi_epg_{country}.xml\"\n"
+    playlist = f"#EXTM3U url-tvg=\"https://github.com/newf276/junk/raw/refs/heads/main/tub.xml\"\n"
     seen_urls = set()  # Set to track URLs that have already been added
 
     for elem in sorted_epg_data:
