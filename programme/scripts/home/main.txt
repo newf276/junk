@@ -14,7 +14,7 @@ Xumo
 https://github.com/newf276/xmltv-epg/releases/latest/download/epg-xumo-en.xml.gz
 
 Tubi
-https://thetvapp-m3u.data-search.workers.dev/epg
+https://github.com/dtankdempse/tubi-m3u/raw/refs/heads/main/tubi_epg_us.xml
 
 Master Guide
 http://xtream-ie.org/xmltv.php?username=q8D2FXBP5cw&password=xyHASWKTh
