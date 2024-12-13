@@ -2,7 +2,7 @@ name: Pull M3u
 
 on:
   schedule:
-    - cron: '00 */3 * * *' # Runs every 3 hrs
+    - cron: '00 */1 * * *' # Runs every hour
   workflow_dispatch:      # Enable manual triggering
 
 jobs:
@@ -73,6 +73,6 @@ jobs:
           commit_message: "Update token"
           branch: master
           files: |
-            en/videolivetv.m3u en/videoevents.m3u en/videoall.m3u
+            en/freetv.m3u en/videolivetv.m3u en/videoevents.m3u en/videoall.m3u
         env:
           GITHUB_TOKEN: ${{ secrets.ROTANA_TOKEN }}
