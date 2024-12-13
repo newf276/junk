@@ -2,7 +2,7 @@ name: VideoXML
 
 on:
   schedule:
-    - cron: '00 */8 * * *' # Runs every 8 hrs
+    - cron: '00 */5 * * *' # Runs every 5 hrs
   workflow_dispatch:
 
 jobs:
