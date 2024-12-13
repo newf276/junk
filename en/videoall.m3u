@@ -1,41 +1,94 @@
 #EXTM3U url-tvg="https://github.com/newf276/junk/raw/master/programme/home.xml.gz"
-
-#EXTINF:-1 group-title="NHL",12/12/24 07:00:00 PM EST = Anaheim Ducks vs. Toronto Maple Leafs
-https://v7.thetvapp.to/hls/NHL23/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 07:00:00 PM EST = Washington Capitals vs. Columbus Blue Jackets
-https://v7.thetvapp.to/hls/NHL27/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 07:00:00 PM EST = Detroit Red Wings vs. Philadelphia Flyers
-https://v8.thetvapp.to/hls/NHL31/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 07:00:00 PM EST = Los Angeles Kings vs. New Jersey Devils
-https://v11.thetvapp.to/hls/NHL32/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 07:00:00 PM EST = Pittsburgh Penguins vs. Montréal Canadiens
-https://v11.thetvapp.to/hls/tsn2/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 07:30:00 PM EST = Chicago Blackhawks vs. New York Islanders
-https://v10.thetvapp.to/hls/NHL30/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 08:00:00 PM EST = Nashville Predators vs. Dallas Stars
-https://v2.thetvapp.to/hls/NHL11/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 08:00:00 PM EST = Vegas Golden Knights vs. Winnipeg Jets
-https://v2.thetvapp.to/hls/NHL02/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 08:00:00 PM EST = San Jose Sharks vs. St Louis Blues
-https://v3.thetvapp.to/hls/NHL21/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 08:30:00 PM EST = Edmonton Oilers vs. Minnesota Wild
-https://v3.thetvapp.to/hls/NHL12/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 09:00:00 PM EST = Tampa Bay Lightning vs. Calgary Flames
-https://v12.thetvapp.to/hls/NHL15/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 09:00:00 PM EST = Utah Hockey Club vs. Colorado Avalanche
-https://v7.thetvapp.to/hls/NHL19/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 10:00:00 PM EST = Boston Bruins vs. Seattle Kraken
-https://v11.thetvapp.to/hls/NHL29/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NHL",12/12/24 10:00:00 PM EST = Florida Panthers vs. Vancouver Canucks
-https://v4.thetvapp.to/hls/NHL03/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NBA",12/12/24 07:40:00 PM EST = Toronto Raptors vs. Miami Heat
-https://v16.thetvapp.to/hls/NBA16/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NBA",12/12/24 07:40:00 PM EST = Detroit Pistons vs. Boston Celtics
-https://v15.thetvapp.to/hls/NBATV/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NBA",12/12/24 08:10:00 PM EST = Sacramento Kings vs. New Orleans Pelicans
-https://v15.thetvapp.to/hls/NBA01/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
-#EXTINF:-1 group-title="NFL",12/12/24 08:15:00 PM EST = Los Angeles Rams vs. San Francisco 49ers
-https://v15.thetvapp.to/hls/tsn1/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 tvg-id="cbchalifax.ca" tvg-name="CBC Halifax Gem" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" group-title="Locals",CBC Halifax Gem
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+#EXTINF:-1 tvg-id="cbcstjohns.ca" tvg-name="CBC St Johns Gem" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" group-title="Locals",CBC St Johns Gem
+https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CBC Toronto Gem" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" group-title="Locals",CBC Toronto Gem
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+#EXTINF:-1 tvg-id="cbcvancouver.ca" tvg-name="CBC Vancouver Gem" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" group-title="Locals",CBC Vancouver Gem
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+#EXTINF:-1 tvg-id="chek.ca" tvg-name="CHEK Victoria Fast" tvg-logo="https://pbs.twimg.com/profile_images/1619126372265500674/z-ptP-fD_400x400.jpg" group-title="Locals",CHEK Victoria Fast
+https://livecdn.use1-0004.jwplive.com/live/sites/HGOnqYhO/media/i9sjcGbc/live.isml/.mpd
+#EXTINF:-1 tvg-id="ntv.ca" tvg-name="NTV Plus (On Demand)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRQuy9ln2ZAP_0n2V4uawR5bPGXxUSHAu2w&usqp=CAU" group-title="Locals",NTV Plus (On Demand)
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="USBC39000171G" tvg-name="ABC News Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20241105T024229SQUARE.png" group-title="News",ABC News Live
+https://jmp2.uk/sam-USBC39000171G.m3u8
+#EXTINF:-1 tvg-id="aljazeeraenglish.us" tvg-name="AL Jazeera" tvg-logo="https://logo.iptveditor.com/aljazeera.png" group-title="News",AL Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="US4000033L" tvg-name="BBC News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240520T223600SQUARE.png" group-title="News",BBC News
+https://jmp2.uk/sam-US4000033L.m3u8
+#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CBC News" tvg-logo="https://logo.iptveditor.com/cbcnewsnetwork.png" group-title="News",CBC News
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+#EXTINF:-1 tvg-id="CA15000018F" tvg-name="CBC News BC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA15000018F_20241203T005215SQUARE.png" group-title="News",CBC News BC
+https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
+#EXTINF:-1 tvg-id="CA1500002Q4" tvg-name="CBC News Toronto" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500002Q4_20241203T005217SQUARE.png" group-title="News",CBC News Toronto
+https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
+#EXTINF:-1 tvg-id="USBA370000104" tvg-name="CBS News 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20241112T000842SQUARE.png" group-title="News",CBS News 24/7
+https://jmp2.uk/sam-USBA370000104.m3u8
+#EXTINF:-1 tvg-id="USAJ3504714A" tvg-name="Cheddar News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504714A_20240520T214521SQUARE.png" group-title="News",Cheddar News
+https://jmp2.uk/sam-USAJ3504714A.m3u8
+#EXTINF:-1 tvg-id="citynews24/7west.ca" tvg-name="City News BC" tvg-logo="https://logo.iptveditor.com/cnews.png" group-title="News",City News BC
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:-1 tvg-id="citynews24/7.ca" tvg-name="City News Toronto" tvg-logo="https://logo.iptveditor.com/cnews.png" group-title="News",City News Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="News",CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN US" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20241106T143041SQUARE.png" group-title="News",CNN US
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="CNN International" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="News",CNN International
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="CA1400004AE" tvg-name="CTV News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400004AE_20240709T002014SQUARE.png" group-title="News",CTV News
+https://jmp2.uk/sam-CA1400004AE.m3u8
+#EXTINF:-1 tvg-id="dw.us" tvg-name="Dutch Weiller News" tvg-logo="https://logo.iptveditor.com/dwdeutsch.png" group-title="News",Dutch Weiller News
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="GBAJ4900020VP" tvg-name="Euronews Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png" group-title="News",Euronews Live
+https://jmp2.uk/sam-GBAJ4900020VP.m3u8
+#EXTINF:-1 tvg-id="USBD700003L7" tvg-name="Fox Weather" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20240520T222853SQUARE.png" group-title="News",Fox Weather
+https://jmp2.uk/sam-USBD700003L7.m3u8
+#EXTINF:-1 tvg-id="GBBD1100002L5" tvg-name="France 24" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20230823T033121SQUARE.png_20230823033121.png" group-title="News",France 24
+https://jmp2.uk/sam-GBBD1100002L5.m3u8
+#EXTINF:-1 tvg-id="GBBB1600008R3" tvg-name="GB News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20220412T153106SQUARE.png_20220412153107.png" group-title="News",GB News
+https://jmp2.uk/sam-GBBB1600008R3.m3u8
+#EXTINF:-1 tvg-id="62cbf063257170000724590c" tvg-name="Global News BC" tvg-logo="https://logo.iptveditor.com/globalnewsbc1.png" group-title="News",Global News BC
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
+#EXTINF:-1 tvg-id="62cbf398b8e02600071deda5" tvg-name="Global News Halifax" tvg-logo="https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png" group-title="News",Global News Halifax
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+#EXTINF:-1 tvg-id="USBA300024TN" tvg-name="LiveNow from Fox" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20241031T150121SQUARE.png" group-title="News",LiveNow from Fox
+https://jmp2.uk/sam-USBA300024TN.m3u8
+#EXTINF:-1 tvg-id="CAAJ2700011IF" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700011IF_20241105T181114SQUARE.png" group-title="News",NBC News NOW
+https://jmp2.uk/sam-CAAJ2700011IF.m3u8
+#EXTINF:-1 tvg-id="USBA300028QU" tvg-name="NewsMax 2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20240520T222736SQUARE.png" group-title="News",NewsMax 2
+https://jmp2.uk/sam-USBA300028QU.m3u8
+#EXTINF:-1 tvg-id="GBBD4900001RG" tvg-name="Reuters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4900001RG_20240131T031226SQUARE.png_20240131031227.png" group-title="News",Reuters
+https://jmp2.uk/sam-GBBD4900001RG.m3u8
+#EXTINF:-1 tvg-id="USBD3000073N" tvg-name="Scripps News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20240520T223411SQUARE.png" group-title="News",Scripps News
+https://jmp2.uk/sam-USBD3000073N.m3u8
+#EXTINF:-1 tvg-id="USBB52000022Q" tvg-name="Sky News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20241015T223528SQUARE.png" group-title="News",Sky News
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814560/hls/master.m3u8?ads.xumo_channelId=88814560&ads.xumo_streamId=88814560
+#EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-name="Stories by AMC" tvg-logo="https://image.xumo.com/v1/channels/channel/99991622/200x200.webp?type=color_onBlack" group-title="News",Stories by AMC
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991622/hls/playlist.m3u8?ads.xumo_channelId=99991622
+#EXTINF:-1 tvg-id="GBAJ2400003DD" tvg-name="The Guardian" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ2400003DD_20220323T071326SQUARE.png_20220323071329.png" group-title="News",The Guardian
+https://jmp2.uk/sam-GBAJ2400003DD.m3u8
+#EXTINF:-1 tvg-id="CABC23000223U" tvg-name="The Weather Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000223U_20230222T042958SQUARE.png_20230222042958.png" group-title="News",The Weather Network
+https://jmp2.uk/sam-CABC23000223U.m3u8
+#EXTINF:-1 tvg-id="trtworld.uk" tvg-name="TRT World" tvg-logo="https://logo.iptveditor.com/mytrtworld.png" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="wion.uk" tvg-name="World Latest English News" tvg-logo="https://logo.iptveditor.com/wion.png" group-title="News",World Latest English News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="USAJ4300005PJ" tvg-name="Yahoo Finance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20240520T222814SQUARE.png" group-title="News",Yahoo Finance
+https://jmp2.uk/sam-USAJ4300005PJ.m3u8
+#EXTINF:-1 tvg-id="GB2600017PX" tvg-name="100% Christmas - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20241126T043522SQUARE.png" group-title="Entertainment",100% Christmas - Rakuten TV
+https://jmp2.uk/sam-GB2600017PX.m3u8
+#EXTINF:-1 tvg-id="GBBC900007Q5" tvg-name="365 Great! Christmas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20241030T142701SQUARE.png" group-title="Entertainment",365 Great! Christmas
+https://jmp2.uk/sam-GBBC900007Q5.m3u8
+#EXTINF:-1 tvg-id="GBBC900008L9" tvg-name="365 Great! Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900008L9_20241030T142556SQUARE.png" group-title="Entertainment",365 Great! Romance
+https://jmp2.uk/sam-GBBC900008L9.m3u8
+#EXTINF:-1 tvg-id="CABD1200037BS" tvg-name="365 Greatest Holiday Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200037BS_20241105T024455SQUARE.png" group-title="Entertainment",365 Greatest Holiday Hits
+https://jmp2.uk/sam-CABD1200037BS.m3u8
+#EXTINF:-1 tvg-id="CA4000013R" tvg-name="365 Holidayscapes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4000013R_20241105T181141SQUARE.png" group-title="Entertainment",365 Holidayscapes
+https://jmp2.uk/sam-CA4000013R.m3u8
+#EXTINF:-1 tvg-id="GB2600014LQ" tvg-name="365 Romance Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600014LQ_20241022T043441SQUARE.png" group-title="Entertainment",365 Romance Movies
+https://jmp2.uk/sam-GB2600014LQ.m3u8
 #EXTINF:-1 tvg-ID="A&E" tvg-name="A&E" tvg-logo="https://cdn.tvpassport.com/image/station/960x540/v2/s10036_h15_aa.png" group-title="TVApp", A&E
 https://v8.thetvapp.to/hls/AEEast/index.m3u8?token=bTJ5UkJrWXRGYnlSTU82Yk9hb3hUVTJmdEo4a1V1UGRsR1JnTVlQTQ==
 #EXTINF:-1 tvg-ID="ACC Network" tvg-name="ACC Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s111905_h15_ac.png" group-title="TVApp", ACC Network
@@ -272,3 +325,39 @@ https://v12.thetvapp.to/hls/WeTVEast/index.m3u8?token=bTJ5UkJrWXRGYnlSTU82Yk9hb3
 https://v4.thetvapp.to/hls/WNBCDT1/index.m3u8?token=bTJ5UkJrWXRGYnlSTU82Yk9hb3hUVTJmdEo4a1V1UGRsR1JnTVlQTQ==
 #EXTINF:-1 tvg-ID="WNYW (New York) FOX East" tvg-name="WNYW (New York) FOX East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" group-title="TVApp", WNYW (New York) FOX East
 https://v4.thetvapp.to/hls/WNYWDT1/index.m3u8?token=bTJ5UkJrWXRGYnlSTU82Yk9hb3hUVTJmdEo4a1V1UGRsR1JnTVlQTQ==
+#EXTINF:-1 group-title="NHL",12/12/24 07:00:00 PM EST = Anaheim Ducks vs. Toronto Maple Leafs
+https://v7.thetvapp.to/hls/NHL23/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 07:00:00 PM EST = Washington Capitals vs. Columbus Blue Jackets
+https://v7.thetvapp.to/hls/NHL27/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 07:00:00 PM EST = Detroit Red Wings vs. Philadelphia Flyers
+https://v8.thetvapp.to/hls/NHL31/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 07:00:00 PM EST = Los Angeles Kings vs. New Jersey Devils
+https://v11.thetvapp.to/hls/NHL32/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 07:00:00 PM EST = Pittsburgh Penguins vs. Montréal Canadiens
+https://v11.thetvapp.to/hls/tsn2/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 07:30:00 PM EST = Chicago Blackhawks vs. New York Islanders
+https://v10.thetvapp.to/hls/NHL30/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 08:00:00 PM EST = Nashville Predators vs. Dallas Stars
+https://v2.thetvapp.to/hls/NHL11/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 08:00:00 PM EST = Vegas Golden Knights vs. Winnipeg Jets
+https://v2.thetvapp.to/hls/NHL02/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 08:00:00 PM EST = San Jose Sharks vs. St Louis Blues
+https://v3.thetvapp.to/hls/NHL21/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 08:30:00 PM EST = Edmonton Oilers vs. Minnesota Wild
+https://v3.thetvapp.to/hls/NHL12/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 09:00:00 PM EST = Tampa Bay Lightning vs. Calgary Flames
+https://v12.thetvapp.to/hls/NHL15/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 09:00:00 PM EST = Utah Hockey Club vs. Colorado Avalanche
+https://v7.thetvapp.to/hls/NHL19/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 10:00:00 PM EST = Boston Bruins vs. Seattle Kraken
+https://v11.thetvapp.to/hls/NHL29/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NHL",12/12/24 10:00:00 PM EST = Florida Panthers vs. Vancouver Canucks
+https://v4.thetvapp.to/hls/NHL03/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NBA",12/12/24 07:40:00 PM EST = Toronto Raptors vs. Miami Heat
+https://v16.thetvapp.to/hls/NBA16/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NBA",12/12/24 07:40:00 PM EST = Detroit Pistons vs. Boston Celtics
+https://v15.thetvapp.to/hls/NBATV/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NBA",12/12/24 08:10:00 PM EST = Sacramento Kings vs. New Orleans Pelicans
+https://v15.thetvapp.to/hls/NBA01/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
+#EXTINF:-1 group-title="NFL",12/12/24 08:15:00 PM EST = Los Angeles Rams vs. San Francisco 49ers
+https://v15.thetvapp.to/hls/tsn1/index.m3u8?token=b1N1R0U4ZXJrVkdubHIybXIxNHZyelJqZHJwbHByWWlONWdCUzVWSw==
