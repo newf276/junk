@@ -1,0 +1,57 @@
+name: 2. Pull Tubi Programme
+
+on:
+  schedule:
+    - cron: '00 */4 * * *' # Runs every 4 hrs
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 playwright
+
+    - name: Install Playwright Browsers
+      run: |
+        python -m playwright install firefox
+
+    - name: Run Python script
+      run: |
+        python tubi.py || exit 1  # Fail the workflow if the Python script fails
+
+    - name: Checkout the public repository
+      uses: actions/checkout@v3
+      with:
+        repository: newf276/junk
+        path: junk
+
+    - name: Copy playlists to the public repository
+      run: |
+        cp tubi.m3u junk/programme/
+        cp tubi.xml junk/programme/
+        
+    - name: Commit and force push changes to the public repository without saving history
+      run: |
+        cd junk
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        
+        FIRST_COMMIT=$(git rev-list --max-parents=0 HEAD)
+        git reset --soft $FIRST_COMMIT
+
+        git add .
+        git commit -m "Update playlists" || echo "No changes to commit"
+
+        git push -f https://$PAT@github.com/newf276/junk.git master
