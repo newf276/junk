@@ -142,7 +142,7 @@ def create_m3u_playlist(epg_data, group_mapping, country):
     # Sort the channels alphabetically by their names
     sorted_epg_data = sorted(epg_data, key=lambda x: x.get('title', '').lower())
 
-    playlist = f"#EXTM3U url-tvg=\"https://github.com/newf276/junk/raw/refs/heads/main/tub.xml\"\n"
+    playlist = f"#EXTM3U url-tvg=\"https://github.com/newf276/junk/raw/refs/heads/main/tubi_epg_{country}.xml\"\n"
     seen_urls = set()  # Set to track URLs that have already been added
 
     for elem in sorted_epg_data:
@@ -265,8 +265,8 @@ def main():
                 epg_tree = create_epg_xml(epg_data)
 
                 # Save files with appended country code
-                save_file(m3u_playlist, f"tub.m3u")
-                save_epg_to_file(epg_tree, f"tub.xml")
+                save_file(m3u_playlist, f"tubi_playlist_{country.lower()}.m3u")
+                save_epg_to_file(epg_tree, f"tubi_epg_{country.lower()}.xml")
 
                 # Break after successful fetch to avoid using multiple proxies for the same country
                 break
