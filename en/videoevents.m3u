@@ -1,20 +1,20 @@
 #EXTM3U url-tvg="https://github.com/newf276/junk/raw/master/programme/home.xml.gz"
 
 #EXTINF:-1 group-title="NHL",12/13/24 07:00:00 PM EST = Ottawa Senators vs. Carolina Hurricanes
-https://v6.thetvapp.to/hls/NHLNetwork/index.m3u8?token=OG9VUFgyZWNyM2xmSnlmN2YzNk5mOWw3bkR4ZjI2eGpTa0ZMaWVTWA==
+https://v4.thetvapp.to/hls/NHLNetwork/index.m3u8?token=N2dmV2tXaUhpcWxPeXpEd1hJVXpJTW9RRFJhdkhKMFhqY0hSSUh2YQ==
 #EXTINF:-1 group-title="NBA",12/13/24 07:10:00 PM EST = Washington Wizards vs. Cleveland Cavaliers
-https://v8.thetvapp.to/hls/NBA06/index.m3u8?token=OG9VUFgyZWNyM2xmSnlmN2YzNk5mOWw3bkR4ZjI2eGpTa0ZMaWVTWA==
+https://v4.thetvapp.to/hls/NBA06/index.m3u8?token=N2dmV2tXaUhpcWxPeXpEd1hJVXpJTW9RRFJhdkhKMFhqY0hSSUh2YQ==
 #EXTINF:-1 group-title="NBA",12/13/24 07:10:00 PM EST = Indiana Pacers vs. Philadelphia 76ers
-https://v12.thetvapp.to/hls/NBA02/index.m3u8?token=OG9VUFgyZWNyM2xmSnlmN2YzNk5mOWw3bkR4ZjI2eGpTa0ZMaWVTWA==
+https://v10.thetvapp.to/hls/NBA02/index.m3u8?token=N2dmV2tXaUhpcWxPeXpEd1hJVXpJTW9RRFJhdkhKMFhqY0hSSUh2YQ==
 #EXTINF:-1 group-title="NBA",12/13/24 08:10:00 PM EST = Brooklyn Nets vs. Memphis Grizzlies
-https://v12.thetvapp.to/hls/NBA11/index.m3u8?token=OG9VUFgyZWNyM2xmSnlmN2YzNk5mOWw3bkR4ZjI2eGpTa0ZMaWVTWA==
+https://v10.thetvapp.to/hls/NBA11/index.m3u8?token=N2dmV2tXaUhpcWxPeXpEd1hJVXpJTW9RRFJhdkhKMFhqY0hSSUh2YQ==
 #EXTINF:-1 group-title="NBA",12/13/24 08:10:00 PM EST = Charlotte Hornets vs. Chicago Bulls
-https://v16.thetvapp.to/hls/NBA15/index.m3u8?token=OG9VUFgyZWNyM2xmSnlmN2YzNk5mOWw3bkR4ZjI2eGpTa0ZMaWVTWA==
+https://v12.thetvapp.to/hls/NBA15/index.m3u8?token=N2dmV2tXaUhpcWxPeXpEd1hJVXpJTW9RRFJhdkhKMFhqY0hSSUh2YQ==
 #EXTINF:-1 group-title="NBA",12/13/24 08:10:00 PM EST = Los Angeles Lakers vs. Minnesota Timberwolves
-https://v16.thetvapp.to/hls/NBA12/index.m3u8?token=OG9VUFgyZWNyM2xmSnlmN2YzNk5mOWw3bkR4ZjI2eGpTa0ZMaWVTWA==
+https://v12.thetvapp.to/hls/NBA12/index.m3u8?token=N2dmV2tXaUhpcWxPeXpEd1hJVXpJTW9RRFJhdkhKMFhqY0hSSUh2YQ==
 #EXTINF:-1 group-title="NBA",12/13/24 09:10:00 PM EST = Los Angeles Clippers vs. Denver Nuggets
-https://v2.thetvapp.to/hls/NBATV/index.m3u8?token=OG9VUFgyZWNyM2xmSnlmN2YzNk5mOWw3bkR4ZjI2eGpTa0ZMaWVTWA==
+https://v14.thetvapp.to/hls/NBATV/index.m3u8?token=N2dmV2tXaUhpcWxPeXpEd1hJVXpJTW9RRFJhdkhKMFhqY0hSSUh2YQ==
 #EXTINF:-1 group-title="NBA",12/13/24 09:40:00 PM EST = Phoenix Suns vs. Utah Jazz
-https://v8.thetvapp.to/hls/NBA04/index.m3u8?token=OG9VUFgyZWNyM2xmSnlmN2YzNk5mOWw3bkR4ZjI2eGpTa0ZMaWVTWA==
+https://v13.thetvapp.to/hls/NBA04/index.m3u8?token=N2dmV2tXaUhpcWxPeXpEd1hJVXpJTW9RRFJhdkhKMFhqY0hSSUh2YQ==
 #EXTINF:-1 group-title="NBA",12/13/24 10:10:00 PM EST = San Antonio Spurs vs. Portland Trail Blazers
-https://v10.thetvapp.to/hls/NBA27/index.m3u8?token=OG9VUFgyZWNyM2xmSnlmN2YzNk5mOWw3bkR4ZjI2eGpTa0ZMaWVTWA==
+https://v13.thetvapp.to/hls/NBA27/index.m3u8?token=N2dmV2tXaUhpcWxPeXpEd1hJVXpJTW9RRFJhdkhKMFhqY0hSSUh2YQ==
