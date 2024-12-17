@@ -1,26 +1,26 @@
 #EXTM3U url-tvg="https://github.com/newf276/junk/raw/master/programme/home.xml.gz"
 
 #EXTINF:-1 group-title="NHL",12/17/24 07:00:00 PM EST = Buffalo Sabres vs. Montréal Canadiens
-https://v15.thetvapp.to/hls/tsn2/index.m3u8?token=NjZXOHdLS3VkQzNwVkw3ejE3aFJQalE1aEc0cEZlUG5JUG1wZEwzWA==
+https://v11.thetvapp.to/hls/tsn2/index.m3u8?token=ZFVBQ2Z4MHJYMzRGT2ZvSmRrS2ZuYVRrd1dkQjFOV0Y5ejV2SVpURA==
 #EXTINF:-1 group-title="NHL",12/17/24 07:00:00 PM EST = Columbus Blue Jackets vs. Tampa Bay Lightning
 https://github.com/newf276/junk/raw/master/en/offline.mp4
 #EXTINF:-1 group-title="NHL",12/17/24 07:00:00 PM EST = Los Angeles Kings vs. Pittsburgh Penguins
-https://v6.thetvapp.to/hls/sportsnet-east/index.m3u8?token=NjZXOHdLS3VkQzNwVkw3ejE3aFJQalE1aEc0cEZlUG5JUG1wZEwzWA==
+https://v8.thetvapp.to/hls/sportsnet-east/index.m3u8?token=ZFVBQ2Z4MHJYMzRGT2ZvSmRrS2ZuYVRrd1dkQjFOV0Y5ejV2SVpURA==
 #EXTINF:-1 group-title="NHL",12/17/24 07:30:00 PM EST = New York Islanders vs. Carolina Hurricanes
-https://v6.thetvapp.to/hls/NHL04/index.m3u8?token=NjZXOHdLS3VkQzNwVkw3ejE3aFJQalE1aEc0cEZlUG5JUG1wZEwzWA==
+https://v10.thetvapp.to/hls/NHL04/index.m3u8?token=ZFVBQ2Z4MHJYMzRGT2ZvSmRrS2ZuYVRrd1dkQjFOV0Y5ejV2SVpURA==
 #EXTINF:-1 group-title="NHL",12/17/24 08:00:00 PM EST = New York Rangers vs. Nashville Predators
 https://github.com/newf276/junk/raw/master/en/offline.mp4
 #EXTINF:-1 group-title="NHL",12/17/24 08:00:00 PM EST = New Jersey Devils vs. St Louis Blues
-https://v13.thetvapp.to/hls/NHL05/index.m3u8?token=NjZXOHdLS3VkQzNwVkw3ejE3aFJQalE1aEc0cEZlUG5JUG1wZEwzWA==
+https://v16.thetvapp.to/hls/NHL05/index.m3u8?token=ZFVBQ2Z4MHJYMzRGT2ZvSmRrS2ZuYVRrd1dkQjFOV0Y5ejV2SVpURA==
 #EXTINF:-1 group-title="NHL",12/17/24 08:30:00 PM EST = Washington Capitals vs. Chicago Blackhawks
 https://github.com/newf276/junk/raw/master/en/offline.mp4
 #EXTINF:-1 group-title="NHL",12/17/24 09:00:00 PM EST = Boston Bruins vs. Calgary Flames
-https://v11.thetvapp.to/hls/NHL08/index.m3u8?token=NjZXOHdLS3VkQzNwVkw3ejE3aFJQalE1aEc0cEZlUG5JUG1wZEwzWA==
+https://v6.thetvapp.to/hls/NHL08/index.m3u8?token=ZFVBQ2Z4MHJYMzRGT2ZvSmRrS2ZuYVRrd1dkQjFOV0Y5ejV2SVpURA==
 #EXTINF:-1 group-title="NHL",12/17/24 10:00:00 PM EST = Ottawa Senators vs. Seattle Kraken
-https://v14.thetvapp.to/hls/NHL09/index.m3u8?token=NjZXOHdLS3VkQzNwVkw3ejE3aFJQalE1aEc0cEZlUG5JUG1wZEwzWA==
+https://v7.thetvapp.to/hls/NHL09/index.m3u8?token=ZFVBQ2Z4MHJYMzRGT2ZvSmRrS2ZuYVRrd1dkQjFOV0Y5ejV2SVpURA==
 #EXTINF:-1 group-title="NHL",12/17/24 10:30:00 PM EST = Winnipeg Jets vs. San Jose Sharks
-https://v14.thetvapp.to/hls/tsn3/index.m3u8?token=NjZXOHdLS3VkQzNwVkw3ejE3aFJQalE1aEc0cEZlUG5JUG1wZEwzWA==
+https://v7.thetvapp.to/hls/tsn3/index.m3u8?token=ZFVBQ2Z4MHJYMzRGT2ZvSmRrS2ZuYVRrd1dkQjFOV0Y5ejV2SVpURA==
 #EXTINF:-1 group-title="NBA",12/17/24 08:40:00 PM EST = Milwaukee Bucks vs. Oklahoma City Thunder
-https://v4.thetvapp.to/hls/WABCDT1/index.m3u8?token=NjZXOHdLS3VkQzNwVkw3ejE3aFJQalE1aEc0cEZlUG5JUG1wZEwzWA==
+https://v3.thetvapp.to/hls/WABCDT1/index.m3u8?token=ZFVBQ2Z4MHJYMzRGT2ZvSmRrS2ZuYVRrd1dkQjFOV0Y5ejV2SVpURA==
 #EXTINF:-1 group-title="NCAAF",12/17/24 09:00:00 PM EST = Memphis Tigers vs. West Virginia Mountaineers
-https://v4.thetvapp.to/hls/ESPN/index.m3u8?token=NjZXOHdLS3VkQzNwVkw3ejE3aFJQalE1aEc0cEZlUG5JUG1wZEwzWA==
+https://v3.thetvapp.to/hls/ESPN/index.m3u8?token=ZFVBQ2Z4MHJYMzRGT2ZvSmRrS2ZuYVRrd1dkQjFOV0Y5ejV2SVpURA==
