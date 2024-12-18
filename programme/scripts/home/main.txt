@@ -22,4 +22,6 @@ https://github.com/newf276/junk/raw/refs/heads/master/en/videoall.xml
 Master Guide
 http://xtream-ie.org/xmltv.php?username=q8D2FXBP5cw&password=xyHASWKTh
 
-https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz
+Roku
+https://i.mjh.nz/Roku/all.xml.gz
+
