@@ -1,6 +1,9 @@
 PLutoTV Canada
 https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz
 
+Roku
+https://i.mjh.nz/Roku/all.xml.gz
+
 SamsungTVPlus Canada
 https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/ca.xml.gz
 
@@ -10,18 +13,5 @@ https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz
 SamsungTVPlus USA
 https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz
 
-Xumo
-https://github.com/newf276/xmltv-epg/releases/latest/download/epg-xumo-en.xml.gz
-
-Tubi
-https://github.com/dtankdempse/tubi-m3u/raw/refs/heads/main/tubi_epg_us.xml
-
-TVApp
-https://github.com/newf276/junk/raw/refs/heads/master/en/videoall.xml
-
 Master Guide
 http://xtream-ie.org/xmltv.php?username=q8D2FXBP5cw&password=xyHASWKTh
-
-Roku
-https://i.mjh.nz/Roku/all.xml.gz
-
