@@ -1,16 +1,50 @@
 #EXTM3U url-tvg="https://github.com/newf276/junk/raw/master/programme/home.xml.gz"
 
-#EXTINF:-1 group-title="NCAAF",12/18/24 05:30:00 PM EST = Western Kentucky Hilltoppers vs. James Madison Dukes
-https://v11.thetvapp.to/hls/ESPN/index.m3u8?token=V2h2RW5FamxmekxlMlJLYjJpQ0lBTk5wZkVYM0E1Y3h6VlBmME9reA==
-#EXTINF:-1 group-title="NCAAF",12/18/24 09:00:00 PM EST = California Golden Bears vs. UNLV Rebels
-https://v6.thetvapp.to/hls/ESPN/index.m3u8?token=V2h2RW5FamxmekxlMlJLYjJpQ0lBTk5wZkVYM0E1Y3h6VlBmME9reA==
-#EXTINF:-1 group-title="NHL",12/18/24 07:00:00 PM EST = Philadelphia Flyers vs. Detroit Red Wings
-https://v6.thetvapp.to/hls/TNTEast/index.m3u8?token=V2h2RW5FamxmekxlMlJLYjJpQ0lBTk5wZkVYM0E1Y3h6VlBmME9reA==
-#EXTINF:-1 group-title="NHL",12/18/24 07:30:00 PM EST = Toronto Maple Leafs vs. Dallas Stars
-https://v10.thetvapp.to/hls/sportsnet-east/index.m3u8?token=V2h2RW5FamxmekxlMlJLYjJpQ0lBTk5wZkVYM0E1Y3h6VlBmME9reA==
-#EXTINF:-1 group-title="NHL",12/18/24 09:30:00 PM EST = Florida Panthers vs. Minnesota Wild
-https://v10.thetvapp.to/hls/TNTEast/index.m3u8?token=V2h2RW5FamxmekxlMlJLYjJpQ0lBTk5wZkVYM0E1Y3h6VlBmME9reA==
-#EXTINF:-1 group-title="NHL",12/18/24 10:00:00 PM EST = Winnipeg Jets vs. Anaheim Ducks
-https://v7.thetvapp.to/hls/tsn3/index.m3u8?token=V2h2RW5FamxmekxlMlJLYjJpQ0lBTk5wZkVYM0E1Y3h6VlBmME9reA==
-#EXTINF:-1 group-title="NHL",12/18/24 10:00:00 PM EST = Vancouver Canucks vs. Utah Hockey Club
-https://v7.thetvapp.to/hls/sportsnet-one/index.m3u8?token=V2h2RW5FamxmekxlMlJLYjJpQ0lBTk5wZkVYM0E1Y3h6VlBmME9reA==
+#EXTINF:-1 group-title="NBA",12/19/24 07:00:00 PM EST = Oklahoma City Thunder vs. Orlando Magic
+https://v3.thetvapp.to/hls/TNTEast/index.m3u8?token=ekxQTVM0TWFnRmZqRG9DM1h3SU5HY2pXWTlkRFpsOHNNZlRiUndBbg==
+#EXTINF:-1 group-title="NBA",12/19/24 07:10:00 PM EST = Charlotte Hornets vs. Washington Wizards
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/19/24 07:10:00 PM EST = Utah Jazz vs. Detroit Pistons
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/19/24 07:40:00 PM EST = Chicago Bulls vs. Boston Celtics
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/19/24 07:40:00 PM EST = Brooklyn Nets vs. Toronto Raptors
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/19/24 08:10:00 PM EST = Atlanta Hawks vs. San Antonio Spurs
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/19/24 08:10:00 PM EST = New Orleans Pelicans vs. Houston Rockets
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/19/24 08:10:00 PM EST = Golden State Warriors vs. Memphis Grizzlies
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/19/24 08:40:00 PM EST = Los Angeles Clippers vs. Dallas Mavericks
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/19/24 09:10:00 PM EST = Indiana Pacers vs. Phoenix Suns
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/19/24 09:30:00 PM EST = New York Knicks vs. Minnesota Timberwolves
+https://v5.thetvapp.to/hls/TNTEast/index.m3u8?token=ekxQTVM0TWFnRmZqRG9DM1h3SU5HY2pXWTlkRFpsOHNNZlRiUndBbg==
+#EXTINF:-1 group-title="NBA",12/19/24 10:10:00 PM EST = Denver Nuggets vs. Portland Trail Blazers
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/19/24 10:10:00 PM EST = Los Angeles Lakers vs. Sacramento Kings
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NCAAF",12/19/24 07:00:00 PM EST = Georgia Southern Eagles vs. Sam Houston State Bearkats
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/19/24 07:00:00 PM EST = St Louis Blues vs. Tampa Bay Lightning
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/19/24 07:00:00 PM EST = New Jersey Devils vs. Columbus Blue Jackets
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/19/24 07:30:00 PM EST = Los Angeles Kings vs. Philadelphia Flyers
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/19/24 08:00:00 PM EST = Pittsburgh Penguins vs. Nashville Predators
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/19/24 08:30:00 PM EST = Seattle Kraken vs. Chicago Blackhawks
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/19/24 09:00:00 PM EST = Boston Bruins vs. Edmonton Oilers
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/19/24 09:00:00 PM EST = Ottawa Senators vs. Calgary Flames
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/19/24 10:00:00 PM EST = Vancouver Canucks vs. Vegas Golden Knights
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/19/24 10:30:00 PM EST = Colorado Avalanche vs. San Jose Sharks
+https://github.com/newf276/junk/raw/master/en/offline.mp4
+#EXTINF:-1 group-title="NFL",12/19/24 08:16:00 PM EST = Denver Broncos vs. Los Angeles Chargers
+https://github.com/newf276/junk/raw/master/en/offline.mp4
