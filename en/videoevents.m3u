@@ -1,28 +1,28 @@
 #EXTM3U url-tvg="https://github.com/newf276/junk/raw/master/programme/home.xml.gz"
 
 #EXTINF:-1 group-title="NCAAF",12/26/24 02:00:00 PM EST = Pittsburgh Panthers vs. Toledo Rockets
-https://v3.thetvapp.to/hls/ESPN/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v15.thetvapp.to/hls/ESPN/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
 #EXTINF:-1 group-title="NCAAF",12/26/24 05:30:00 PM EST = Rutgers Scarlet Knights vs. Kansas State Wildcats
-https://v7.thetvapp.to/hls/ESPN/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v15.thetvapp.to/hls/ESPN/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
 #EXTINF:-1 group-title="NCAAF",12/26/24 09:00:00 PM EST = Arkansas State Red Wolves vs. Bowling Green Falcons
-https://v7.thetvapp.to/hls/ESPN/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v15.thetvapp.to/hls/ESPN/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
 #EXTINF:-1 group-title="NBA",12/26/24 07:00:00 PM EST = Charlotte Hornets vs. Washington Wizards
-https://v12.thetvapp.to/hls/NBA26/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v6.thetvapp.to/hls/NBA26/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
 #EXTINF:-1 group-title="NBA",12/26/24 07:00:00 PM EST = Miami Heat vs. Orlando Magic
-https://v12.thetvapp.to/hls/NBA25/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v9.thetvapp.to/hls/NBA25/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
 #EXTINF:-1 group-title="NBA",12/26/24 07:10:00 PM EST = Oklahoma City Thunder vs. Indiana Pacers
-https://v12.thetvapp.to/hls/NBATV/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v9.thetvapp.to/hls/NBATV/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
 #EXTINF:-1 group-title="NBA",12/26/24 07:40:00 PM EST = Chicago Bulls vs. Atlanta Hawks
-https://v13.thetvapp.to/hls/NBA28/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v8.thetvapp.to/hls/NBA28/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
 #EXTINF:-1 group-title="NBA",12/26/24 08:10:00 PM EST = Brooklyn Nets vs. Milwaukee Bucks
-https://v13.thetvapp.to/hls/NBA21/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v14.thetvapp.to/hls/NBA21/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
 #EXTINF:-1 group-title="NBA",12/26/24 08:10:00 PM EST = Houston Rockets vs. New Orleans Pelicans
-https://v13.thetvapp.to/hls/NBA01/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v3.thetvapp.to/hls/NBA01/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
 #EXTINF:-1 group-title="NBA",12/26/24 08:10:00 PM EST = Toronto Raptors vs. Memphis Grizzlies
-https://v14.thetvapp.to/hls/NBA11/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v11.thetvapp.to/hls/NBA11/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
 #EXTINF:-1 group-title="NBA",12/26/24 10:10:00 PM EST = Detroit Pistons vs. Sacramento Kings
-https://v14.thetvapp.to/hls/NBA17/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v11.thetvapp.to/hls/NBA17/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
 #EXTINF:-1 group-title="NBA",12/26/24 10:10:00 PM EST = Utah Jazz vs. Portland Trail Blazers
-https://v15.thetvapp.to/hls/NBATV/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v7.thetvapp.to/hls/NBATV/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
 #EXTINF:-1 group-title="NFL",12/26/24 08:16:00 PM EST = Seattle Seahawks vs. Chicago Bears
-https://v15.thetvapp.to/hls/tsn3/index.m3u8?token=aUJxb0g2ajRBUEtjQnh5NTE5OGQ2U3FxOHVtblZvUU1ZMzE0NFQ0TQ==
+https://v7.thetvapp.to/hls/tsn3/index.m3u8?token=QUd0TmJaUFduZGtMMlR5VE5GVk9RYmhkV3R6Z0xNb2VWWDlVSDdQVA==
