@@ -15,3 +15,6 @@ https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz
 
 Master Guide
 http://xtream-ie.org/xmltv.php?username=ZMKpVf6Ex9P&password=DYXNk2kuBbcy
+
+XUMO
+https://github.com/newf276/xmltv-epg/releases/latest/download/epg-xumo-en.xml.gz
