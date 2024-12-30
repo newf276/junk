@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/newf276/junk/raw/master/programme/home.xml.gz"
 
 #EXTINF:-1 group-title="NCAAF",12/30/24 02:30:00 PM EST = Iowa Hawkeyes vs. Missouri Tigers
-https://github.com/newf276/junk/raw/master/en/offline.mp4
+https://v8.thetvapp.to/hls/ESPN/index.m3u8?token=R3k1dThMZ1J3SmRhcTZtT1BYNHF4RVV4TkEwd09ySEIxWWhYd25oaQ==
 #EXTINF:-1 group-title="NHL",12/30/24 07:00:00 PM EST = New York Rangers vs. Florida Panthers
 https://github.com/newf276/junk/raw/master/en/offline.mp4
 #EXTINF:-1 group-title="NHL",12/30/24 07:30:00 PM EST = Nashville Predators vs. Winnipeg Jets
@@ -19,7 +19,7 @@ https://github.com/newf276/junk/raw/master/en/offline.mp4
 #EXTINF:-1 group-title="NBA",12/30/24 10:10:00 PM EST = Cleveland Cavaliers vs. Golden State Warriors
 https://github.com/newf276/junk/raw/master/en/offline.mp4
 #EXTINF:-1 group-title="NBA",12/30/24 10:10:00 PM EST = Dallas Mavericks vs. Sacramento Kings
-https://github.com/newf276/junk/raw/master/en/offline.mp4
+https://v11.thetvapp.to/hls/NBATV/index.m3u8?token=R3k1dThMZ1J3SmRhcTZtT1BYNHF4RVV4TkEwd09ySEIxWWhYd25oaQ==
 #EXTINF:-1 group-title="NBA",12/30/24 10:10:00 PM EST = Philadelphia 76ers vs. Portland Trail Blazers
 https://github.com/newf276/junk/raw/master/en/offline.mp4
 #EXTINF:-1 group-title="NFL",12/30/24 08:16:00 PM EST = Detroit Lions vs. San Francisco 49ers
