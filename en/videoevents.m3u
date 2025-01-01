@@ -1,26 +1,26 @@
 #EXTM3U url-tvg="https://github.com/newf276/junk/raw/master/programme/home.xml.gz"
 
 #EXTINF:-1 group-title="NCAAF",01/01/25 01:00:00 PM EST = Texas Longhorns vs. Arizona State Sun Devils
-https://v6.thetvapp.to/hls/ESPNU/index.m3u8?token=MWZsSkowaGZzZWxWa1ZUc01DallVTFlRYk9RWkJGcHFpaU9uRlY3eA==
+https://v14.thetvapp.to/hls/ESPNU/index.m3u8?token=RGF0Vm5EZlJ3NTNYb21mT0xLdEVVR2Z0QVg1SmFtbFZIVk9iUW1qeQ==
 #EXTINF:-1 group-title="NCAAF",01/01/25 05:00:00 PM EST = Ohio State Buckeyes vs. Oregon Ducks
-https://v3.thetvapp.to/hls/ESPNU/index.m3u8?token=MWZsSkowaGZzZWxWa1ZUc01DallVTFlRYk9RWkJGcHFpaU9uRlY3eA==
+https://v17.thetvapp.to/hls/ESPNU/index.m3u8?token=RGF0Vm5EZlJ3NTNYb21mT0xLdEVVR2Z0QVg1SmFtbFZIVk9iUW1qeQ==
 #EXTINF:-1 group-title="NCAAF",01/01/25 08:45:00 PM EST = Notre Dame Fighting Irish vs. Georgia Bulldogs
-https://v4.thetvapp.to/hls/ESPNU/index.m3u8?token=MWZsSkowaGZzZWxWa1ZUc01DallVTFlRYk9RWkJGcHFpaU9uRlY3eA==
+https://v17.thetvapp.to/hls/ESPNU/index.m3u8?token=RGF0Vm5EZlJ3NTNYb21mT0xLdEVVR2Z0QVg1SmFtbFZIVk9iUW1qeQ==
 #EXTINF:-1 group-title="NHL",01/01/25 06:00:00 PM EST = New Jersey Devils vs. Los Angeles Kings
-https://v4.thetvapp.to/hls/NHLNetwork/index.m3u8?token=MWZsSkowaGZzZWxWa1ZUc01DallVTFlRYk9RWkJGcHFpaU9uRlY3eA==
+https://v11.thetvapp.to/hls/NHLNetwork/index.m3u8?token=RGF0Vm5EZlJ3NTNYb21mT0xLdEVVR2Z0QVg1SmFtbFZIVk9iUW1qeQ==
 #EXTINF:-1 group-title="NBA",01/01/25 07:10:00 PM EST = Chicago Bulls vs. Washington Wizards
-https://v8.thetvapp.to/hls/NBA26/index.m3u8?token=MWZsSkowaGZzZWxWa1ZUc01DallVTFlRYk9RWkJGcHFpaU9uRlY3eA==
+https://v11.thetvapp.to/hls/NBA26/index.m3u8?token=RGF0Vm5EZlJ3NTNYb21mT0xLdEVVR2Z0QVg1SmFtbFZIVk9iUW1qeQ==
 #EXTINF:-1 group-title="NBA",01/01/25 07:10:00 PM EST = Orlando Magic vs. Detroit Pistons
-https://v7.thetvapp.to/hls/NBA07/index.m3u8?token=MWZsSkowaGZzZWxWa1ZUc01DallVTFlRYk9RWkJGcHFpaU9uRlY3eA==
+https://v2.thetvapp.to/hls/NBA07/index.m3u8?token=RGF0Vm5EZlJ3NTNYb21mT0xLdEVVR2Z0QVg1SmFtbFZIVk9iUW1qeQ==
 #EXTINF:-1 group-title="NBA",01/01/25 07:40:00 PM EST = Brooklyn Nets vs. Toronto Raptors
-https://v7.thetvapp.to/hls/NBA29/index.m3u8?token=MWZsSkowaGZzZWxWa1ZUc01DallVTFlRYk9RWkJGcHFpaU9uRlY3eA==
+https://v2.thetvapp.to/hls/NBA29/index.m3u8?token=RGF0Vm5EZlJ3NTNYb21mT0xLdEVVR2Z0QVg1SmFtbFZIVk9iUW1qeQ==
 #EXTINF:-1 group-title="NBA",01/01/25 07:40:00 PM EST = New Orleans Pelicans vs. Miami Heat
-https://v11.thetvapp.to/hls/NBA16/index.m3u8?token=MWZsSkowaGZzZWxWa1ZUc01DallVTFlRYk9RWkJGcHFpaU9uRlY3eA==
+https://v13.thetvapp.to/hls/NBA16/index.m3u8?token=RGF0Vm5EZlJ3NTNYb21mT0xLdEVVR2Z0QVg1SmFtbFZIVk9iUW1qeQ==
 #EXTINF:-1 group-title="NBA",01/01/25 07:40:00 PM EST = Utah Jazz vs. New York Knicks
-https://v11.thetvapp.to/hls/NBA09/index.m3u8?token=MWZsSkowaGZzZWxWa1ZUc01DallVTFlRYk9RWkJGcHFpaU9uRlY3eA==
+https://v13.thetvapp.to/hls/NBA09/index.m3u8?token=RGF0Vm5EZlJ3NTNYb21mT0xLdEVVR2Z0QVg1SmFtbFZIVk9iUW1qeQ==
 #EXTINF:-1 group-title="NBA",01/01/25 08:10:00 PM EST = Dallas Mavericks vs. Houston Rockets
-https://v5.thetvapp.to/hls/NBA22/index.m3u8?token=MWZsSkowaGZzZWxWa1ZUc01DallVTFlRYk9RWkJGcHFpaU9uRlY3eA==
+https://v18.thetvapp.to/hls/NBA22/index.m3u8?token=RGF0Vm5EZlJ3NTNYb21mT0xLdEVVR2Z0QVg1SmFtbFZIVk9iUW1qeQ==
 #EXTINF:-1 group-title="NBA",01/01/25 09:10:00 PM EST = Atlanta Hawks vs. Denver Nuggets
-https://v5.thetvapp.to/hls/NBA23/index.m3u8?token=MWZsSkowaGZzZWxWa1ZUc01DallVTFlRYk9RWkJGcHFpaU9uRlY3eA==
+https://v18.thetvapp.to/hls/NBA23/index.m3u8?token=RGF0Vm5EZlJ3NTNYb21mT0xLdEVVR2Z0QVg1SmFtbFZIVk9iUW1qeQ==
 #EXTINF:-1 group-title="NBA",01/01/25 10:10:00 PM EST = Philadelphia 76ers vs. Sacramento Kings
-https://v13.thetvapp.to/hls/NBA17/index.m3u8?token=MWZsSkowaGZzZWxWa1ZUc01DallVTFlRYk9RWkJGcHFpaU9uRlY3eA==
+https://v18.thetvapp.to/hls/NBA17/index.m3u8?token=RGF0Vm5EZlJ3NTNYb21mT0xLdEVVR2Z0QVg1SmFtbFZIVk9iUW1qeQ==
