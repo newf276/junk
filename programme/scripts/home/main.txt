@@ -26,4 +26,4 @@ XUMO
 https://github.com/newf276/xmltv-epg/releases/latest/download/epg-xumo-en.xml.gz
 
 Rakuten
-https://github.com/newf276/rakuten-uk-epg/raw/refs/heads/master/epg.xml
+https://github.com/newf276/junk/raw/refs/heads/master/epg.xml
