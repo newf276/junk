@@ -28,7 +28,7 @@ jobs:
 
       - name: Run EPG grabber script
         run: |
-          python programme/getEpgs.py
+          python programme/parser.py
 
       - name: Force commit and push the changes (no history)
         run: |
