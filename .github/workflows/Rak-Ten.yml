@@ -34,7 +34,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: execute py script
-        run: python programme/scripts/rak.py
+        run: python programme/rak.py
 
       - name: commit files
         run: |
