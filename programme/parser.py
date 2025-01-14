@@ -63,7 +63,7 @@ urls = [
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz',
-    'http://xtream-ie.org/xmltv.php?username=rCTXXhcjtPQ&password=67Ga9DaB2xz',
+    'http://xtream-ie.org/xmltv.php?username=VtJyLyPL8rg&password=zAnBPxehFSM',
     'https://github.com/newf276/junk/raw/master/rak.xml',
 ]
 
