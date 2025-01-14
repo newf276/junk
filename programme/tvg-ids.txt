@@ -4,7 +4,7 @@
 5select.uk
 5usa.uk
 635&#45;itv1.uk
-abcwolowolocolumbia.us
+abcwabcny.us
 accnetwork.us
 amc.us
 animalplanet.us
@@ -48,6 +48,10 @@ cookingchannel.us
 comedycentral.us
 comet.us
 cozitv.us
+crave1.ca
+crave2.ca
+crave3.ca
+crave4.ca
 ctv2vancouver.ca
 ctvhalifax.ca
 ctvnews.ca
