@@ -4,6 +4,7 @@
 5select.uk
 5usa.uk
 635&#45;itv1.uk
+abcnewslive.us
 abcwabcny.us
 accnetwork.us
 amc.us
@@ -30,6 +31,7 @@ cbcnews.ca
 cbcstjohns.ca
 cbctoronto.ca
 cbcvancouver.ca
+cbsnewsstreaming.us
 cbssportsnetwork.us
 channel4.uk
 channel5.uk
@@ -138,6 +140,7 @@ natgeowild.uk
 nationalgeographic.us
 nationalgeographicwild.us
 nbatv.us
+nbcnewsnow.us
 nbcwnbcny.us
 nhlnetwork.us
 nickmusic.us
