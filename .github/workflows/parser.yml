@@ -2,8 +2,7 @@ name: Parse Guides
 
 on:
   schedule:
-    # Runs twice a day
-    - cron: '0 */3 * * *'
+    - cron: '0 */2 * * *'
   
   # Add a manual trigger
   workflow_dispatch:
