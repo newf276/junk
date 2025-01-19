@@ -1,8 +1,8 @@
-name: VideoEvents and VideoLive M3u
+name: Playlist M3u
 
 on:
   schedule:
-    - cron: '45 3,7,11,15,19,23 * * *'  # Run every 6 hours
+    - cron: '0 */6 * * *'
   workflow_dispatch:      # Enable manual triggering
 
 jobs:
@@ -35,32 +35,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pandas webdriver-manager selenium selenium_stealth pytz
 
-      - name: Run Python Script videoevents
+      - name: Run Python Script videolivetv
         run: |
-          python_output=$(python videoevents.py)
-          echo "$python_output" > videoevents.m3u
-          echo "$python_output" > videoall.m3u
-
-      #- name: Run Python Script videolivetv
-        #run: |
-          #python_output=$(python videolivetv.py)
-          #echo "$python_output" > videolivetv.m3u
-          #echo "$python_output" >> videoall.m3u
+          python_output=$(python playlist.py)
+          echo "$python_output" > playlist.m3u
 
       - name: Run Python Script videolivetv
         run: |
-          python videolivetv.py | sed '/#EXTM3U/d' >> videoall.m3u          
-
-      # Extract the token from one of the other links
-      - name: Extract Token and Update ESPN Links
-        run: |
-          # Extract the token from the first channel in videoall.m3u
-          token=$(grep -oP '(?<=token=)[^"]*' videoall.m3u | tail -1)
-
-          # Update the ESPN and ESPN2 links with the extracted token
-          sed -i "/tvg-name=\"ESPN\"/{n;s|https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/offline.mp4|https://v6.thetvapp.to/hls/ESPN/index.m3u8?token=$token|g}" videoall.m3u
-          sed -i "/tvg-name=\"ESPN2\"/{n;s|https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/offline.mp4|https://v6.thetvapp.to/hls/ESPN2/index.m3u8?token=$token|g}" videoall.m3u
-
+          python playlist.py | sed '/#EXTM3U/d' >> playlist.m3u          
 
       - name: Pull changes from remote
         run: git pull origin master
@@ -71,6 +53,6 @@ jobs:
           commit_message: "Update token"
           branch: master
           files: |
-            videoevents.m3u videolivetv.m3u videoall.m3u
+            playlist.m3u
         env:
           GITHUB_TOKEN: ${{ secrets.ROTANA_TOKEN }}

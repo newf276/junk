@@ -1,4 +1,4 @@
-name: VideoXML
+name: Playlist XML
 
 on:
   schedule:
@@ -25,7 +25,7 @@ jobs:
 
       - name: Run EPG Script
         run: |
-          python videoxml.py > videoall.xml
+          python videoxml.py > playlist.xml
         env:
           TZ: America/Vancouver  # Set the timezone
 
@@ -38,6 +38,6 @@ jobs:
           commit_message: "Update token"
           branch: master
           files: |
-            videoxml.xml
+            platlist.xml
         env:
           GITHUB_TOKEN: ${{ secrets.ROTANA_TOKEN }}
