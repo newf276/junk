@@ -153,7 +153,7 @@ muchmusicnetwork.us
 natgeo.uk
 natgeowild.uk
 nationalgeographic.us
-nationalgeographicwild.us
+natgeowild.us
 nbatv.us
 nbcnewsnow.us
 nbcwnbcny.us
