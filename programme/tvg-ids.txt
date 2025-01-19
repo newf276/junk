@@ -67,7 +67,7 @@ dave.uk
 destinationamerica.us
 discoverychannel.uk
 discoverychannel.us
-discoveryfamilychannel.us
+discoveryfamily.us
 discoveryhistory.uk
 discoverylifechannel.us
 discoveryscience.uk
