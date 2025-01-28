@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entertainment",VH1
+https://tt2.unlimitedtvsolution.workers.dev/channel?url=https%3A%2F%2Fthetvapp.to%2Ftv%2Fvh1-live-stream%2F

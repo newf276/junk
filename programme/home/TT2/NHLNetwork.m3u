@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="Sports",NHL Network
+https://tt2.unlimitedtvsolution.workers.dev/channel?url=https%3A%2F%2Fthetvapp.to%2Ftv%2Fnhl-network-live-stream%2F

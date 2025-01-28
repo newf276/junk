@@ -1,0 +1,31 @@
+name: Update TT2
+
+on:
+  schedule:
+    # Run every 4 hours
+    - cron: '00 */1 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Download the M3U file with tvg-id=false and rename it
+      - name: Download M3U File with tvg-id=false
+        run: |
+          curl -L "https://tt2.unlimitedtvsolution.workers.dev/playlist?tvg-id=true" -o programme/home/tt2.m3u
+          
+      # Step 4: Force replace the file and push
+      - name: Replace and Force Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit --amend --no-edit || git commit -m "Updated"
+          git push --force

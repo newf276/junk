@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Movies",HBO Comedy HD
+https://tt2.unlimitedtvsolution.workers.dev/channel?url=https%3A%2F%2Fthetvapp.to%2Ftv%2Fhbo-comedy-hd-live-stream%2F
