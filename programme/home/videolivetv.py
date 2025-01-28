@@ -210,7 +210,7 @@ for link in links:
     live_tv_links.append((channel_name, link_url))
 
 # Print the M3U header
-print("#EXTM3U x-tvg-url="https://github.com/newf276/junk/raw/refs/heads/master/programme/home/master.xml.gz"")
+print("#EXTM3U x-tvg-url="https://github.com/newf276/junk/raw/refs/heads/master/programme/home/master.xml.gz"\n")
 
 # Iterate over each live TV channel link
 for name, link in live_tv_links:
