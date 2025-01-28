@@ -210,7 +210,7 @@ for link in links:
     live_tv_links.append((channel_name, link_url))
 
 # Print the M3U header
-print("#EXTM3U")
+print('#EXTM3U url-tvg="https://tinyurl.com/ourtvg" \n')
 
 # Iterate over each live TV channel link
 for name, link in live_tv_links:
@@ -222,7 +222,7 @@ for name, link in live_tv_links:
         wait = WebDriverWait(driver, 5)
         try:
             # Try to find loadVideoBtnOne first
-            video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtn')))
+            video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoHD')))
         except:
             # If loadVideoBtnOne is not found, look for loadVideoBtnTwo
             video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtnTwo')))
