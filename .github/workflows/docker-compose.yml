@@ -1,3 +1,12 @@
+name: Docker
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch:
+  
 version: '3'
 services:
   thetvapp-m3u:
