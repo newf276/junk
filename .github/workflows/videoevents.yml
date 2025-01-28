@@ -1,0 +1,54 @@
+name: TVApp
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Run every 2 hours
+  workflow_dispatch:      # Enable manual triggering
+
+jobs:
+  generate_m3u:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2     
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install necessary packages
+        run: |
+          sudo apt-get update    
+          sudo apt-get install -y unzip wget
+          sudo apt-get install -y libgconf-2-4 
+          #sudo apt-get install -y chromium-browser
+          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo dpkg -i google-chrome-stable_current_amd64.deb
+          rm google-chrome-stable_current_amd64.deb
+          #wget --no-verbose -O /tmp/chrome.deb https://dl.google.com/linux/chrome/deb/pool/main/g/google-chrome-stable/google-chrome-stable_123.0.6312.122-1_amd64.deb && sudo apt install -y /tmp/chrome.deb && sudo rm /tmp/chrome.deb
+          sudo apt install libnss-wrapper libgconf-2-4 gconf2-common libxcb-xinerama0
+          
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pandas webdriver-manager selenium selenium_stealth pytz
+
+      - name: Run Python Script videolivetv
+        run: |
+          python_output=$(python programme/home/videolivetv.py)
+          echo "$python_output" > programme/home/tvapp.m3u
+
+      - name: Pull changes from remote
+        run: git pull origin master
+
+      - name: Commit and Push Changes
+        uses: newf276/git-auto-commit-action@v4
+        with:
+          commit_message: "Update token"
+          branch: master
+          files: |
+            programme/home/tvapp.m3u
+        env:
+          GITHUB_TOKEN: ${{ secrets.ROTANA_TOKEN }}
