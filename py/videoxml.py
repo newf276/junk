@@ -353,7 +353,7 @@ def parse_rating(item):
 def parse_start(item):
     time_str = item.get("data-st")
     if time_str:
-        return pytz.timezone("America/New_York").localize(datetime.strptime(time_str, "%Y-%m-%d %H:%M:%S"))
+        return pytz.timezone("America/Vancouver").localize(datetime.strptime(time_str, "%Y-%m-%d %H:%M:%S"))
     else:
         return None
 
@@ -708,8 +708,8 @@ if all_programs:
                 "actors": program["actors"],
                 "guest": program["guest"],
                 "director": program["director"],
-                "start_time": pytz.timezone("America/New_York").localize(datetime.strptime(program["start_time"], "%Y-%m-%d %H:%M:%S")),
-                "end_time": pytz.timezone("America/New_York").localize(datetime.strptime(program["end_time"], "%Y-%m-%d %H:%M:%S")),
+                "start_time": pytz.timezone("America/Vancouver").localize(datetime.strptime(program["start_time"], "%Y-%m-%d %H:%M:%S")),
+                "end_time": pytz.timezone("America/Vancouver").localize(datetime.strptime(program["end_time"], "%Y-%m-%d %H:%M:%S")),
                 "channel_id": program["channel_id"]
             } for program in all_programs[channel_id]
         ]

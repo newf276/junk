@@ -27,7 +27,7 @@ jobs:
         run: |
           python py/videoxml.py > en/videoall.xml
         env:
-          TZ: America/New_York  # Set the timezone
+          TZ: America/Vancouver  # Set the timezone
 
       - name: Pull changes from remote
         run: git pull origin main
