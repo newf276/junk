@@ -279,6 +279,22 @@ for name, link in live_tv_links:
         # If an exception occurs (e.g., button not found), use the default link
         m3u8_url = "https://github.com/newf276/junk/raw/master/programme/home/offline.mp4"
 
+            # Replace invalid characters in the name
+    name_fixed = name.replace(',', '')
+    name_fixed = name_fixed.replace(': ', ' - ')
+    name_parts = name_fixed.split(' - ')
+    title = name_parts[0]
+    rest_of_title = ' - '.join(name_parts[1:])
+    try:
+        # Extract the date and time portion from the rest_of_title
+        date_time_part = extract_datetime(rest_of_title)
+        # Convert to EST
+        est_time_str = utc_to_est(date_time_part)
+    except ValueError as e:
+        # Handle cases where the date extraction fails
+        print(f"Error converting time: {e}")
+        est_time_str = rest_of_title  # Fall back to displaying the original text
+        
     if m3u8_urls:
         print(f"#EXTINF:-1 group-title=\"USA TV\" tvg-ID=\"{name}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
         print(m3u8_url)  # Print only the first m3u8 URL
