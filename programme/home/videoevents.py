@@ -181,23 +181,6 @@ for group, name, link in all_links:
         # Convert the string back to a list of dictionaries in Python
         network_requests = json.loads(network_requests)
 
-
-    # Replace invalid characters in the name
-    name_fixed = name.replace(',', '')
-    name_fixed = name_fixed.replace(': ', ' - ')
-    name_parts = name_fixed.split(' - ')
-    title = name_parts[0]
-    rest_of_title = ' - '.join(name_parts[1:])
-    try:
-        # Extract the date and time portion from the rest_of_title
-        date_time_part = extract_datetime(rest_of_title)
-        # Convert to EST
-        est_time_str = utc_to_est(date_time_part)
-    except ValueError as e:
-        # Handle cases where the date extraction fails
-        print(f"Error converting time: {e}")
-        est_time_str = rest_of_title  # Fall back to displaying the original text
-
     # Print the channel information in the M3U format
     print(f"#EXTINF:-1 group-title=\"{group}\",{est_time_str} = {title}")
     print(m3u8_url)  # Print only the first m3u8 URL
