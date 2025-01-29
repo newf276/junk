@@ -181,6 +181,15 @@ for group, name, link in all_links:
         # Convert the string back to a list of dictionaries in Python
         network_requests = json.loads(network_requests)
 
+        # Filter out only the URLs containing ".m3u8"
+        m3u8_urls = [request["name"] for request in network_requests if "index.m3u8?token=" in request["name"]]
+
+        # Print the collected m3u8 URLs
+        if m3u8_urls:
+            m3u8_url = m3u8_urls[0]
+        else:
+            m3u8_url = "https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4"
+            
     except Exception as e:
         # If an exception occurs (e.g., button not found), use the default link
         m3u8_url = "https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4"
