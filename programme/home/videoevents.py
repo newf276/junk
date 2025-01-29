@@ -203,7 +203,7 @@ for group, name, link in all_links:
 
     # Print the channel information in the M3U format
     print(f"#EXTINF:-1 group-title=\"{group}\",{est_time_str} = {title}")
-    print(m3u8_url)  # Print only the first m3u8 URL
+    print(link)  # Print only the first m3u8 URL
 
 # Close the WebDriver
 driver.quit()
