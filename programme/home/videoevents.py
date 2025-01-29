@@ -132,21 +132,26 @@ wait.until(EC.presence_of_element_located((By.CLASS_NAME, "row")))
 rows = driver.find_elements(By.CLASS_NAME, "row")
 
 # Initialize a list to store the links
-all_links = []
+live_tv_links = []
 
 # Iterate over each row
 for row in rows:
     # Find the group name (e.g., MLB)
     group_name = row.find_element(By.TAG_NAME, "h3").text
+    
+    # Check if it's not Live TV Channels
+    if group_name != "NHL Streams":
+        # Find all links in the row
+        links = row.find_elements(By.TAG_NAME, "a")
         
-# Iterate over each link
-for link in links:
-    # Get the channel name
-    title = link.text.strip()
+        # Iterate over each link
+        for link in links:
+            # Get the channel name
+            channel_name = link.text.strip()
             
-# Get the link URL and add it to the list
-    link_url = link.get_attribute("href")
-    all_links.append((group_name, title, link_url))
+            # Get the link URL and add it to the list
+            link_url = link.get_attribute("href")
+            all_links.append((group_name, channel_name, link_url))
 
 # Print the M3U header
 print("#EXTM3U")
