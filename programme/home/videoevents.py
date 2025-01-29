@@ -140,18 +140,18 @@ for row in rows:
     group_name = row.find_element(By.TAG_NAME, "h3").text
     
     # Check if it's not Live TV Channels
-    if group_name != "NHL Streams":
+    if group_name != "NHL":
         # Find all links in the row
         links = row.find_elements(By.TAG_NAME, "a")
         
         # Iterate over each link
         for link in links:
             # Get the channel name
-            channel_name = link.text.strip()
+            group_name = link.text.strip()
             
             # Get the link URL and add it to the list
             link_url = link.get_attribute("href")
-            all_links.append((group_name, channel_name, link_url))
+            all_links.append((group_name, link_url))
 
 # Print the M3U header
 print("#EXTM3U")
