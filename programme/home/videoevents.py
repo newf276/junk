@@ -169,7 +169,7 @@ for group, name, link in all_links:
             video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoHD')))
         except:
             # If loadVideoBtnOne is not found, look for loadVideoBtnTwo
-            video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtnSD')))
+            video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoSD')))
         video_button.click()
 
         # Wait for a brief period to allow the page to load and network requests to be made
@@ -181,10 +181,26 @@ for group, name, link in all_links:
         # Convert the string back to a list of dictionaries in Python
         network_requests = json.loads(network_requests)
 
+    except Exception as e:
+        # If an exception occurs (e.g., button not found), use the default link
+        m3u8_url = "https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4"
+
+    # Replace invalid characters in the name
+    name_fixed = name.replace(',', '')
+    name_fixed = name_fixed.replace(': ', ' - ')
+    name_parts = name_fixed.split(' - ')
+    title = name_parts[0]
+    rest_of_title = ' - '.join(name_parts[1:])
+    try:
+        # Extract the date and time portion from the rest_of_title
+        date_time_part = extract_datetime(rest_of_title)
+        # Convert to EST
+        est_time_str = utc_to_est(date_time_part)
     except ValueError as e:
         # Handle cases where the date extraction fails
         print(f"Error converting time: {e}")
-        
+        est_time_str = rest_of_title  # Fall back to displaying the original text
+
     # Print the channel information in the M3U format
     print(f"#EXTINF:-1 group-title=\"{group}\",{est_time_str} = {title}")
     print(m3u8_url)  # Print only the first m3u8 URL
