@@ -121,7 +121,7 @@ stealth(
 )
 
 # Open the webpage
-url = "https://thetvapp.to/nhl"
+url = "https://thetvapp.to"
 driver.get(url)
 
 # Wait for the page to load
@@ -140,7 +140,7 @@ for row in rows:
     group_name = row.find_element(By.TAG_NAME, "h3").text
     
     # Check if it's not Live TV Channels
-    if group_name != "Live TV Channels":
+    if group_name != "NHL Streams":
         # Find all links in the row
         links = row.find_elements(By.TAG_NAME, "a")
         
