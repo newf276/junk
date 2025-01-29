@@ -225,7 +225,7 @@ for name, link in live_tv_links:
             video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoHD')))
         except:
             # If loadVideoBtnOne is not found, look for loadVideoBtnTwo
-            video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtnTwo')))
+            video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoSD')))
         video_button.click()
 
         # Wait for a brief period to allow the page to load and network requests to be made
