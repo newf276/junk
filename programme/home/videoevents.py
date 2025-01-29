@@ -138,7 +138,6 @@ all_links = []
 for row in rows:
     # Find the group name (e.g., MLB)
     group_name = row.find_element(By.TAG_NAME, "h3").text
-    
         
         # Iterate over each link
         for link in links:
