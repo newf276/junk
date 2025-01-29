@@ -139,10 +139,14 @@ for row in rows:
     # Find the group name (e.g., MLB)
     group_name = row.find_element(By.TAG_NAME, "h3").text
         
+# Iterate over each link
+for link in links:
+    # Get the channel name
+    title = link.text.strip()
             
 # Get the link URL and add it to the list
     link_url = link.get_attribute("href")
-    all_links.append((group_name, channel_name, link_url))
+    all_links.append((group_name, title, link_url))
 
 # Print the M3U header
 print("#EXTM3U")
