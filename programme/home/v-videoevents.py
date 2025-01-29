@@ -8,7 +8,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.core.os_manager import ChromeType
 import random
 import time
-import jsonx
+import json
 import pytz
 import re
 from datetime import datetime
@@ -140,7 +140,7 @@ for row in rows:
     group_name = row.find_element(By.TAG_NAME, "h3").text
     
     # Check if it's not Live TV Channels
-    if group_name != "NHL":
+    if group_name != "Live TV Channels":
         # Find all links in the row
         links = row.find_elements(By.TAG_NAME, "a")
         
@@ -169,7 +169,7 @@ for group, name, link in all_links:
             video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoHD')))
         except:
             # If loadVideoBtnOne is not found, look for loadVideoBtnTwo
-            video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoBtnSD')))
+            video_button = wait.until(EC.element_to_be_clickable((By.ID, 'loadVideoSD')))
         video_button.click()
 
         # Wait for a brief period to allow the page to load and network requests to be made
@@ -181,6 +181,17 @@ for group, name, link in all_links:
         # Convert the string back to a list of dictionaries in Python
         network_requests = json.loads(network_requests)
 
+        # Filter out only the URLs containing ".m3u8"
+        m3u8_urls = [request["name"] for request in network_requests if "index.m3u8?token=" in request["name"]]
+
+        # Print the collected m3u8 URLs
+        if m3u8_urls:
+            m3u8_url = m3u8_urls[0]
+        else:
+            m3u8_url = "https://github.com/newf276/junk/raw/master/programme/home/offline.mp4"
+    except Exception as e:
+        # If an exception occurs (e.g., button not found), use the default link
+        m3u8_url = "https://github.com/newf276/junk/raw/master/programme/home/offline.mp4"
 
     # Replace invalid characters in the name
     name_fixed = name.replace(',', '')
