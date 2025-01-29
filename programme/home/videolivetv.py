@@ -9,65 +9,7 @@ from webdriver_manager.core.os_manager import ChromeType
 import random
 import time
 import json
-import pytz
-import re
-from datetime import datetime
 
-
-# Function to convert UTC/EDT time to Eastern Time Zone (EST)
-def utc_to_est(time_str):
-    # Determine if the time string has the extra `.000Z` format
-    if '.000Z' in time_str:
-        # Handle ISO format with milliseconds
-        time_format = '%Y-%m-%dT%H:%M:%S.%fZ'
-        time_zone = 'UTC'
-    elif 'Z' in time_str:
-        # Handle ISO format without milliseconds
-        time_format = '%Y-%m-%dT%H:%M:%SZ'
-        time_zone = 'UTC'
-    elif 'UTC' in time_str:
-        # Handle custom format provided
-        time_format = '%m/%d/%y %I:%M:%S %p UTC'
-        time_zone = 'UTC'
-    elif 'EDT' in time_str:
-        # Handle custom format for EDT
-        time_format = '%m/%d/%y %I:%M:%S %p EDT'
-        time_zone = 'EDT'
-    else:
-        raise ValueError("Unsupported timezone or format in time string")
-
-    # Parse the time string with the determined format
-    time = datetime.strptime(time_str, time_format)
-
-    # Set the timezone
-    if time_zone == 'UTC':
-        time = time.replace(tzinfo=pytz.utc)
-    elif time_zone == 'EDT':
-        time = time.replace(tzinfo=pytz.timezone('US/Eastern'))
-
-    # Convert the time to EST
-    est_time = time.astimezone(pytz.timezone('US/Eastern'))
-
-    # Format the EST time string
-    est_time_str = est_time.strftime('%m/%d/%y %I:%M:%S %p EST')
-    return est_time_str
-
-# Function to extract date and time from a string
-def extract_datetime(input_str):
-    # Regex pattern to match date and time formats
-    patterns = [
-        r'\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z',  # ISO format with milliseconds
-        r'\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z',          # ISO format without milliseconds
-        r'\d{1,2}/\d{1,2}/\d{2} \d{1,2}:\d{2}:\d{2} (AM|PM) UTC'  # Custom format with UTC
-    ]
-    
-    for pattern in patterns:
-        match = re.search(pattern, input_str)
-        if match:
-            return match.group(0)
-    
-    # If no matching date format found, raise an error
-    raise ValueError(f"Date and time not found in string: {input_str}")
 
 user_agents = [
     #add your list of user agents here
@@ -337,24 +279,8 @@ for name, link in live_tv_links:
         # If an exception occurs (e.g., button not found), use the default link
         m3u8_url = "https://github.com/newf276/junk/raw/master/programme/home/offline.mp4"
 
-            # Replace invalid characters in the name
-    name_fixed = name.replace(',', '')
-    name_fixed = name_fixed.replace(': ', ' - ')
-    name_parts = name_fixed.split(' - ')
-    title = name_parts[0]
-    rest_of_title = ' - '.join(name_parts[1:])
-    try:
-        # Extract the date and time portion from the rest_of_title
-        date_time_part = extract_datetime(rest_of_title)
-        # Convert to EST
-        est_time_str = utc_to_est(date_time_part)
-    except ValueError as e:
-        # Handle cases where the date extraction fails
-        print(f"Error converting time: {e}")
-        est_time_str = rest_of_title  # Fall back to displaying the original text
-        
     if m3u8_urls:
-        print(f"#EXTINF:-1 group-title=\"USA TV\" tvg-ID=\"{name}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
+        print(f"#EXTINF:-1 group-title=\"{name}\" tvg-ID=\"{name}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
         print(m3u8_url)  # Print only the first m3u8 URL
 
 
