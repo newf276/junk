@@ -8,7 +8,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.core.os_manager import ChromeType
 import random
 import time
-import jsonx
+import json
 import pytz
 import re
 from datetime import datetime
