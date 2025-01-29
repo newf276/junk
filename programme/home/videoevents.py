@@ -181,11 +181,14 @@ for group, name, link in all_links:
         # Convert the string back to a list of dictionaries in Python
         network_requests = json.loads(network_requests)
 
+    except ValueError as e:
+        # Handle cases where the date extraction fails
+        print(f"Error converting time: {e}")
+        est_time_str = rest_of_title  # Fall back to displaying the original text
+        
     # Print the channel information in the M3U format
     print(f"#EXTINF:-1 group-title=\"{group}\",{est_time_str} = {title}")
     print(m3u8_url)  # Print only the first m3u8 URL
 
 # Close the WebDriver
 driver.quit()
-
-
