@@ -132,7 +132,7 @@ wait.until(EC.presence_of_element_located((By.CLASS_NAME, "row")))
 rows = driver.find_elements(By.CLASS_NAME, "row")
 
 # Initialize a list to store the links
-live_tv_links = []
+all_links = []
 
 # Iterate over each row
 for row in rows:
