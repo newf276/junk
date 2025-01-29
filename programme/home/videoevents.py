@@ -153,6 +153,29 @@ for row in rows:
             link_url = link.get_attribute("href")
             all_links.append((group_name, channel_name, link_url))
 
+            
+            
+# Find the Live TV Channels row
+live_tv_row = driver.find_element(By.XPATH, "//h3[contains(text(), 'Live TV Channels')]/..")
+
+# Find all links in the Live TV Channels row
+links = live_tv_row.find_elements(By.TAG_NAME, "a")
+
+# Initialize a list to store the links
+live_tv_links = []
+
+# Iterate over each link
+for link in links:
+    # Get the channel name
+    channel_name = link.text.strip()
+    
+    # Get the link URL and add it to the list
+    link_url = link.get_attribute("href")
+    live_tv_links.append((channel_name, link_url))
+            
+            
+            
+            
 # Print the M3U header
 print("#EXTM3U")
 
