@@ -12,7 +12,7 @@ headers = {
 
 def snif(pluto):
     erreur = "https://github.com/BG47510/Zap/raw/main/assets/error.m3u8"
-    print("#EXTM3U")
+print('#EXTM3U url-tvg="https://tinyurl.com/ourtvg" \n')
     try:
         api = requests.get(pluto, headers=headers).json()
     #print("#EXTM3U")
