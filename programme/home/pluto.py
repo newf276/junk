@@ -23,7 +23,7 @@ def snif(pluto):
                   m3u8 = (f'https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/{idflux}/master.m3u8?\
 terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad\
 &deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web\
-&appVersion=web&deviceType=web&deviceMake=web')
+&appVersion=web&deviceType=web&deviceMake=web|Referer=http://api.pluto.tv/&User-Agent=http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0')
                   nom = (f',{p["name"]}')
                   groupe = (f'#EXTINF:-1 tvg-name="{p["name"]}" tvg-id="{p["_id"]}" group-title="{p["category"]}"')
                   print(groupe + nom)
