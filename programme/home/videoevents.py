@@ -184,7 +184,6 @@ for group, name, link in all_links:
     except ValueError as e:
         # Handle cases where the date extraction fails
         print(f"Error converting time: {e}")
-        est_time_str = rest_of_title  # Fall back to displaying the original text
         
     # Print the channel information in the M3U format
     print(f"#EXTINF:-1 group-title=\"{group}\",{est_time_str} = {title}")
