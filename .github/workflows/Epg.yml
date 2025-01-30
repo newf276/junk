@@ -1,4 +1,4 @@
-name: TVappEpg
+name: Pull Epg
 
 on:
   schedule:
@@ -25,7 +25,7 @@ jobs:
 
       - name: Run EPG Script
         run: |
-          python programme/home/videoxml.py > programme/home/videoall.xml
+          python programme/home/epg.py > programme/home/epg.xml
         env:
           TZ: America/Vancouver  # Set the timezone
 
@@ -35,9 +35,9 @@ jobs:
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update token"
+          commit_message: "Update epg"
           branch: master
           files: |
-            programme/home/videoxml.xml
+            programme/home/epg.xml
         env:
           GITHUB_TOKEN: ${{ secrets.ROTANA_TOKEN }}
