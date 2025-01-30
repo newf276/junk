@@ -221,7 +221,7 @@ for row in rows:
     group_name = row.find_element(By.TAG_NAME, "h3").text
     
     # Check if it's not Live TV Channels
-    if group_name != "NHL":
+    if group_name != "Live TV Channels":
         # Find all links in the row
         links = row.find_elements(By.TAG_NAME, "a")
         
