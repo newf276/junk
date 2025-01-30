@@ -2,7 +2,7 @@ name: TVApp
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Run every 2 hours
+    - cron: '45 3,7,11,15,19,23 * * *'  # Run every 6 hours
   workflow_dispatch:      # Enable manual triggering
 
 jobs:
@@ -35,11 +35,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pandas webdriver-manager selenium selenium_stealth pytz
 
+      #- name: Run Python Script videolivetv
+        #run: |
+          #python_output=$(python programme/home/videolivetv.py)
+          #echo "$python_output" > programme/home/tvapp.m3u
+          #echo "$python_output" >> programme/home/tvapp.m3u
+
       - name: Run Python Script videolivetv
         run: |
-          python_output=$(python programme/home/videolivetv.py)
-          python py/videolivetv.py | sed '/#EXTM3U/d' >> programme/home/tvapp.m3u  
-          echo "$python_output" > programme/home/tvapp.m3u
+          python programme/home/videolivetv.py | sed '/#EXTM3U/d' >> programme/home/tvapp.m3u          
 
       # Extract the token from one of the other links
       - name: Extract Token and Update ESPN Links
@@ -48,19 +52,19 @@ jobs:
           token=$(grep -oP '(?<=token=)[^"]*' programme/home/tvapp.m3u | tail -1)
 
           # Update the ESPN and ESPN2 links with the extracted token
-          sed -i "/tvg-name=\"ESPN\"/{n;s|https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4|https://v6.thetvapp.to/hls/ESPN/index.m3u8?token=$token|g}" programme/home/tvapp.m3u
-          sed -i "/tvg-name=\"ESPN2\"/{n;s|https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4|https://v6.thetvapp.to/hls/ESPN2/index.m3u8?token=$token|g}" programme/home/tvapp.m3u
-          
+          sed -i "/tvg-name=\"ESPN\"/{n;s|https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/programme/home/offline.mp4|https://v6.thetvapp.to/hls/ESPN/index.m3u8?token=$token|g}" programme/home/tvapp.m3u
+          sed -i "/tvg-name=\"ESPN2\"/{n;s|https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/programme/home/offline.mp4|https://v6.thetvapp.to/hls/ESPN2/index.m3u8?token=$token|g}" programme/home/tvapp.m3u
+
+
       - name: Pull changes from remote
-        run: git pull origin master
+        run: git pull origin main
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update token"
-          branch: master
+          branch: main
           files: |
             programme/home/tvapp.m3u
         env:
           GITHUB_TOKEN: ${{ secrets.ROTANA_TOKEN }}
-          
