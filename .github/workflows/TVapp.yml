@@ -38,12 +38,13 @@ jobs:
       - name: Run Python Script videolivetv
         run: |
           python_output=$(python programme/home/videolivetv.py)
+          python py/videolivetv.py | sed '/#EXTM3U/d' >> programme/home/tvapp.m3u  
           echo "$python_output" > programme/home/tvapp.m3u
 
       # Extract the token from one of the other links
       - name: Extract Token and Update ESPN Links
         run: |
-          # Extract the token from the first channel in videoall.m3u
+          # Extract the token from the first channel in tvapp.m3u
           token=$(grep -oP '(?<=token=)[^"]*' programme/home/tvapp.m3u | tail -1)
 
           # Update the ESPN and ESPN2 links with the extracted token
