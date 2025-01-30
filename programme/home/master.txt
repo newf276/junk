@@ -14,7 +14,7 @@ master
 http://xtream-ie.org/xmltv.php?username=7zy6haPfHRgK&password=V3TuWwt7Js7T
 
 tt2
-https://github.com/newf276/junk/raw/refs/heads/master/programme/home/videoall.xml
+https://github.com/newf276/junk/raw/refs/heads/master/programme/home/epg.xml
 
 rak
 https://github.com/newf276/junk/raw/refs/heads/master/programme/home/rak.xml
