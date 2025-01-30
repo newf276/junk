@@ -1,4 +1,4 @@
-name: VideoXML
+name: TVappEpg
 
 on:
   schedule:
