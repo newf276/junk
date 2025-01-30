@@ -1,4 +1,4 @@
-name: TVApp
+name: Get TVApp m3u
 
 on:
   schedule:
@@ -35,9 +35,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pandas webdriver-manager selenium selenium_stealth pytz
 
-      - name: Run Python epg.py
+      - name: Run Python TVApp.py
         run: |
-          python programme/home/epg.py > programme/home/tvapp.m3u          
+          python programme/home/TVApp.py > programme/home/tvapp.m3u          
 
       - name: Pull changes from remote
         run: git pull origin master
