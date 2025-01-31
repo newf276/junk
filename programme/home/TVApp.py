@@ -280,7 +280,7 @@ for name, link in live_tv_links:
         m3u8_url = "https://github.com/newf276/junk/raw/master/programme/home/offline.mp4"
 
     if m3u8_urls:
-        print(f"#EXTINF:-1 group-title=\"{name}\" tvg-ID=\"{name}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
+        print(f"#EXTINF:-1 group-title=\"TV App\" tvg-ID=\"{name}\" tvg-name=\"{name}\" tvg-logo=\"{logo_url}\", {name}")
         print(m3u8_url)  # Print only the first m3u8 URL
 
 
