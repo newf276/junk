@@ -28,7 +28,7 @@ if (isset($data['data']['list']) && is_array($data['data']['list'])) {
 }
 
 $jsonOutput = json_encode($result, JSON_PRETTY_PRINT);
-$filePath = 'channels.json';
+$filePath = 'programme/home/channels.json';
 if (file_put_contents($filePath, $jsonOutput)) {
     echo "File successfully saved to $filePath";
 } else {
