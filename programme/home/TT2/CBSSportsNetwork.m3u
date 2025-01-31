@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Sports",CBS Sports Network
-https://tt2.unlimitedtvsolution.workers.dev/channel?url=https%3A%2F%2Fthetvapp.to%2Ftv%2Fcbs-sports-network-live-stream%2F
