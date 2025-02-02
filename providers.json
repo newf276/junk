@@ -1,8 +1,8 @@
 {
   "include": [
     {
-      "name": "epg-i.mjh.nz",
-      "site": "i.mjh.nz",
+      "name": "epg-xumo",
+      "site": "xumo.tv",
       "lang": "en"
     }
   ]
