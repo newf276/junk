@@ -34,6 +34,6 @@ jobs:
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git add programme/home/parser.xml programme/home/parser.xml.gz
+          git add parser.xml parser.xml.gz
           git commit -m "Update Parser XML"
           git push --force # Force push to overwrite the previous commit
