@@ -1,9 +1,9 @@
-name: Parse i-mjh xmls
+name: Parse Guides
 
 on:
   schedule:
     # Runs twice a day
-    - cron: '0 */1 * * *'
+    - cron: '0 */3 * * *'
   
   # Add a manual trigger
   workflow_dispatch:
@@ -12,7 +12,7 @@ jobs:
   update-files:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (no history)
         uses: actions/checkout@v3
         with:
           fetch-depth: 1
@@ -22,18 +22,18 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: |
           python -m pip install requests
 
-      - name: Run Parser
+      - name: Run EPG grabber script
         run: |
-          python parser.py
+          python programme/home/parser.py
 
-      - name: Force commit
+      - name: Force commit and push the changes (no history)
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git add parser.xml parser.xml.gz
-          git commit -m "Update Parser XML"
+          git add programme/home/epg.xml programme/home/epg.xml.gz
+          git commit -m "Update EPG"
           git push --force # Force push to overwrite the previous commit
