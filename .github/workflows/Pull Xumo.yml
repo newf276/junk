@@ -51,5 +51,5 @@ jobs:
           repository: newf276/junk
           tag_name: '${{ env.DATE }}'
           files: |
-            programme/home/xumo-*.xml
-            programme/home/xumo-*.xml.gz
+            xumo-*.xml
+            xumo-*.xml.gz
