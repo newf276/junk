@@ -5,8 +5,8 @@ import requests
 
 save_as_gz = True  # Set to True to save an additional .gz version
 
-tvg_ids_file = os.path.join(os.path.dirname(__file__), 'tvg-ids.txt')
-output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'epg.xml')
+tvg_ids_file = os.path.join(os.path.dirname(__file__), 'programme/home/tvg-ids.txt')
+output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'programme/home/parsed.xml')
 output_file_gz = output_file + '.gz'
 
 def fetch_and_extract_xml(url):

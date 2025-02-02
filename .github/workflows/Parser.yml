@@ -1,42 +1,36 @@
+# This is a basic workflow to help you get started with Actions
+
 name: Parser
 
+# Controls when the workflow will run
 on:
   schedule:
-    # Runs once a day at midnight
-    - cron: '0 */2 * * *'
-  
-  # Add a manual trigger
+    # Runs twice a day
+    - cron: "0 0/6 * * *"
+    
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  update-files:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Checkout repository (no history)
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 1
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: python programme/home/parser.py
 
-      - name: Install dependencies
+      - name: Force commit and push the changes (no history)
         run: |
-          python -m pip install requests
-      - name: Run EPG grabber script
-        run: |
-          python parser.py
-
-      - name: config
-        run: |
-          git pull
-          git config --global user.email "newf@gmail.com"
-          git config --global user.name "newf276"
-          
-      - name: commit
-        run: |
-          git add -A
-          git commit -m "updated"
-          git push
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          git add programme/home/parsed.xml programme/home/parsed.xml.gz
+          git commit -m "Update EPG"
+          git push --force # Force push to overwrite the previous commit
