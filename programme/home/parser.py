@@ -6,7 +6,7 @@ import requests
 save_as_gz = True  # Set to True to save an additional .gz version
 
 tvg_ids_file = os.path.join(os.path.dirname(__file__), 'tvg-ids.txt')
-output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'programme/home/parser.xml')
+output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'epg.xml')
 output_file_gz = output_file + '.gz'
 
 def fetch_and_extract_xml(url):
@@ -59,6 +59,7 @@ def filter_and_build_epg(urls):
             tree.write(f, encoding='utf-8', xml_declaration=True)
         print(f"New EPG saved to {output_file_gz}")
 
+        
 urls = [
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
