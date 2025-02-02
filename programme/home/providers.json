@@ -1,0 +1,10 @@
+{
+  "include": [
+    {
+      "name": "epg-i.mjh.nz",
+      "site": "i.mjh.nz",
+      "lang": "en"
+    }
+  ]
+}
+

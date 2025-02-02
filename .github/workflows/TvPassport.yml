@@ -25,7 +25,7 @@ jobs:
 
       - name: Run EPG Script
         run: |
-          python programme/home/epg.py > programme/home/epg.xml
+          python programme/home/tvpassport.py > programme/home/tvpassport.xml
         env:
           TZ: America/Vancouver  # Set the timezone
 
@@ -38,6 +38,6 @@ jobs:
           commit_message: "Update epg"
           branch: master
           files: |
-            programme/home/epg.xml
+            programme/home/tvpassport.xml
         env:
           GITHUB_TOKEN: ${{ secrets.ROTANA_TOKEN }}
