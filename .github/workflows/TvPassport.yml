@@ -1,4 +1,4 @@
-name: Pull Epg
+name: Pull TVPassport Epg
 
 on:
   schedule:
