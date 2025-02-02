@@ -3,11 +3,10 @@ import gzip
 import xml.etree.ElementTree as ET
 import requests
 
-save_as_gz = False  # Set to True to save an additional .gz version
+save_as_gz = True  # Set to True to save an additional .gz version
 
-# Use the same directory as the script for saving files
 tvg_ids_file = os.path.join(os.path.dirname(__file__), 'tvg-ids.txt')
-output_file = os.path.join(os.path.dirname(__file__), 'epg.xml')
+output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'programme/epg.xml')
 output_file_gz = output_file + '.gz'
 
 def fetch_and_extract_xml(url):
@@ -31,7 +30,7 @@ def fetch_and_extract_xml(url):
             return None
 
 def filter_and_build_epg(urls):
-    with open(tvg_ids_file, 'r', encoding='utf-8') as file:
+    with open(tvg_ids_file, 'r') as file:
         valid_tvg_ids = set(line.strip() for line in file)
 
     root = ET.Element('tv')
@@ -66,7 +65,6 @@ urls = [
     'https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz',
     'https://github.com/newf276/junk/releases/latest/download/epg-xumo.xml.gz',
 ]
-
 
 if __name__ == "__main__":
     filter_and_build_epg(urls)
