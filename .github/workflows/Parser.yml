@@ -28,7 +28,7 @@ jobs:
 
       - name: Run Parser
         run: |
-          python programme/home/parser.py
+          python parser.py
 
       - name: Force commit and push the changes (no history)
         run: |
