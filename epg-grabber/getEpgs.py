@@ -60,48 +60,13 @@ def filter_and_build_epg(urls):
             tree.write(f, encoding='utf-8', xml_declaration=True)
         print(f"New EPG saved to {output_file_gz}")
 
-#m3u4u_epg = os.getenv("M3U4U_EPG")
-
 urls = [
-    'https://www.dropbox.com/scl/fi/7r7h1jdufwoplnhhxkism/m3u4u-103216-593044-EPG.xml?rlkey=606vswc00na76l51otnz116ed&st=q273qocn&dl=1',
-    'https://www.dropbox.com/scl/fi/tsj8796ea6krin4pv4t32/m3u4u-103216-595541-EPG.xml?rlkey=tu42144366j5w0n2s8fc1ogvp&st=2gg7ylx2&dl=1',
-		'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_DK1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_SE1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz',
-		'https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz',
-		'https://epg.pw/api/epg.xml?channel_id=8486',
-		'https://epg.pw/api/epg.xml?channel_id=12358',
-		'https://epg.pw/api/epg.xml?channel_id=9206',
+    'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz',
+    'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
+    'https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz',
+    'https://github.com/newf276/junk/releases/latest/download/epg-xumo.xml.gz',
 ]
+
 
 if __name__ == "__main__":
     filter_and_build_epg(urls)
