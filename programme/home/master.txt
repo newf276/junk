@@ -3,3 +3,6 @@ https://github.com/newf276/epg-grabber/raw/refs/heads/master/epg.xml
 
 master
 http://xtream-ie.org/xmltv.php?username=7zy6haPfHRgK&password=V3TuWwt7Js7T
+
+xumo
+https://github.com/newf276/junk/releases/latest/download/epg-xumo.xml.gz
