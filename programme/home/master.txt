@@ -3,6 +3,3 @@ https://github.com/newf276/epg-grabber/raw/refs/heads/master/epg.xml
 
 master
 http://xtream-ie.org/xmltv.php?username=7zy6haPfHRgK&password=V3TuWwt7Js7T
-
-samsung
-https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml
