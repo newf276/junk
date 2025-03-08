@@ -3,3 +3,6 @@ https://github.com/newf276/epg-grabber/raw/refs/heads/master/epg.xml
 
 master
 http://xtream-ie.org/xmltv.php?username=LM9hp66Buce&password=9yHdSwUNeVT
+
+tvapp
+https://tvpass.org/epg.xml
