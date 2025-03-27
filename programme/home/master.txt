@@ -2,5 +2,5 @@ parsed
 https://github.com/newf276/epg-grabber/raw/refs/heads/master/epg.xml
 
 master
-http://xtream-ie.org/xmltv.php?username=kG1KyNzkDcVQw&password=nQS7hJnyx
+http://xtream-ie.org/xmltv.php?username=XfuYAUtByv&password=C2GYoU3ZcQ
 
