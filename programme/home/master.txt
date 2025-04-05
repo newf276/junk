@@ -1,0 +1,5 @@
+parsed
+https://github.com/newf276/local-epg/raw/master/epg.xml
+
+master
+https://opop.pro/dEfYwTXQVUaY/?days=2&xml=1

@@ -1,2 +1,1 @@
-# junk
-crap files
+# junk files to be archived
