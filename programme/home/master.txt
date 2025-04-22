@@ -1,5 +1,2 @@
-parsed
-https://github.com/newf276/local-epg/raw/master/epg.xml
-
 master
-https://opop.pro/WTNc3ZwkjnUMUH/?days=2&xml=1
+https://xtream-ie.org/xmltv.php?username=rywZBEB5jNjU6&password=tSB7Q7v6YVJ
