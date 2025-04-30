@@ -4,9 +4,11 @@ name: Grab Xumo XML
 
 # Controls when the workflow will run
 on:
-  workflow_dispatch:
   schedule:
     - cron: '0 */2 * * *'
+  pull_request:
+    branches:
+      - master
     
 permissions:
   contents: write
