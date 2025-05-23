@@ -12,21 +12,21 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Download full event list
-        run: curl -L -o original.m3u "https://newf276-gtvhome.hf.space/playlist/channels"
+        run: curl -L -o original.m3u "https://newf276-gtvhome.hf.space/playlist/events"
 
       - name: Convert file to UTF-8
         run: iconv -f ISO-8859-1 -t UTF-8 original.m3u -o original_utf8.m3u
 
       - name: Extract ICE HOCKEY events
         run: |
-          echo "#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-events-epg.xml" > united-states-channels.m3u
-          grep -A 1 -i 'group-title="ICE HOCKEY"' original_utf8.m3u | grep -v -- "^--$" >> united-states-channels.m3u
+          echo '#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-events-epg.xml"' > ice-hockey-events.m3u
+          grep -A 1 -i 'group-title="ICE HOCKEY"' original_utf8.m3u | grep -v -- "^--$" >> ice-hockey-events.m3u
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add united-states-channels.m3u
+          git add ice-hockey-events.m3u
           git commit -m "Fetched and Updated ICE HOCKEY events"
           git push
         env:
