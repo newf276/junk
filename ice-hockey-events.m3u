@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-events-epg.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-events-epg.xml"
 #EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (HOME FEED)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (AWAY FEED)
