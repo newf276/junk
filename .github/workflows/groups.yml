@@ -33,7 +33,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add *.m3u
-          git commit -m "Fetched and Updated the lists"
+          git commit -m "Fetched and Updated Group Lists"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
