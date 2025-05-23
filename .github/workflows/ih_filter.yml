@@ -1,4 +1,4 @@
-name: Filter ICE HOCKEY Events
+name: Hockey Events
 on:
   schedule:
     - cron: '0 */6 * * *' # Every 6 hours
@@ -19,14 +19,14 @@ jobs:
 
       - name: Extract ICE HOCKEY events
         run: |
-          echo '#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-events-epg.xml"' > ice-hockey-events.m3u
-          grep -A 1 -i 'group-title="ICE HOCKEY"' original_utf8.m3u | grep -v -- "^--$" >> ice-hockey-events.m3u
+          echo '#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-events-epg.xml"' > hockey.m3u
+          grep -A 1 -i 'group-title="ICE HOCKEY"' original_utf8.m3u | grep -v -- "^--$" >> hockey.m3u
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add ice-hockey-events.m3u
+          git add hockey.m3u
           git commit -m "Fetched and Updated ICE HOCKEY events"
           git push
         env:
