@@ -19,13 +19,13 @@ jobs:
 
       - name: Extract Selected Countries
         run: |
-          echo '#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive--events-epg.xml"' > hockey_channels.m3u
+          echo '#EXTM3U url-tvg="https://github.com/pigzillaaaaa/daddylive/raw/refs/heads/main/epgs/daddylive-events-epg.xml"' > hockey_channels.m3u
           grep -A 1 -i 'group-title="ICE HOCKEY"' original_utf8.m3u | grep -v -- "^--$" >> hockey_channels.m3u
 
-          echo '#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive--events-epg.xml"' > soccer_channels.m3u
+          echo '#EXTM3U url-tvg="https://github.com/pigzillaaaaa/daddylive/raw/refs/heads/main/epgs/daddylive-events-epg.xml"' > soccer_channels.m3u
           grep -A 1 -i 'group-title="SOCCER"' original_utf8.m3u | grep -v -- "^--$" >> soccer_channels.m3u
 
-          echo '#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive--events-epg.xml"' > mlb_channels.m3u
+          echo '#EXTM3U url-tvg="https://github.com/pigzillaaaaa/daddylive/raw/refs/heads/main/epgs/daddylive-events-epg.xml"' > mlb_channels.m3u
           grep -A 1 -i 'group-title="BASEBALL"' original_utf8.m3u | grep -v -- "^--$" >> mlb_channels.m3u
 
       - name: Commit and push changes
