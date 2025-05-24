@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://github.com/pigzillaaaaa/daddylive/raw/refs/heads/main/epgs/daddylive-events-epg.xml"
 #EXTINF:-1 tvg-id="91e1325f9abdbd1ab816566f02a6f80e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",Minor League Baseball : Sacramento River Cats vs Oklahoma City Comets (SPECTRUM SPORTSNET LA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzY0L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="c4fb8925e2064f91ec0e2f046e39f3bd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball SEC Tournament: TBA vs LSU (SEC NETWORK USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="0a18230351c6df96cf36352d9bb0668c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament: Ole Miss vs Arkansas (ESPNU USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="c4fb8925e2064f91ec0e2f046e39f3bd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball SEC Tournament: TBA vs LSU (SEC NETWORK USA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="041a7d65f345b72fffc852fb98e8600d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Seattle Mariners (MLB LEAGUE PASS)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="20cd7ca7027ab7163f1ddcdcde003a20" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Minnesota Twins vs Kansas City Royals (MLB LEAGUE PASS)
@@ -37,46 +37,46 @@ https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NzcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="772630662962e4c93bf9a506c17eb1c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Oakland Athletics vs Philadelphia Phillies (SPORT 5 LIVE ISRAEL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="73c2c3169fac73d54fff3182a563a849" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball Big Ten Tournament: Washington vs USC (BTN USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zOTcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="aec61653113ff452a7e92f961ed7aa7f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament: Georgia vs Florida (ESPN2 USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="999254bb3f9cefb12485ea292c226829" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament: UCLA vs South Carolina (ESPN2 USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="2643f000edfe1a2214fb8becd2ecf2f5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball Big Ten Tournament: Indiana vs. Iowa (BTN USA)
+#EXTINF:-1 tvg-id="73c2c3169fac73d54fff3182a563a849" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball Big Ten Tournament: Washington vs USC (BTN USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zOTcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="32c222c3a67a07e6a493dd40c2893b50" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament: Florida State vs Texas Tech (ESPN2 USA)
+#EXTINF:-1 tvg-id="999254bb3f9cefb12485ea292c226829" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament: UCLA vs South Carolina (ESPN2 USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="8666f58de6be7bd33379ae1b706dd7a9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball ACC Tournament: Duke vs Florida State (ACC NETWORK USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjY0L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="32c222c3a67a07e6a493dd40c2893b50" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament: Florida State vs Texas Tech (ESPN2 USA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="2643f000edfe1a2214fb8becd2ecf2f5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball Big Ten Tournament: Indiana vs. Iowa (BTN USA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zOTcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="8640b6b261d3dfd050bef1b38914032b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball SEC Tournament: Ole Miss vs. Arkansas (SEC NETWORK USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="f798c6275a8509388a3b34dafff11cc2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament: Alabama vs Oklahoma (ESPN2 USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="7e3bd89809e303fe2a93327da52117ac" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Cincinnati Reds vs Chicago Cubs (MLB LEAGUE PASS)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="b061a5bf1fe3f696a7dff8067b41a2bb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Pittsburgh Pirates vs Milwaukee Brewers (MLB LEAGUE PASS)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="7e3bd89809e303fe2a93327da52117ac" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Cincinnati Reds vs Chicago Cubs (MLB LEAGUE PASS)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="b061a5bf1fe3f696a7dff8067b41a2bb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Pittsburgh Pirates vs Milwaukee Brewers (SPORTSNET PITTSBURGH)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTIyL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="7e3bd89809e303fe2a93327da52117ac" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Cincinnati Reds vs Chicago Cubs (MARQUEE SPORTS NETWORK USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="7e3bd89809e303fe2a93327da52117ac" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Cincinnati Reds vs Chicago Cubs (ARENA SPORT 6 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="b061a5bf1fe3f696a7dff8067b41a2bb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Pittsburgh Pirates vs Milwaukee Brewers (BEIN SPORTS 4 MAX FRANCE)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="b061a5bf1fe3f696a7dff8067b41a2bb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Pittsburgh Pirates vs Milwaukee Brewers (SPORT 5 LIVE ISRAEL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="7e3bd89809e303fe2a93327da52117ac" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Cincinnati Reds vs Chicago Cubs (MARQUEE SPORTS NETWORK USA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="7e3bd89809e303fe2a93327da52117ac" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Cincinnati Reds vs Chicago Cubs (ARENA SPORT 6 CROATIA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="94d8765fbefce136e760eaea5903f7af" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : San Francisco Giants vs Washington Nationals (MLB LEAGUE PASS)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="94d8765fbefce136e760eaea5903f7af" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : San Francisco Giants vs Washington Nationals (NBCS BAY AREA USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="b3d28c09a320dffdf722157dd1698609" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament: Nebraska vs Tennessee (ESPN2 USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="09130ad842f064c4aff281a2aa344870" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball ACC Tournament: Boston College vs North Carolina (ACC NETWORK USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjY0L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="be7399d367219c1c8a1f078f50e93293" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball Big Ten Tournament: Nebraska vs Oregon (BTN USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zOTcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="09130ad842f064c4aff281a2aa344870" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball ACC Tournament: Boston College vs North Carolina (ACC NETWORK USA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjY0L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="b3d28c09a320dffdf722157dd1698609" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament: Nebraska vs Tennessee (ESPN2 USA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="36a2496b40d6c1b4a5a6f6f5e044ff6d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Tampa Bay Rays vs Toronto Blue Jays (MLB LEAGUE PASS)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="36a2496b40d6c1b4a5a6f6f5e044ff6d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Tampa Bay Rays vs Toronto Blue Jays (TNT SPORTS 2 UK)
@@ -125,12 +125,12 @@ https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="8017ffa93515d1de46e32959c5021170" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament: Florida vs. Georgia (ESPN USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="6eb7018aa85e4a69bb943665c0a74047" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball ACC Tournament First Semifinal: Clemson vs. Georgia Tech (ACC NETWORK USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjY0L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="c2c77784e13fc2932505110ae181013f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament: South Carolina vs UCLA (ESPN USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="d90ed2961663d0ba1e611796a02d6217" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball SEC Tournament First Semifinal: Tennessee vs. Vanderbilt (SEC NETWORK USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="6eb7018aa85e4a69bb943665c0a74047" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball ACC Tournament First Semifinal: Clemson vs. Georgia Tech (ACC NETWORK USA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjY0L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="20cd7ca7027ab7163f1ddcdcde003a20" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Minnesota Twins vs Kansas City Royals (MLB LEAGUE PASS)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="20cd7ca7027ab7163f1ddcdcde003a20" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Minnesota Twins vs Kansas City Royals (VODAFONE SPORT)
@@ -171,28 +171,28 @@ https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wc
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="f771ede496875afba95f96130e28ffa3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Atlanta Braves vs San Diego Padres (MLB LEAGUE PASS)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="041a7d65f345b72fffc852fb98e8600d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Seattle Mariners (MLB LEAGUE PASS)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="8cd8efd424b23694d655ca027e1a582b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Chicago White Sox vs Texas Rangers (MLB LEAGUE PASS)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="041a7d65f345b72fffc852fb98e8600d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Seattle Mariners (MLB LEAGUE PASS)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTkvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="e54d9ede1050e9dedf12509fd3b8646b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Colorado Rockies vs New York Yankees (MLB LEAGUE PASS)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="7e3bd89809e303fe2a93327da52117ac" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Cincinnati Reds vs Chicago Cubs (MARQUEE SPORTS NETWORK)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="1d747992f555de102794b95a2fcc4c07" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Baltimore Orioles (TNT SPORTS 1 UK)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="041a7d65f345b72fffc852fb98e8600d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Seattle Mariners (ROOT SPORTS NW USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="7e3bd89809e303fe2a93327da52117ac" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Cincinnati Reds vs Chicago Cubs (MARQUEE SPORTS NETWORK)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="8cd8efd424b23694d655ca027e1a582b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Chicago White Sox vs Texas Rangers (CHICAGO SPORTS NETWORK)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NzYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="041a7d65f345b72fffc852fb98e8600d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Seattle Mariners (ROOT SPORTS NW USA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIwL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="e54d9ede1050e9dedf12509fd3b8646b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Colorado Rockies vs New York Yankees (YES USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="1d747992f555de102794b95a2fcc4c07" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Baltimore Orioles (FOX SPORTS 1 USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="041a7d65f345b72fffc852fb98e8600d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Seattle Mariners (SPACE CITY HOME NETWORK)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIxL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="e54d9ede1050e9dedf12509fd3b8646b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Colorado Rockies vs New York Yankees (SPORTSNET 360)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MDkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="041a7d65f345b72fffc852fb98e8600d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Seattle Mariners (SPACE CITY HOME NETWORK)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIxL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="1d747992f555de102794b95a2fcc4c07" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Baltimore Orioles (FOX SPORTS 1 USA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="1d747992f555de102794b95a2fcc4c07" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Baltimore Orioles (MASN USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtODI5L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="1d747992f555de102794b95a2fcc4c07" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Baltimore Orioles (NESN USA)
@@ -207,26 +207,26 @@ https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzY0L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="fc81ecd7b5ce9987c04ae51634de2fe7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball : Big Ten Tournament Second Semifinal: Teams TBA (BTN USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zOTcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e321325c52e1e4aca6e5f7dc0d97565a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament Super Regional: Teams TBA (ESPN USA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="67a258033b577b21a4a0513a4b488901" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Baseball Big 12 Tournament Championship: Teams TBA (ESPNU USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTYvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="e321325c52e1e4aca6e5f7dc0d97565a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament Super Regional: Teams TBA (ESPN2 USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="e321325c52e1e4aca6e5f7dc0d97565a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",College Softball NCAA Tournament Super Regional: Teams TBA (ESPN USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="36a2496b40d6c1b4a5a6f6f5e044ff6d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Tampa Bay Rays vs Toronto Blue Jays (MLB LEAGUE PASS)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="6e8d1a625b6d8aeb593dacfe3090ab82" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Detroit Tigers vs Cleveland Guardians (MLB LEAGUE PASS)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="641e383fa81318ca3a6ed9857503ac5a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Los Angeles Dodgers (MLB LEAGUE PASS)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="6e8d1a625b6d8aeb593dacfe3090ab82" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Detroit Tigers vs Cleveland Guardians (MLB LEAGUE PASS)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="36a2496b40d6c1b4a5a6f6f5e044ff6d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Tampa Bay Rays vs Toronto Blue Jays (BALLY SPORTS SUN)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MDUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="641e383fa81318ca3a6ed9857503ac5a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Los Angeles Dodgers (FOX USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01NC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="36a2496b40d6c1b4a5a6f6f5e044ff6d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Tampa Bay Rays vs Toronto Blue Jays (SPORTSNET ONE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="641e383fa81318ca3a6ed9857503ac5a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Los Angeles Dodgers (FOXNY USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="36a2496b40d6c1b4a5a6f6f5e044ff6d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Tampa Bay Rays vs Toronto Blue Jays (SPORTSNET ONE)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="641e383fa81318ca3a6ed9857503ac5a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Los Angeles Dodgers (TNT SPORTS 2 UK)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="641e383fa81318ca3a6ed9857503ac5a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Los Angeles Dodgers (FOX DEPORTES)
