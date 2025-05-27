@@ -1,316 +1,82 @@
 #EXTM3U url-tvg="https://github.com/pigzillaaaaa/daddylive/raw/refs/heads/main/epgs/daddylive-events-epg.xml"
-#EXTINF:-1 tvg-id="c6a5227aceaee463f6f21edb3182ca6e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Vietnam V.League 1 : Dong Nai vs Phu Dong (VTV5)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="eefdcc9e552b40bd8686f4ef919aaa00" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Vietnam V.League 1 : Song Lam Nghe An vs Nam Dinh (VTV5)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (SKY SPORTS FOOTBALL UK)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (SKY SPORTS MAIN EVENT UK)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (CBS SPORTS GOLAZO USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MTAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (SPORT TV1 PORTUGAL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (VODAFONE SPORT)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (ARENA 1 PREMIUM SERBIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (ARENA SPORT 2 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (COSMOTE SPORT 3 GREECE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjI0L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (V SPORT PREMIUM)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (ARENA 2 PREMIUM SERBIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (DIEMA SPORT 2 BULGARIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (BEIN SPORTS AUSTRALIA 3)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (BEIN SPORTS MENA 2)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (BEIN SPORTS MENA ENGLISH 1)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="e0eb706a47fd04d87961e008b26f031c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",England - League Two : AFC Wimbledon vs Walsall (SPORT 4 ISRAEL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="3761f8d272e9984ab3dccbc36ba94a89" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bulgaria - Parva Liga : Ludogorets vs Arda (DIEMA SPORT 3 BULGARIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="42ebff32e33183c1504264160b79980c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bulgaria - Parva Liga : Cherno More vs Levski Sofia (DIEMA SPORT BULGARIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="3761f8d272e9984ab3dccbc36ba94a89" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bulgaria - Parva Liga : Ludogorets vs Arda (SPORT KLUB 3 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="42ebff32e33183c1504264160b79980c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bulgaria - Parva Liga : Cherno More vs Levski Sofia (SPORT KLUB 2 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="393b9274064f831733c2c4f222eed8d5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Sweden - Superettan : Brage vs Utsikten (MAX EXTRA 3 SWEDEN)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="8d66ff02e4974d26c356d40431901c16" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Sweden - Superettan : Oddevold vs VÃ¤sterÃ¥s SK (MAX EXTRA 4 SWEDEN)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="fbd2cb4682d2ad3ebf14c85cf3dbe390" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Sweden - Superettan : Landskrona vs Falkenberg (MAX EXTRA 5 SWEDEN)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="1ce05d20b41d749f02fefc97e39f2f1b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Sweden - Superettan : UmeÃ¥ vs Ãrgryte (MAX EXTRA 6 SWEDEN)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="d426c302952844ff9c2f2f71a4d8ec65" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Sweden - Allsvenskan : NorrkÃ¶ping vs MjÃ¤llby (MAX EXTRA 2 SWEDEN)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="fe8a19f3ebf67e50b4f05620199492fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Austria - Football Bundesliga : LASK Linz vs Hartberg (SKY SPORT AUSTRIA 1)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NTkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="fbd269eaa95f831cd4583885675de913" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Romanian Superliga : Voluntari vs Unirea Slobozia (DIGI SPORT 1 ROMANIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAwL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="85aeae9d8b887aa6a944b3081c515272" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Hatayspor vs FenerbahÃ§e (BEIN SPORTS 1 TURKEY)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Mi9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="fe8a19f3ebf67e50b4f05620199492fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Austria - Football Bundesliga : LASK Linz vs Hartberg (ARENA SPORT 3 SERBIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MzEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="fbd269eaa95f831cd4583885675de913" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Romanian Superliga : Voluntari vs Unirea Slobozia (PRIMA SPORT 1 ROMANIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNTgzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="85aeae9d8b887aa6a944b3081c515272" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Hatayspor vs FenerbahÃ§e (BEIN SPORTS USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="fe8a19f3ebf67e50b4f05620199492fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Austria - Football Bundesliga : LASK Linz vs Hartberg (SPORT KLUB 3 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="85aeae9d8b887aa6a944b3081c515272" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Hatayspor vs FenerbahÃ§e (BEIN SPORTS EN ESPAÃOL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="85aeae9d8b887aa6a944b3081c515272" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Hatayspor vs FenerbahÃ§e (ARENA SPORT 2 SERBIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="fe8a19f3ebf67e50b4f05620199492fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Austria - Football Bundesliga : LASK Linz vs Hartberg (SPORT 5 STARS ISRAEL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="85aeae9d8b887aa6a944b3081c515272" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Hatayspor vs FenerbahÃ§e (BEIN SPORTS 3 FRANCE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="85aeae9d8b887aa6a944b3081c515272" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : Hatayspor vs FenerbahÃ§e (SPORT KLUB HD CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="65b29954a722b7e37e78dd8b2e07378e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Sweden - Allsvenskan : Hammarby vs Degerfors (MAX EXTRA 1 SWEDEN)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="b384c6d0658ae32ceb7e9d9d5faaa71c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bulgaria - Parva Liga : Beroe vs Spartak Varna (DIEMA SPORT 3 BULGARIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="13d27491acd9fa13e57649f3ca183724" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bulgaria - Parva Liga : Botev Plovdiv vs CSKA Sofia (DIEMA SPORT BULGARIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="b384c6d0658ae32ceb7e9d9d5faaa71c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bulgaria - Parva Liga : Beroe vs Spartak Varna (SPORT KLUB 8 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="13d27491acd9fa13e57649f3ca183724" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bulgaria - Parva Liga : Botev Plovdiv vs CSKA Sofia (SPORT KLUB 7 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="a93b28bf8cc65a8aace6fcbe12e11b6f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Ittifaq vs Al Wehda (SSC)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="511f405704690c9ab69519a73c094ce7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Riyadh vs Al-Ahli (SSC)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="880e47127bdf6baed39efef7defd1680" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Orubah vs Al Taawon (SSC)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="4c8b9982197dfe07acd4c54ce8bb26dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Hilal vs Al Quadisiya (SSC)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="2c5f7014c871f3786f1f7d0c1450ef96" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Simulcast (FOX SOCCER PLUS)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NTYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cb7364d3e588ef4c749553d2caab84f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Fateh vs Al Nassr (SSC)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="568734a9a49f13152c6630ff559ac845" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Raed vs Al Kholood (SSC)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="c7904ba91244806634cd6f6bf352583a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Ittihad vs Damac (SSC)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="8702c89a28a78ff850f157d7fb2f1cb4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Feiha vs Al Shabab (SSC)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="bd4e6bdb0b1266f9d53b67b6cef5937c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Khaleej vs Al Akhdoud (SSC)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="2c5f7014c871f3786f1f7d0c1450ef96" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Simulcast (MAX SPORT 3 BULGARIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NzQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="4c8b9982197dfe07acd4c54ce8bb26dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Hilal vs Al Quadisiya (SPORT TV6 PORTUGAL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cb7364d3e588ef4c749553d2caab84f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Fateh vs Al Nassr (VODAFONE SPORT)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="c7904ba91244806634cd6f6bf352583a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Ittihad vs Damac (FOX SOCCER PLUS)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NTYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cb7364d3e588ef4c749553d2caab84f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Fateh vs Al Nassr (DAZN2 DE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="c7904ba91244806634cd6f6bf352583a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Ittihad vs Damac (DAZN1 DE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="4c8b9982197dfe07acd4c54ce8bb26dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Hilal vs Al Quadisiya (POLSAT SPORT PREMIUM 1 POLAND)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cb7364d3e588ef4c749553d2caab84f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Fateh vs Al Nassr (SPORT TV1 PORTUGAL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="c7904ba91244806634cd6f6bf352583a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Ittihad vs Damac (SPORT TV3 PORTUGAL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="c7904ba91244806634cd6f6bf352583a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Ittihad vs Damac (POLSAT SPORT 3 POLAND)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cb7364d3e588ef4c749553d2caab84f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Fateh vs Al Nassr (POLSAT SPORT 2 POLAND)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="cb7364d3e588ef4c749553d2caab84f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Fateh vs Al Nassr (CANAL+ SPORT 360 FRANCE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="4c8b9982197dfe07acd4c54ce8bb26dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Hilal vs Al Quadisiya (COSMOTE SPORT 6 GREECE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjI3L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="4c8b9982197dfe07acd4c54ce8bb26dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Hilal vs Al Quadisiya (SPORT KLUB 4 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTA0L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="4c8b9982197dfe07acd4c54ce8bb26dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Hilal vs Al Quadisiya (ARENA SPORT 5 SERBIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTQwL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="c7904ba91244806634cd6f6bf352583a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Ittihad vs Damac (FOX DEPORTES)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="c7904ba91244806634cd6f6bf352583a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Ittihad vs Damac (ARENA SPORT 6 SERBIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTQxL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="c7904ba91244806634cd6f6bf352583a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Ittihad vs Damac (COSMOTE SPORT 8 GREECE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjI5L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="c7904ba91244806634cd6f6bf352583a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Ittihad vs Damac (SPORT KLUB 5 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cb7364d3e588ef4c749553d2caab84f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Fateh vs Al Nassr (ARENA SPORT 7 SERBIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTQyL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="cb7364d3e588ef4c749553d2caab84f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Fateh vs Al Nassr (CANAL+ SPORT 1 AFRIQUE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00ODYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cb7364d3e588ef4c749553d2caab84f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Fateh vs Al Nassr (COSMOTE SPORT 2 GREECE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjIzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="cb7364d3e588ef4c749553d2caab84f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - Pro League : Al Fateh vs Al Nassr (SPORT KLUB 1 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="d62cba36edc39d7fd79ab3c9e94bd3c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA U17 European Championship : Czechia U17 vs England U17 (SPORTDIGITAL FUSSBALL DE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (SKY SPORT BUNDESLIGA 1)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NTgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="0bbf24a159db1d78cb74441635800e97" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA U17 European Championship : Belgium U17 vs Italy U17 (BEIN SPORTS MENA 3)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="0bbf24a159db1d78cb74441635800e97" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA U17 European Championship : Belgium U17 vs Italy U17 (SPORT 2 ISRAEL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (SKY SPORTS+)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNi9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="d62cba36edc39d7fd79ab3c9e94bd3c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA U17 European Championship : Czechia U17 vs England U17 (BEIN SPORTS MENA 4)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (SKY SPORT TOP EVENT DE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTU2L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="d62cba36edc39d7fd79ab3c9e94bd3c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA U17 European Championship : Czechia U17 vs England U17 (SPORT 3 ISRAEL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (TIVIBU SPOR 1 TURKEY)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (ELEVEN SPORTS 2 POLAND)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03Mi9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (SKY SPORT CALCIO IT)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04NzAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (BEIN SPORTS 1 FRANCE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (CANAL+ SPORT 2 AFRIQUE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00ODcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (DIGI SPORT 3 ROMANIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAyL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (NOVA SPORTS 3 GREECE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjMzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (BEIN SPORTS AUSTRALIA 2)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (BEIN SPORTS 3 MALAYSIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzE0L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (DIEMA SPORT 2 BULGARIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NjYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (BEIN SPORTS 4 TURKEY)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Ny9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (MATCH! FUTBOL 3 RUSSIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (SPORTV2 BRAZIL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (ARENA PREMIUM 3 SERBIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (SPORT KLUB 2 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (BEIN SPORTS MENA 5)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="141a83e9d91971f841bf8dc2ffd0688b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga : Elversberg vs Heidenheim (SPORT 1 ISRAEL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="0af7e33da296a760e0685f289b13d1c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Scottish Premiership : Ross County vs Livingston (SKY SPORTS FOOTBALL UK)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="0af7e33da296a760e0685f289b13d1c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Scottish Premiership : Ross County vs Livingston (SKY SPORTS MAIN EVENT UK)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="0af7e33da296a760e0685f289b13d1c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Scottish Premiership : Ross County vs Livingston (DIGI SPORT 4 ROMANIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="0af7e33da296a760e0685f289b13d1c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Scottish Premiership : Ross County vs Livingston (ARENA SPORT 1 SERBIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MjkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="0af7e33da296a760e0685f289b13d1c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Scottish Premiership : Ross County vs Livingston (COSMOTE SPORT 7 GREECE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjI4L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="0af7e33da296a760e0685f289b13d1c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Scottish Premiership : Ross County vs Livingston (FOX SPORTS 2 ARGENTINA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03ODgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="0af7e33da296a760e0685f289b13d1c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Scottish Premiership : Ross County vs Livingston (BEIN SPORTS AUSTRALIA 3)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="0af7e33da296a760e0685f289b13d1c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Scottish Premiership : Ross County vs Livingston (ARENA SPORT 3 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="0af7e33da296a760e0685f289b13d1c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Scottish Premiership : Ross County vs Livingston (RING BG)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="0af7e33da296a760e0685f289b13d1c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Scottish Premiership : Ross County vs Livingston (SPORT 5 STARS ISRAEL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="dd87b1308f292f5e6f58e345fdf61862" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Brazil - Serie B : CriciÃºma vs Coritiba (ESPN BRAZIL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="d979ef31448643eb1784d15960932ce4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Campeonato Brasileiro De Futebol Sub-20 : Palmeiras vs Flamengo (SPORTV BRAZIL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="c4b77c001686dd836f8329e27f0585e2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Brazil - Serie B : Botafogo SP vs CRB (ESPN4 BRAZIL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04NS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="9134abdd607de8c69b1faa1e4956b2b7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Brazil - BrasileirÃ£o : RB Bragantino vs Juventude (PREMIERE BR)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04OC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="19903d7c7ad92de29a3e90ab7c305290" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Argentina - Primera Nacional : Quilmes vs San MartÃ­n TucumÃ¡n (TYC SPORTS ARGENTINA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NDYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="82c90d24230d5454b024e31abada5fd2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Chile - Primera Division : Audax Italiano vs Huachipato (TNT SPORTS PREMIUM CHILE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQyL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="829fff365f95f9c347d5ac2e93c2e018" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Botafogo vs Universidad Chile (SPORT TV2 PORTUGAL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="757343ea42a6c7674814c1c43b73e417" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : AmÃ©rica de Cali vs Racing (BEIN SPORTS MENA XTRA 1)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (BEIN SPORTS USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="d6d5d145c6043938480e669c847bbd00" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Estudiantes vs Carabobo (FOX SPORTS 2 ARGENTINA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03ODgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="829fff365f95f9c347d5ac2e93c2e018" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Botafogo vs Universidad Chile (SPORT TV2 PORTUGAL)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="9217493bd5ef725fb26505c0c99a7275" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : HuracÃ¡n vs Corinthians (SPORTDIGITAL FUSSBALL DE)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="35641ea938ba954ace064598f746ca92" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Independiente del Valle vs Barcelona (ESPN2 BRAZIL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04Mi9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (BEIN SPORTS EN ESPAÃOL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (BEIN SPORTS USA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="757343ea42a6c7674814c1c43b73e417" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : AmÃ©rica de Cali vs Racing (BEIN SPORTS MENA XTRA 1)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="d6d5d145c6043938480e669c847bbd00" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Estudiantes vs Carabobo (BEIN SPORTS AUSTRALIA 2)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="829fff365f95f9c347d5ac2e93c2e018" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Botafogo vs Universidad Chile (POLSAT SPORT 1 POLAND)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="9217493bd5ef725fb26505c0c99a7275" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : HuracÃ¡n vs Corinthians (SPORT TV4 PORTUGAL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yODkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="35641ea938ba954ace064598f746ca92" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Independiente del Valle vs Barcelona (BEIN SPORTS MENA ENGLISH 2)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (SPORTDIGITAL1+ DE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (BEIN SPORTS EN ESPAÃOL)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="d6d5d145c6043938480e669c847bbd00" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Estudiantes vs Carabobo (ESPN4 BRAZIL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04NS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="829fff365f95f9c347d5ac2e93c2e018" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Botafogo vs Universidad Chile (MAX SPORT 4 BULGARIA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="9217493bd5ef725fb26505c0c99a7275" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : HuracÃ¡n vs Corinthians (ESPN 1 NL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (SPORT TV3 PORTUGAL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (SPORTDIGITAL1+ DE)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQwL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="d6d5d145c6043938480e669c847bbd00" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Estudiantes vs Carabobo (BEIN SPORTS MENA 3)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="829fff365f95f9c347d5ac2e93c2e018" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Botafogo vs Universidad Chile (FOX SPORTS 3 ARGENTINA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzg5L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="9217493bd5ef725fb26505c0c99a7275" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : HuracÃ¡n vs Corinthians (COSMOTE SPORT 3 GREECE)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjI0L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (FOX SPORTS 1 ARGENTINA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03ODcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="829fff365f95f9c347d5ac2e93c2e018" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Botafogo vs Universidad Chile (FOX SPORTS 3 ARGENTINA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzg5L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (SPORT TV3 PORTUGAL)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="35641ea938ba954ace064598f746ca92" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Independiente del Valle vs Barcelona (ESPN2 BRAZIL)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04Mi9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="d6d5d145c6043938480e669c847bbd00" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Estudiantes vs Carabobo (SPORT 3 ISRAEL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (FOX SPORTS 1 ARGENTINA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03ODcvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="829fff365f95f9c347d5ac2e93c2e018" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Botafogo vs Universidad Chile (BEIN SPORTS AUSTRALIA 3)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="9217493bd5ef725fb26505c0c99a7275" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : HuracÃ¡n vs Corinthians (ESPN BRAZIL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (ARENA 2 PREMIUM SERBIA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="829fff365f95f9c347d5ac2e93c2e018" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Botafogo vs Universidad Chile (COSMOTE SPORT 2 GREECE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjIzL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="35641ea938ba954ace064598f746ca92" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Independiente del Valle vs Barcelona (BEIN SPORTS MENA ENGLISH 2)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MC9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="9217493bd5ef725fb26505c0c99a7275" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : HuracÃ¡n vs Corinthians (ESPN ARGENTINA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNDkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="829fff365f95f9c347d5ac2e93c2e018" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Botafogo vs Universidad Chile (COSMOTE SPORT 2 GREECE)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjIzL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (ARENA SPORT 3 CROATIA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzQvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="829fff365f95f9c347d5ac2e93c2e018" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Botafogo vs Universidad Chile (BEIN SPORTS MENA 2)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="9217493bd5ef725fb26505c0c99a7275" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : HuracÃ¡n vs Corinthians (BEIN SPORTS MENA 5)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="829fff365f95f9c347d5ac2e93c2e018" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Botafogo vs Universidad Chile (BEIN SPORTS MENA 2)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="9217493bd5ef725fb26505c0c99a7275" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : HuracÃ¡n vs Corinthians (SPORT 1 ISRAEL)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (ESPN2 MEXICO)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI2L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="829fff365f95f9c347d5ac2e93c2e018" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Botafogo vs Universidad Chile (SPORT 4 ISRAEL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="9217493bd5ef725fb26505c0c99a7275" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : HuracÃ¡n vs Corinthians (SPORT 1 ISRAEL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (BEIN SPORTS AUSTRALIA 1)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTEvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (BEIN SPORTS MENA 4)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="d3603e9d6b1e236a0d712d3171120a72" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : River Plate vs Universitario (SPORT 2 ISRAEL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="c14cc233b02648a0c938b1a6d594b0e3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Sweden - Superettan : Sandviken vs GIF Sundsvall (MAX EXTRA 2 SWEDEN)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="cb924037b7e1df5a78785fc64ae85a4d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Sweden - Superettan : Trelleborg FF vs Helsingborg (MAX EXTRA 1 SWEDEN)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="de6d6b692a8ba48a359f5ee2b8fd4ff6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Swiss Super League : Grasshopper Club ZÃ¼rich vs FC Aarau (BLUE SPORT D 1)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-id="c14cc233b02648a0c938b1a6d594b0e3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Sweden - Superettan : Sandviken vs GIF Sundsvall (MAX EXTRA 2 SWEDEN)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="2503a5ad5a37d151f1ad9dff446c73eb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga 2 : Eintracht Braunschweig vs SaarbrÃ¼cken (SKY SPORT BUNDESLIGA 1)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="de6d6b692a8ba48a359f5ee2b8fd4ff6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Swiss Super League : Grasshopper Club ZÃ¼rich vs FC Aarau (BLUE SPORT D 1)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="2503a5ad5a37d151f1ad9dff446c73eb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga 2 : Eintracht Braunschweig vs SaarbrÃ¼cken (VODAFONE SPORT)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="2503a5ad5a37d151f1ad9dff446c73eb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Bundesliga 2 : Eintracht Braunschweig vs SaarbrÃ¼cken (SKY SPORT TOP EVENT DE)
@@ -347,50 +113,50 @@ https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="a7dbf48ead794bed29d776f95e4d1884" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Campeonato Brasileiro De Futebol Sub-20 : Corinthians vs Santos (SPORTV BRAZIL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (FOX SPORTS 2 ARGENTINA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03ODgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="f542f3f6852b3ac3177c222d21c1130a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : LanÃºs vs Academia Puerto Cabello (BEIN SPORTS MENA XTRA 1)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDAvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="e365639df9fe90556630ea20d55b3103" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Libertad vs Alianza Lima (BEIN SPORTS USA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (FOX SPORTS 2 ARGENTINA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03ODgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="dd6b1155c9a69ce431c089d7cced3c27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : Vasco da Gama vs Melgar (SPORTDIGITAL FUSSBALL DE)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (SPORT TV1 PORTUGAL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="dd6b1155c9a69ce431c089d7cced3c27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : Vasco da Gama vs Melgar (SPORT TV2 PORTUGAL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="e365639df9fe90556630ea20d55b3103" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Libertad vs Alianza Lima (BEIN SPORTS EN ESPAÃOL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzIvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (ESPN2 MEXICO)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI2L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="dd6b1155c9a69ce431c089d7cced3c27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : Vasco da Gama vs Melgar (SPORT TV2 PORTUGAL)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (SPORT TV1 PORTUGAL)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="e365639df9fe90556630ea20d55b3103" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Libertad vs Alianza Lima (SPORTDIGITAL1+ DE)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQwL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="dd6b1155c9a69ce431c089d7cced3c27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : Vasco da Gama vs Melgar (ESPN2 ARGENTINA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xNTAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (BEIN SPORTS AUSTRALIA 2)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (ESPN2 MEXICO)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI2L21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="e365639df9fe90556630ea20d55b3103" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Libertad vs Alianza Lima (ARENA SPORT 3 CROATIA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="dd6b1155c9a69ce431c089d7cced3c27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : Vasco da Gama vs Melgar (MAX SPORT 4 BULGARIA)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (ESPN BRAZIL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MS9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="e365639df9fe90556630ea20d55b3103" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Libertad vs Alianza Lima (FOX SPORTS 3 ARGENTINA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzg5L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (BEIN SPORTS AUSTRALIA 2)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="dd6b1155c9a69ce431c089d7cced3c27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : Vasco da Gama vs Melgar (BEIN SPORTS AUSTRALIA 1)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="e365639df9fe90556630ea20d55b3103" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Libertad vs Alianza Lima (ARENA 2 PREMIUM SERBIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (BEIN SPORTS MENA 2)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e365639df9fe90556630ea20d55b3103" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Libertad vs Alianza Lima (FOX SPORTS 3 ARGENTINA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzg5L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (ESPN BRAZIL)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="dd6b1155c9a69ce431c089d7cced3c27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : Vasco da Gama vs Melgar (BEIN SPORTS MENA 3)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="e365639df9fe90556630ea20d55b3103" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Libertad vs Alianza Lima (ARENA 2 PREMIUM SERBIA)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="dd6b1155c9a69ce431c089d7cced3c27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : Vasco da Gama vs Melgar (SPORT 4 ISRAEL)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (BEIN SPORTS MENA 2)
+https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="e365639df9fe90556630ea20d55b3103" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Libertad vs Alianza Lima (ESPN4 BRAZIL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04NS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="00eaf17550fa09a6e937d5237d5bd307" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : SÃ£o Paulo vs Talleres CÃ³rdoba (SPORT 2 ISRAEL)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="dd6b1155c9a69ce431c089d7cced3c27" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Sudamericana : Vasco da Gama vs Melgar (SPORT 4 ISRAEL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="e365639df9fe90556630ea20d55b3103" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Libertad vs Alianza Lima (BEIN SPORTS AUSTRALIA 3)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTMvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="e365639df9fe90556630ea20d55b3103" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Copa Libertadores : Libertad vs Alianza Lima (BEIN SPORTS MENA ENGLISH 2)
