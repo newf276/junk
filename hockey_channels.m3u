@@ -1,40 +1,4 @@
 #EXTM3U url-tvg="https://github.com/pigzillaaaaa/daddylive/raw/refs/heads/main/epgs/daddylive-events-epg.xml"
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (HOME FEED)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (AWAY FEED)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (ESPN USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (VODAFONE SPORT)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (TVA SPORTS CA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODMzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (SPORTSNET EAST)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (SPORTSNET WEST)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (SPORTSNET ONTARIO)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDYvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (BEIN SPORTS 2 FRANCE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (ARENA SPORT 2 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (ESPN DEPORTES)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (ESPN 3 NL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04ODgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (TV3 SPORT DENMARK)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MDkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (SKY SPORT MIX DE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NTcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (SKY SPORT TOP EVENT DE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTU2L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (MAX SPORT 2 BULGARIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (ARENA PREMIUM 3 SERBIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="cbd91f68465e96501ff38fe6ae9d4f5d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Dallas Stars (V SPORT VINTER)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (HOME FEED)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (AWAY FEED)
