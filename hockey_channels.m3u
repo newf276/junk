@@ -1,36 +1,4 @@
 #EXTM3U url-tvg="https://github.com/pigzillaaaaa/daddylive/raw/refs/heads/main/epgs/daddylive-events-epg.xml"
-#EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (HOME FEED)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (AWAY FEED)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (TNT USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzgvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (TRUTV USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzQxL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (BEIN SPORTS 2 FRANCE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (MAX SPORT 2 BULGARIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (ARENA SPORT 2 CROATIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzMvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (TV3 SPORT DENMARK)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MDkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (ARENA PREMIUM 3 SERBIA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzkvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (SKY SPORT MIX DE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NTcvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (SKY SPORT TOP EVENT DE)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTU2L21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="ed39e855832f822b3959b9d9d678f60c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Carolina Hurricanes vs Florida Panthers (ESPN3 BRAZIL)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04My9tb25vLm0zdTg=.m3u8
-#EXTINF:-1 tvg-id="ea52564201ac9037878259c2e0d01480" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="ICE HOCKEY",Memorial Cup Hockey Semifinal: Moncton vs London Knight (NHL NETWORK USA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjYzL21vbm8ubTN1OA==.m3u8
-#EXTINF:-1 tvg-id="ea52564201ac9037878259c2e0d01480" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="ICE HOCKEY",Memorial Cup Hockey Semifinal: Moncton vs London Knight (TSN1)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTEvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="ea52564201ac9037878259c2e0d01480" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="ICE HOCKEY",Memorial Cup Hockey Semifinal: Moncton vs London Knight (TSN5)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTUvbW9uby5tM3U4.m3u8
-#EXTINF:-1 tvg-id="ea52564201ac9037878259c2e0d01480" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="ICE HOCKEY",Memorial Cup Hockey Semifinal: Moncton vs London Knight (RDS 2 CA)
-https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODQwL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="8044bf3ea9c875dcbba431263aecc824" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Dallas Stars vs Edmonton Oilers (HOME FEED)
 https://newf276-gtvhome.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb25vLm0zdTg=.m3u8
 #EXTINF:-1 tvg-id="8044bf3ea9c875dcbba431263aecc824" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Dallas Stars vs Edmonton Oilers (AWAY FEED)
