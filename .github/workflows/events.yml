@@ -35,8 +35,8 @@ jobs:
           git add hockey_channels.m3u
           git add soccer_channels.m3u
           git add mlb_channels.m3u
-          git rm original.m3u
-          git rm original_utf8.m3u
+          git rm -f original.m3u
+          git rm -f original_utf8.m3u
           git commit -m "Fetched and Updated Events Lists"
           git push
         env:
