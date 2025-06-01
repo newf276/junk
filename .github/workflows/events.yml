@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Download full channel list
-        run: curl -L -o original.m3u "https://newf276-gtvhome.hf.space/playlist/events"
+        run: curl -L -o original.m3u "https://daddylive-4o1o.onrender.com/playlist/events"
 
       - name: Convert file to UTF-8
         run: iconv -f ISO-8859-1 -t UTF-8 original.m3u -o original_utf8.m3u
@@ -32,7 +32,11 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add *.m3u
+          git add hockey_channels.m3u
+          git add soccer_channels.m3u
+          git add mlb_channels.m3u
+          git rm original.m3u
+          git rm original_utf8.m3u
           git commit -m "Fetched and Updated Events Lists"
           git push
         env:

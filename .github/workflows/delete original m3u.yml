@@ -1,0 +1,45 @@
+name: Remove Terraform File
+
+on:
+  push:
+    branches:
+      - main
+  
+permissions:
+  contents: write
+
+env:
+  TERRAFORM_FILE_PATH: ./terraform/resource.tf 
+
+jobs:
+  remove-file: 
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Azure Login
+      uses: azure/login@v1
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+    - name: Remove Terraform file
+      run: |
+        if [ -f ${{ env.TERRAFORM_FILE_PATH }} ]; then
+          rm ${{ env.TERRAFORM_FILE_PATH }}
+          echo "Terraform file removed."
+        else
+          echo "Terraform file not found."
+          exit  1
+        fi
+      shell: bash
+      
+    - name: Commit changes
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        git add ${{ env.TERRAFORM_FILE_PATH }}
+        git commit -m "Remove Terraform file"
+        git push
+      shell: bash
