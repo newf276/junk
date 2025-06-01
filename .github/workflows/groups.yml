@@ -32,7 +32,11 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add *.m3u
+          git add usa_channels.m3u
+          git add uk_channels.m3u
+          git add canada_channels.m3u
+          git rm -f original.m3u
+          git rm -f original_utf8.m3u
           git commit -m "Fetched and Updated Group Lists"
           git push
         env:
