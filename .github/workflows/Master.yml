@@ -1,0 +1,39 @@
+name: Master
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+      - name: config
+        run: |
+          git pull
+          git config --global user.email "newf@gmail.com"
+          git config --global user.name "newf276"
+      - name: generate
+        run: |
+          cd programme/home
+          pwd
+          echo "Installing dependencies..."
+          python3 -m pip install lxml pgzip requests
+          echo "Generating EPG..."
+          python3 -u index.py -zo master.xml --source="master.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+          python3 -u index.py --output master.xml --source="master.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+
+      - name: commit
+        run: |
+          git add -A
+          git commit -m "updated"
+          git push

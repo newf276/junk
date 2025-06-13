@@ -1,0 +1,10 @@
+{
+  "include": [
+    {
+      "name": "epg-xumo",
+      "site": "xumo.tv",
+      "lang": "en"
+    }
+  ]
+}
+
