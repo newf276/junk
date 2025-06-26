@@ -1,0 +1,49 @@
+name: amazon-epg-scraper
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
+jobs:
+  fetch_epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install curl_cffi pytz beautifulsoup4 httpx
+
+      - name: EPG Scraper for AMAZON US
+        run: |
+          curl -o amazon-epg-scraper.py "${{ secrets.AMAZON_EPG }}"
+
+      - name: Run the script
+        run: python amazon-epg-scraper.py
+
+      - name: EPG Scraper for AMAZON CA
+        run: |
+          curl -o amazon-ca-epg-scraper.py "${{ secrets.AMAZON_CA_EPG }}"
+
+      - name: Run the script
+        run: python amazon-ca-epg-scraper.py
+
+      - name: Commit and push the files
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          git add amazon-channel-map.json amazon-epg.xml amazon-ca-channel-map.json amazon-ca-epg.xml
+          git diff --staged --quiet || git commit -m "Update epg"
+          git push --force
+        
