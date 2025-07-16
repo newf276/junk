@@ -30,7 +30,7 @@ jobs:
         run: cd programme/home
         
       - name: 🔄 Run Tims247 playlist update script
-        run: python tim.py
+        run: python programme/home/tim.py
 
       - name: 🕒 Force-inject timestamp (ensures commit even if only URL changes)
         run: |
