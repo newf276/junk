@@ -24,8 +24,7 @@ jobs:
           python-version: '3.x'
 
       - name: 📦 Install dependencies
-        run: cd programme/home
-        run: pip install requests
+        run: cd programme/home pip install requests
 
       - name: 🔄 Run Tims247 playlist update script
         run: python tim.py
