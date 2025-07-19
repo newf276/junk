@@ -1,5 +1,5 @@
 master
-https://opop.pro/n8hV81PtgBQ5gZS/?days=2&xml=1
+https://opop.pro/12AF2kx1FQMyE1o/?days=2&xml=1
 
 parsed
 https://github.com/newf276/local-epg/raw/master/epg.xml.gz
